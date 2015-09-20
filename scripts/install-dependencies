@@ -1,15 +1,15 @@
 #!/usr/bin/env bash
+base_dir=$(pwd)
 
 # Install Jekyll and Ruby dependencies
 bundle install
 
-# Init Bourbon
-bundle exec bourbon install --path ./app/styles/vendors
-
-# Init Neat
+# Init Bourbon, Neat and Bittes
 cd ./app/styles/vendors
+bundle exec bourbon install
 bundle exec neat install
-
-# Init Bitters
-cd ./app/styles/vendors
 bundle exec bitters install
+
+# Make normalize.css importable
+cd "$base_dir"
+cp ./node_modules/normalize.css/normalize.css ./node_modules/normalize.css/normalize.scss

@@ -5,7 +5,7 @@
   "description": "Enregistrements audio de nos parties de jeu de rôle",
   "scripts": {
     "build": "brunch build",
-    "serve": "bundle exec jekyll serve || brunch watch",
+    "serve": "bundle exec jekyll serve & brunch watch",
     "install-dependencies": "./scripts/install-dependencies"
   },
   "repository": {
@@ -21,5 +21,8 @@
     "brunch": "1.8.5",
     "javascript-brunch": "1.7.1",
     "sass-brunch": "1.9.0"
+  },
+  "dependencies": {
+    "normalize.css": "3.0.3"
   }
 }
