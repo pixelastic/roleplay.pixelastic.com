@@ -1,8 +1,4 @@
 .DS_Store
-.hg
-.hgignore
-.sass-cache
-.svn
 .*.sw[a-z]
 Thumbs.db
 bower_components
@@ -13,4 +9,6 @@ tmp
 *~
 *.crcdownload
 *.orig
-__pycache__
+public
+app/assets
+app/styles/vendors

@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+# Install Jekyll and Ruby dependencies
+bundle install
+
+# Init Bourbon
+bundle exec bourbon install --path ./app/styles/vendors
+
+# Init Neat
+cd ./app/styles/vendors
+bundle exec neat install
+
+# Init Bitters
+cd ./app/styles/vendors
+bundle exec bitters install
