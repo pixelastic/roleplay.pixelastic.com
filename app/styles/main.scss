@@ -1,5 +1,10 @@
 // Normalize
-@import '../../node_modules/normalize.css/normalize';
+@import 'vendors/normalize/normalize';
+// Font Awesome
+$fa-font-path: "/fonts/font-awesome";
+@import 'vendors/font-awesome/variables';
+@import 'vendors/font-awesome/mixins';
+@import 'vendors/font-awesome/path';
 // Bourbon, Neat, Bitters
 @import 'vendors/bourbon/bourbon';
 @import 'grid-settings';
@@ -7,6 +12,8 @@
 @import 'vendors/base/base';
 
 @import 'base';
+@import 'fonts';
+
 @import 'header';
 @import 'hero';
 @import 'cards';
