@@ -15,6 +15,7 @@ $header-z-index: 999;
 
 .c-header__title {
   display: block;
+  float: left;
   font-family: CaslonAntiqueBold;
   height: $header-height;
   line-height: $header-height;
@@ -29,6 +30,22 @@ $header-z-index: 999;
   }
 }
 
-.o-outer-container {
-  @include outer-container;
+.c-header__menu {
+  float: right;
 }
+
+.c-header__menu-item {
+  display: inline-block;
+  height: $header-height;
+  line-height: $header-height;
+  padding-right:1em;
+  a {
+    color: $header-color;
+    padding-right:1em;
+    font-weight: 200;
+    &:hover {
+      color: white;
+    }
+  }
+}
+

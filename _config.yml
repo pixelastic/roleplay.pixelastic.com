@@ -1,5 +1,5 @@
 # Build options
-source: ./app/jekyll
+source: ./jekyll
 destination: ./app/assets
 timezone: "Europe/Paris"
 encoding: "utf-8"

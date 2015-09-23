@@ -1,7 +1,7 @@
 // Normalize
 @import 'vendors/normalize/normalize';
 // Font Awesome
-$fa-font-path: "/fonts/font-awesome";
+$fa-font-path: '/fonts/font-awesome';
 @import 'vendors/font-awesome/variables';
 @import 'vendors/font-awesome/mixins';
 @import 'vendors/font-awesome/path';
@@ -15,6 +15,7 @@ $fa-font-path: "/fonts/font-awesome";
 @import 'fonts';
 
 @import 'header';
-@import 'hero';
+@import 'player';
+
 @import 'cards';
 @import 'footer';
