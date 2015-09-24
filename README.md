@@ -15,6 +15,9 @@ and `js` files changes in `app/styles` and `app/scripts` to send them in
 Pris Jekyll, parce que connais bien. Pas essayé Middleman ou autre là. Je sais
 pas trop si je vais faire des pages, des posts, des datas. Mais Jekyll, sur.
 
+
+This is a PR test
+
 Petit projet, peu de pages, mais un but final de hoster les enregistrements
 audio des parties de jeu de role. Avance doucement mais surement, veut faire le
 mieux à chaque fois.
