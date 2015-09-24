@@ -2,7 +2,6 @@
   "name": "roleplay.pixelastic.com",
   "version": "1.0.0",
   "private": true,
-  "description": "Enregistrements audio de nos parties de jeu de rôle",
   "scripts": {
     "build": "brunch build",
     "serve": "bundle exec jekyll serve --baseurl='' & brunch watch",
