@@ -1,0 +1,13 @@
+$base-background: $dark-gray;
+$base-texture-top-color: lighten($base-background, 1%);
+$base-texture-bottom-color: darken($base-background, 10%);
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  @include background(url('/img/ui/texture_mooning.png'),
+    linear-gradient(180deg, $base-texture-top-color, $base-texture-bottom-color),
+    center no-repeat $base-texture-top-color scroll);
+}

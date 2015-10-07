@@ -1,0 +1,96 @@
+.c-cards {
+  @include display(flex);
+  @include flex-wrap(wrap);
+  @include justify-content(space-between);
+  padding-top: 1.5em;
+}
+
+$card-color: #333;
+$card-background-color: white !default;
+$card-border-radius: 3px !default;
+$card-border-color: gainsboro !default;
+$card-border: 1px solid $card-border-color;
+$card-spacing: 1.5em !default;
+$card-margin: 1em;
+$card-image-height: 5em;
+
+  $action-color: #477DCA !default;
+  $dark-gray: #333 !default;
+  $base-font-color: $dark-gray !default;
+  $card-background: lighten($card-border-color, 10%);
+  $card-header-background: $card-background;
+  $card-image-hover-opacity: .7;
+  $card-image-hover-color: #F8F2B4;
+
+
+.c-card {
+  @include flex-basis(15em);
+  @include flex-grow(1);
+  @include transition (all .2s ease-in-out);
+  padding-top: $card-image-height;
+  color: $card-color;
+  border-radius: $card-border-radius;
+  border: $card-border;
+  box-shadow: 0 2px 4px darken($card-background-color, 10%);
+  background-color: $card-background;
+  margin: 0 $card-margin $card-spacing $card-margin;
+  position: relative;
+
+
+
+  &:focus,
+  &:hover {
+    cursor: pointer;
+
+    img {
+      opacity: $card-image-hover-opacity;
+    }
+  }
+
+  &:active {
+    background-color: $card-background;
+
+    .card-header {
+      background-color: $card-background;
+    }
+  }
+}
+
+.c-card__title {
+  @include transition (all .2s ease-in-out);
+  background-color: $card-header-background;
+  border-bottom: $card-border;
+  border-radius: $card-border-radius $card-border-radius 0 0;
+  font-weight: bold;
+  line-height: 1.5em;
+  padding: ($card-spacing / 3) ($card-spacing / 2);
+}
+
+.c-card__description {
+  font-size: .9em;
+  line-height: 1.5em;
+  padding: ($card-spacing / 2) ($card-spacing / 2);
+
+  p {
+    margin: 0 0 ($card-spacing / 2);
+  }
+}
+
+
+
+  // .card-image {
+  //   overflow: hidden;
+  //   height: 150px;
+  //   max-height: 150px;
+  //   background-color: $card-image-hover-color;
+
+  //   img {
+  //     @include transition (all .2s ease-in-out);
+  //     border-top-left-radius: $card-border-radius;
+  //     border-top-right-radius: $card-border-radius;
+  //     width: 100%;
+  //     opacity: 1;
+  //   }
+  // }
+
+

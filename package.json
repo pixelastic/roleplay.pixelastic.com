@@ -1,0 +1,29 @@
+{
+  "name": "roleplay.pixelastic.com",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Enregistrements audio de nos parties de jeu de rôle",
+  "scripts": {
+    "build": "brunch build",
+    "serve": "bundle exec jekyll serve --baseurl='' & brunch watch",
+    "install-dependencies": "./scripts/install-dependencies"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:pixelastic/roleplay.pixelastic.com.git"
+  },
+  "author": "Tim Carry <tim@pixelastic.com> (http://www.pixelastic.com/)",
+  "bugs": {
+    "url": "https://github.com/pixelastic/roleplay.pixelastic.com/issues"
+  },
+  "homepage": "https://github.com/pixelastic/roleplay.pixelastic.com#readme",
+  "devDependencies": {
+    "brunch": "1.8.5",
+    "javascript-brunch": "1.7.1",
+    "sass-brunch": "1.9.0"
+  },
+  "dependencies": {
+    "font-awesome": "4.4.0",
+    "normalize.css": "3.0.3"
+  }
+}

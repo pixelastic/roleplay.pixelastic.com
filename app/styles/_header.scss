@@ -1,0 +1,51 @@
+$header-background: $dark-gray;
+$header-color: transparentize(white, .3);
+$header-color-hover: white;
+$header-height: 60px;
+$header-z-index: 999;
+
+.c-header {
+  background-color: $header-background;
+  border-bottom: 1px solid darken($header-background, 10);
+  color: $header-color;
+  height: $header-height;
+  width: 100%;
+  z-index: $header-z-index;
+}
+
+.c-header__title {
+  display: block;
+  float: left;
+  font-family: CaslonAntiqueBold;
+  height: $header-height;
+  line-height: $header-height;
+  margin: 0;
+  &:before {
+    @include fa-icon();
+    content: $fa-var-shield;
+    float: left;
+    height: $header-height;
+    line-height: $header-height;
+    padding: 0 1em;
+  }
+}
+
+.c-header__menu {
+  float: right;
+}
+
+.c-header__menu-item {
+  display: inline-block;
+  height: $header-height;
+  line-height: $header-height;
+  padding-right:1em;
+  a {
+    color: $header-color;
+    padding-right:1em;
+    font-weight: 200;
+    &:hover {
+      color: white;
+    }
+  }
+}
+
