@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 base_dir=$(pwd)
 
-Install Jekyll and Ruby dependencies
+# Install Jekyll and Ruby dependencies
 bundle install
 
 css_vendors=./app/styles/vendors
