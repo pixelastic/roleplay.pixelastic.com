@@ -22,7 +22,20 @@ $header-z-index: 999;
   line-height: $header-height;
   margin: 0;
   a {
+    position: relative;
+    padding-left: 64px;
     color: $light-green;
+    &:before {
+      content: "";
+      position: absolute;
+      left: 0;
+      background-position: top;
+      background-repeat: no-repeat;
+      background-size: contain;
+      background-image: url(/images/ui/favicon.png);
+      width: 64px;
+      height: 55px;
+    }
     &:hover {
       color: $orange;
     }

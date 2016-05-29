@@ -9,13 +9,15 @@ ignore '/partials/*'
 # Uncomment to debug builds, bypassing all image copy
 # ignore '/images/*'
 
-# Build a page for each game
-# data.index.each do |game_name|
-#   proxy "/#{game_name}.html",
-#         '/partials/game.html',
-#         locals: { game_name: game_name },
-#         ignore: true
-# end
+# Build a page for each session
+data.index.each do |game|
+  game.sessions.each do |session|
+    proxy "/#{game.slug}/#{session.slug}.html",
+          '/partials/session.html',
+          locals: { game: game, session: session },
+          ignore: true
+  end
+end
 
 configure :development do
   activate :livereload

@@ -14,10 +14,11 @@
 @import 'utils';
 @import 'fonts';
 
-@import 'layout';
 @import 'header';
+@import 'layout';
 
-@import 'sessions';
+@import 'session-list';
+@import 'session';
 // @import 'cards';
 
 // @import 'fancybox';

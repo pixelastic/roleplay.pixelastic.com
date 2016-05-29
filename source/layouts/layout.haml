@@ -11,7 +11,8 @@
     %link{rel: "shortcut icon", href: "/favicon.ico"}
 
   %body
-    %div.l-container
+    - background_picture = yield_content(:background_picture)
+    %div.l-container{style: "background-image:url(#{background_picture})"}
       %div.l-header
         =partial('partials/header')
 

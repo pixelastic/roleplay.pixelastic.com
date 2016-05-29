@@ -1,19 +1,19 @@
 ---
-title: Roleplay
 ---
+- content_for(:title, 'Roleplay')
 
 %div.c-games
   - data.index.each do |game|
     %div.c-game
       %h2= game.name
-      %div.c-sessions
+      %div.c-session-list
         - game.sessions.each do |session|
           - link = "/#{game.slug}/#{session.slug}.html"
           - picture = "/images/#{game.slug}/#{session.picture}"
           
-          %a.c-session{href: link}
-            %div.c-session--picture{style: "background-image: url(#{picture})"}
-            %div.c-session--details
-              %div.c-session--name= session.name
+          %a.c-session-item{href: link}
+            %div.c-session-item--picture{style: "background-image: url(#{picture})"}
+            %div.c-session-item--details
+              %div.c-session-item--name= session.name
               - if !session.description.nil?
-                %div.c-session--description= session.description
+                %div.c-session-item--description= session.description

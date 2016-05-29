@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+middleman build && \
+rsync \
+      --chmod=Du=rwx,Dg=rwx,Do=rx,Fu=rw,Fg=rw,Fo=r \
+      --verbose \
+      --archive \
+      --update \
+      --delete \
+      --prune-empty-dirs \
+      --copy-links \
+      --compress \
+      ./build/ \
+      pixelastic:/var/www/pixelastic.com/roleplay.pixelastic.com/

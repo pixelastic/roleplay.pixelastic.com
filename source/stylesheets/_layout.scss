@@ -1,6 +1,5 @@
 $base-texture-top-color: lighten($background, 1%);
 $base-texture-bottom-color: darken($background, 10%);
-$footer-height: 2rem;
 
 html,
 body {
@@ -14,14 +13,12 @@ body {
   @include background(url('/images/ui/texture.png'),
     linear-gradient(180deg, $base-texture-top-color, $base-texture-bottom-color),
     center no-repeat $base-texture-top-color scroll);
-  margin-bottom: -$footer-height;
-  min-height: 100%;
   padding-bottom: 3rem;
-  &:after {
-    content: '';
-    display: block;
-    height: $footer-height;
-  }
+  height: 100%;
+
+  background-position: 0 $header-height;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .l-header {
@@ -30,7 +27,3 @@ body {
 .l-content {
 }
 
-.l-footer {
-  height: $footer-height;
-  line-height: $footer-height;
-}
