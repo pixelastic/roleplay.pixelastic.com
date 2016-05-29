@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+# Listen to any change in ./javascripts/ and rebuild the javascript with babel
+# if something changes...
+# ...while running the Middleman server at the same time
+parallelshell \
+  "onchange 'javascripts/**/*.js' -- npm run build:js" \
+  "middleman serve"

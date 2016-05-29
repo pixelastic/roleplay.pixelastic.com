@@ -1,0 +1,10 @@
+// Overriding the default fancybox settings
+
+.fancybox-skin {
+  // Do not overlap the Youtube controls
+  .fancybox-nav {
+    top: 45px;
+    bottom: 150px;
+    height: auto;
+  }
+}

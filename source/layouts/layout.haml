@@ -1,0 +1,26 @@
+!!! 5
+%html
+  %head
+    %meta{charset: "utf-8"}
+    %meta{'http-equiv': "X-UA-Compatible", content: "IE=edge"}
+    %title
+      = yield_content(:title)
+    <meta name="description" content="Archives de nos parties de jeu de rôle">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    = stylesheet_link_tag :main
+    %link{rel: "shortcut icon", href: "/favicon.ico"}
+
+  %body
+    %div.l-container
+      -# %div.l-header
+      -#   =partial('partials/header')
+
+      -# %div.l-content
+      -#   %div.o-outer-container
+      -#     = yield
+
+      -# %div.l-footer
+      -#   =partial('partials/footer')
+
+    -# %script{src: '//cdn.jsdelivr.net/g/jquery@2.2.0,lodash@4.4.0,fancybox@2.1.5(jquery.fancybox.pack.js+helpers/jquery.fancybox-media.min.js),vvo-lazyload@2.0.5'}
+    %script{src: '/all.js'}

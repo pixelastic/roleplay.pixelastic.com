@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+babel \
+  ./javascripts/vendors/*.js \
+  ./javascripts/*.js \
+  --out-file ./source/all.js

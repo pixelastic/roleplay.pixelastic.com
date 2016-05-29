@@ -1,0 +1,37 @@
+$base-background: darken($white, 10%);
+$base-texture-top-color: lighten($base-background, 1%);
+$base-texture-bottom-color: darken($base-background, 10%);
+$footer-height: 2rem;
+
+html,
+body {
+  height: 100%;
+}
+
+// Main container that hold the header and content
+// Takes all the available height (minus the footer height)
+// Also adds an :after with the needed space
+.l-container {
+  @include background(url('/images/ui/texture.png'),
+    linear-gradient(180deg, $base-texture-top-color, $base-texture-bottom-color),
+    center no-repeat $base-texture-top-color scroll);
+  margin-bottom: -$footer-height;
+  min-height: 100%;
+  padding-bottom: 3rem;
+  &:after {
+    content: '';
+    display: block;
+    height: $footer-height;
+  }
+}
+
+.l-header {
+}
+
+.l-content {
+}
+
+.l-footer {
+  height: $footer-height;
+  line-height: $footer-height;
+}

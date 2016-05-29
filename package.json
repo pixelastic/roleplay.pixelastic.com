@@ -1,29 +1,39 @@
 {
   "name": "roleplay.pixelastic.com",
-  "version": "1.0.0",
+  "version": "0.0.1",
+  "description": "Archive de nos parties de jeu de role",
+  "author": "Tim \"pixelastic\" Carry",
   "private": true,
-  "description": "Enregistrements audio de nos parties de jeu de rôle",
-  "scripts": {
-    "build": "brunch build",
-    "serve": "bundle exec jekyll serve --baseurl='' & brunch watch",
-    "install-dependencies": "./scripts/install-dependencies"
-  },
   "repository": {
     "type": "git",
     "url": "ssh://git@github.com:pixelastic/roleplay.pixelastic.com.git"
   },
-  "author": "Tim Carry <tim@pixelastic.com> (http://www.pixelastic.com/)",
   "bugs": {
     "url": "https://github.com/pixelastic/roleplay.pixelastic.com/issues"
   },
-  "homepage": "https://github.com/pixelastic/roleplay.pixelastic.com#readme",
+  "engines": {
+    "node": "0.10.21",
+    "npm": "1.3.11"
+  },
+  "scripts": {
+    "postinstall": "./scripts/postinstall",
+    "build:js": "./scripts/build-js",
+    "build": "./scripts/build",
+    "serve": "./scripts/serve",
+    "deploy": "./scripts/deploy"
+  },
   "devDependencies": {
-    "brunch": "1.8.5",
-    "javascript-brunch": "1.7.1",
-    "sass-brunch": "1.9.0"
+    "babel": "^5.8.29",
+    "eslint": "^1.10.3",
+    "eslint-config-airbnb": "^2.1.1",
+    "eslint-config-algolia": "^4.5.0",
+    "eslint-plugin-algolia": "^1.5.0",
+    "eslint-plugin-react": "^3.11.3",
+    "onchange": "^2.0.0",
+    "parallelshell": "^2.0.0"
   },
   "dependencies": {
-    "font-awesome": "4.4.0",
     "normalize.css": "3.0.3"
   }
 }
+

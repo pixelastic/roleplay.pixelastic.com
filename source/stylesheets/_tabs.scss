@@ -1,0 +1,84 @@
+$color-active: $blue;
+$background-color: #DDD;
+$background-color-inactive: #FFF;
+
+$tab-border: 1px solid $color-active;
+
+$tab-content-background: lighten($background-color, 10);
+$tab-active-background: $tab-content-background;
+$tab-inactive-color: $base-background-color;
+$tab-inactive-hover-color: darken($light-gray, 5);
+
+$medium-screen: em(640);
+$base-border-radius: 3px;
+$base-spacing: 1.5em;
+$tab-mode: $medium-screen;
+
+.c-tabs {
+  @include clearfix;
+  line-height: 1.5;
+  padding: 0;
+}
+
+.c-tab {
+  list-style: none;
+
+  @include media($tab-mode) {
+    display: inline;
+  }
+}
+
+.c-tab .c-tab--radio {
+  display: none;
+}
+
+.c-tab--title {
+  background-color: $background-color-inactive;
+  border-top: $tab-border;
+  display: block;
+  padding: ($base-spacing / 2) $gutter;
+  text-decoration: none;
+  cursor: pointer;
+
+  @include media($tab-mode) {
+    display: inline-block;
+    border-top: 0;
+  }
+
+  &:hover {
+    color: $color-link;
+  }
+
+  &:focus {
+    outline: none;
+  }
+}
+
+.c-tab--content {
+  display: none;
+  padding: $base-spacing $gutter;
+  width: 100%;
+  margin-top: -6px;
+
+  @include media($tab-mode) {
+    border: $tab-border;
+    float: left;
+  }
+}
+
+// Selected tab
+.c-tab--radio:checked ~ .c-tab--title {
+  border-bottom: 0;
+  background-color: $background-color;
+  color: $color-active;
+
+  @include media($tab-mode) {
+    border: $tab-border;
+    border-bottom-color: $background-color;
+    margin-bottom: -1px;
+  }
+}
+.c-tab--radio:checked ~ .c-tab--content {
+  display: block;
+  background: $background-color;
+}

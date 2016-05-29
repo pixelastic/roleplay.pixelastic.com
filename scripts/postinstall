@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+base_dir=$(pwd)
+
+bundle install
+
+# Init Bourbon, Neat and Bitters
+css_vendors=./source/stylesheets/_vendors
+mkdir -p $css_vendors
+cd $css_vendors
+bundle exec bourbon install
+bundle exec neat install
+bundle exec bitters install
+
+# Make normalize.css importable
+cd "$base_dir"
+
+mkdir -p $css_vendors/normalize && \
+cp ./node_modules/normalize.css/normalize.css $css_vendors/normalize/normalize.scss && \
+echo "Add normalize to scss vendors"

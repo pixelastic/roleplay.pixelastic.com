@@ -1,0 +1,26 @@
+// Color palette from https://coolors.co/app/ffffff-00171f-003459-007ea7-00a8e8
+$white: #FFF;
+$dark-blue: #00171F;
+$blue: #003459;
+$light-blue: #00A8E8;
+$secondary-blue: #007EA7;
+
+$color-link: $light-blue;
+$color-link-hover: $blue;
+$color-text: transparentize(black, .3);
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: $color-text;
+}
+
+a {
+  color: $color-link;
+  &:hover {
+    color: $color-link-hover;
+  }
+}
+
