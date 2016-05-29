@@ -2,15 +2,18 @@
 title: Roleplay
 ---
 
-hahaha
-
--# %div.c-cards
--#   - data.index.each do |section_name|
--#     - section = data.send(section_name.to_sym)
--#     - cover = "/images/covers/#{section.slug}.jpg"
--#     - cover = cloudinary_thumbnail(cover) if build?
--#     - link = "/#{section.slug}.html"
--#     %a.c-card{href: link}
--#       %div.c-card--image{style: "background-image:url(#{cover});"}
--#       %div.c-card--name
--#         =section.name
+%div.c-games
+  - data.index.each do |game|
+    %div.c-game
+      %h2= game.name
+      %div.c-sessions
+        - game.sessions.each do |session|
+          - link = "/#{game.slug}/#{session.slug}.html"
+          - picture = "/images/#{game.slug}/#{session.picture}"
+          
+          %a.c-session{href: link}
+            %div.c-session--picture{style: "background-image: url(#{picture})"}
+            %div.c-session--details
+              %div.c-session--name= session.name
+              - if !session.description.nil?
+                %div.c-session--description= session.description

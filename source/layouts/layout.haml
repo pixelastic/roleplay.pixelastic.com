@@ -12,15 +12,12 @@
 
   %body
     %div.l-container
-      -# %div.l-header
-      -#   =partial('partials/header')
+      %div.l-header
+        =partial('partials/header')
 
-      -# %div.l-content
-      -#   %div.o-outer-container
-      -#     = yield
-
-      -# %div.l-footer
-      -#   =partial('partials/footer')
+      %div.l-content
+        %div.o-outer-container
+          = yield
 
     -# %script{src: '//cdn.jsdelivr.net/g/jquery@2.2.0,lodash@4.4.0,fancybox@2.1.5(jquery.fancybox.pack.js+helpers/jquery.fancybox-media.min.js),vvo-lazyload@2.0.5'}
     %script{src: '/all.js'}

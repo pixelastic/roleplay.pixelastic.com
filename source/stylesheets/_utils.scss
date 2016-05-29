@@ -2,13 +2,13 @@
 h2 {
   text-align: left;
   font-size: 3rem;
-  font-family: 'Orbitron';
+  font-family: 'Title';
   margin:1.5rem 0 1rem 0;
-  color: $dark-blue;
+  color: $dark-green;
   a {
-    color: $dark-blue;
+    color: $dark-green;
     &:hover {
-      color: $secondary-blue;
+      color: $light-green;
     }
   }
 }
@@ -16,11 +16,9 @@ h2 {
 h3 {
   text-align: left;
   font-size: 2rem;
-  font-family: 'Orbitron';
+  font-family: 'Title';
   margin:1.5rem 0 0 0;
   color: $color-text;
   padding-bottom: 0.5rem;
 }
 
-// .u-section-title {
-// }

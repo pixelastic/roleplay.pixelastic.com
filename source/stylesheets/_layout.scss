@@ -1,6 +1,5 @@
-$base-background: darken($white, 10%);
-$base-texture-top-color: lighten($base-background, 1%);
-$base-texture-bottom-color: darken($base-background, 10%);
+$base-texture-top-color: lighten($background, 1%);
+$base-texture-bottom-color: darken($background, 10%);
 $footer-height: 2rem;
 
 html,
