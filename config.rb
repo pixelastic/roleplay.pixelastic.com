@@ -28,4 +28,6 @@ end
 
 configure :development do
   activate :livereload
+  # Auto-reload when a change in /data occurs
+  set :reload_paths, [ "#{File.dirname __FILE__}/data" ]
 end

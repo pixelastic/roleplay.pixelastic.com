@@ -2,15 +2,12 @@ $header-background: $darker-green;
 $header-color: transparentize(white, .3);
 $header-color-hover: white;
 $header-height: 60px;
-$header-z-index: 999;
 
 .c-header {
   background-color: $header-background;
   border-bottom: 1px solid darken($header-background, 10);
   color: $header-color;
   height: $header-height;
-  width: 100%;
-  z-index: $header-z-index;
 }
 
 .c-header--title {

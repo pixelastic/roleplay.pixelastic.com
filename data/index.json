@@ -5,11 +5,47 @@
     "sessions": [
       {
         "name": "Sur la route de Nuln",
-        "description": "",
+        "description": "Nos PJs se rencontrent et font la route ensemble jusque Nuln. Ils combattent des hommes-betes en chemin et trouvent un étrange paquet une fois en ville.",
         "slug": "Sur_la_route_de_Nuln",
         "picture": "route_nuln.jpg",
-        "recap": "warhammer/2013_09_18_Vers_Nuln"
+        "recap": "warhammer/2013_09_18_Vers_Nuln",
+        "date": "2013-09-18"
       },
+      {
+        "name": "Club de Conteurs",
+        "description": "Invités à rencontrer la nobilité, nos PJs se retrouvent à raconter des histoires au coin du feu. Mais le devoir, et un prêtre de Morr, les appelle et ils s'engouffrent dans le caveau Magdenberg à la recherche du corps de Johann Gespentz.",
+        "slug": "Club_de_Conteurs",
+        "picture": "conteurs.jpg",
+        "recap": "warhammer/2013_10_11_Club_de_Conteurs",
+        "date": "2013-10-11"
+      },
+      {
+        "name": "Le tombeau Magdenberg",
+        "description": "Nos PJs partent à la recherche de Johan Gespentz. En explorant le tombeau abandonné de la famille Magdenberg, ils tombent sur un repaire de Goules et un temple de Morr abandonné. Arrivés au dernier sous-sol, ils affrontent le Revenant qui garde les lieux.",
+        "slug": "Le_tombeau_Magdenberg",
+        "picture": "tombeau_magdenberg.jpg",
+        "recap": "warhammer/2013_11_06_Tombeau_Magdenberg",
+        "date": "2013-11-06"
+      },
+      {
+        "name": "Entrée dans le complexe Skaven",
+        "description": "Ayant enfin démélé l'histoire de Johann Gespentz, nos PJs remontent à la surface. Mais ils replongent rapidement dans les profondeur, pour chercher à retrouver Frère Balthazar et Sœur Clarisse qui sont portés disparus.",
+        "slug": "Entree_dans_le_complexe_Skaven",
+        "picture": "complexe_skaven.jpg",
+        "recap": "warhammer/2013_11_12_Entree_Complexe_Skaven",
+        "date": "2013-11-12"
+      },
+      {
+        "name": "Fuite dans les égouts",
+        "description": "Mis à mal par un groupe de Skavens, nos PJs sont cloitrés dans les souterrain. Ils parviennent à s'enfuir par les égouts, non sans avoir détruit au passage une raffinerie de Malepierre.",
+        "slug": "Fuite_dans_les_egouts",
+        "picture": "fuite_egouts.jpg",
+        "recap": "warhammer/2013_11_19_Fuite_dans_les_egouts",
+        "date": "2013-11-19"
+      },
+
+
+
       {
         "name": "Au manoir de Schaffer",
         "slug": "01_Au_manoir_de_Schaffer",

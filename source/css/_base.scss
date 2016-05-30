@@ -9,7 +9,13 @@ $orange: #E55812;
 $color-link: $dark-green;
 $color-link-hover: $orange;
 $color-text: transparentize(black, .1);
-$color-text-inverted: transparentize(white, .2);
+$color-text-inverted: darken(white, 40%);
+
+$breakpoint-tablet: 568px;
+
+$z-index-header: 1000;
+$z-index-hero: 100;
+$z-index-content: 500;
 
 * {
   box-sizing: border-box;

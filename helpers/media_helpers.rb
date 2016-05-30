@@ -5,7 +5,7 @@ module MediaHelpers
   end
 
   def cloudinary_thumbnail(url)
-    cloudinary(url, %w(w_200 q_100 c_scale f_auto))
+    cloudinary(url, %w(w_400 q_100 c_scale f_auto))
   end
 
   def cloudinary_image(url)
