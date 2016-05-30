@@ -1,7 +1,10 @@
 .c-session--title {
   color: darken(white, 25%);
   text-shadow: 2px 4px lighten(black, 10%);
-  font-size: 4rem;
+  font-size: 3rem;
+  @media(min-width: $breakpoint-tablet) {
+    font-size: 4rem;
+  }
 }
 
 .c-session--text-wrapper {
