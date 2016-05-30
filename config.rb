@@ -5,6 +5,13 @@ page '/*.txt', layout: false
 
 # Do not build partials
 ignore '/partials/*'
+# Do not build the images sources
+ignore '/img/sources/*'
+
+# Shorter dir names in ./source
+set :js_dir, 'js'
+set :css_dir, 'css'
+set :images_dir, 'img'
 
 # Uncomment to debug builds, bypassing all image copy
 # ignore '/images/*'

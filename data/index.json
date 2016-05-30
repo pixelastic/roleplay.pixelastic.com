@@ -4,64 +4,87 @@
     "slug": "warhammer",
     "sessions": [
       {
+        "name": "Sur la route de Nuln",
+        "description": "",
+        "slug": "Sur_la_route_de_Nuln",
+        "picture": "route_nuln.jpg",
+        "recap": "warhammer/2013_09_18_Vers_Nuln"
+      },
+      {
         "name": "Au manoir de Schaffer",
         "slug": "01_Au_manoir_de_Schaffer",
         "description": "Nos PJs entrent de nuit au sein du Manoir de Schaffer. Depuis le jardin jusqu'aux différentes pièces, ils auront leur lot de découvertes macabres et finiront par quitter les lieux avant que le batiment ne brûle.",
-        "picture": "manoir_schaffer.jpg"
+        "picture": "manoir_schaffer.jpg",
+        "podcast": "/podcasts/warhammer/01_Au_manoir_de_Schaffer.mp3"
       },
       {
         "name": "J'ai accepté par erreur ton invitation",
         "slug": "02_J_ai_accepte_par_erreur_ton_invitation",
         "picture": "invitation.jpg",
-        "description": "Le bal de la Comtesse à lieu demain, mais tous nos PJs n'ont pas encore leurs invitations. Tous les moyens sont bons pour obtenir le précieux papier."
+        "description": "Le bal de la Comtesse à lieu demain, mais tous nos PJs n'ont pas encore leurs invitations. Tous les moyens sont bons pour obtenir le précieux papier.",
+        "podcast": "/podcasts/warhammer/02_J_ai_accepte_par_erreur_ton_invitation.mp3"
       },
       {
         "name": "Le bal de la Comtesse",
         "slug": "03_Le_bal_de_la_Comtesse",
         "picture": "bal_comtesse.jpg",
-        "description": "Nos PJs ont réussi à entrer au bal de la Comtesse, mais des feux se déclenchent en ville et une émeute éclate. Sous l'orage, le groupe est séparé en deux. Pendant qu'une partie récupère l'Étoile du Matin, l'autre tente de survivre."
+        "description": "Nos PJs ont réussi à entrer au bal de la Comtesse, mais des feux se déclenchent en ville et une émeute éclate. Sous l'orage, le groupe est séparé en deux. Pendant qu'une partie récupère l'Étoile du Matin, l'autre tente de survivre.",
+        "podcast": "/podcasts/warhammer/03_Le_bal_de_la_Comtesse.mp3"
       },
       {
         "name": "La fuite en ballon",
         "slug": "04_La_fuite_en_ballon",
         "picture": "airship.jpg",
-        "description": "Alors que la situation semble sans issue, Kugelschreiber arrive avec son engin volant et les PJs grimpent à bord. Ils doivent traverser l'orage à bord de l'engin branlant jusque la tour de l'académie militaire."
+        "description": "Alors que la situation semble sans issue, Kugelschreiber arrive avec son engin volant et les PJs grimpent à bord. Ils doivent traverser l'orage à bord de l'engin branlant jusque la tour de l'académie militaire.",
+        "podcast": "/podcasts/warhammer/04_La_fuite_en_ballon.mp3"
       },
       {
         "name": "Bataille au sommet",
         "slug": "05_Bataille_au_sommet",
         "picture": "bataille_sommet.jpg",
-        "description": "Écrasés dans la tour, les PJs vont devoir livrer le combat final contre Schaffer et ses gardes au sommet de la tour pour enfin détruire le coffre."
+        "description": "Écrasés dans la tour, les PJs vont devoir livrer le combat final contre Schaffer et ses gardes au sommet de la tour pour enfin détruire le coffre.",
+        "podcast": "/podcasts/warhammer/05_Bataille_au_sommet.mp3"
       },
       {
         "name": "Le monde est sauvé",
         "slug": "06_Le_monde_est_sauve",
         "picture": "victory.jpg",
-        "description": "Non sans mal, les PJs ont réussi à sauver la ville de la menace de Nurgle. Mais il faut maintenant traiter avec les survivants, nobles, halfelins, mafia et inquisiteurs."
+        "description": "Non sans mal, les PJs ont réussi à sauver la ville de la menace de Nurgle. Mais il faut maintenant traiter avec les survivants, nobles, halfelins, mafia et inquisiteurs.",
+        "podcast": "/podcasts/warhammer/06_Le_monde_est_sauve.mp3"
       },
       {
         "name": "Dans les décombres de Nuln",
         "slug": "07_Dans_les_decombres_de_Nuln",
         "picture": "decombres.png",
-        "description": "Consacrés héros de la ville, nos PJs règlent leurs dernières affaires à Nuln avant de quitter la ville."
+        "description": "Consacrés héros de la ville, nos PJs règlent leurs dernières affaires à Nuln avant de quitter la ville.",
+        "podcast": "/podcasts/warhammer/07_Dans_les_decombres_de_Nuln.mp3"
       },
       {
         "name": "Départ de Nuln",
         "slug": "08_Depart_de_Nuln",
         "picture": "docks.jpg",
-        "description": "Nos PJs quittent Nuln, à bord de l'Empereur Ludwig, un grand bateau de luxe. À bord, ils rencontrent de nombreux personnages qui semblent leur cacher des choses."
+        "description": "Nos PJs quittent Nuln, à bord de l'Empereur Ludwig, un grand bateau de luxe. À bord, ils rencontrent de nombreux personnages qui semblent leur cacher des choses.",
+        "podcast": "/podcasts/warhammer/08_Depart_de_Nuln.mp3"
       },
       {
         "name": "À bord de l'Empereur Ludwig",
         "slug": "09_A_bord_de_l_Empereur_Ludwig",
         "picture": "empereur_ludwig.jpg",
-        "description": "Le voyage à bord du bateau n'est pas de tout repos. Un assassinat à lieu durant la nuit, et les PJs tentent de l'élucider et de s'en sortir indemne."
+        "description": "Le voyage à bord du bateau n'est pas de tout repos. Un assassinat à lieu durant la nuit, et les PJs tentent de l'élucider et de s'en sortir indemne.",
+        "podcast": "/podcasts/warhammer/09_A_bord_de_l_Empereur_Ludwig.mp3"
       },
       {
         "name": "Résolution du Huis-Clos",
         "slug": "10_Resolution_du_Huis_Clos",
         "picture": "huis-clos.jpg",
-        "description": "Presque arrivés à Altdorf, nos PJs parviennent à déméler le vrai du faux de toutes les histoires. Personne n'était réellement qui il semblait être sur ce bateau."
+        "description": "Presque arrivés à Altdorf, nos PJs parviennent à déméler le vrai du faux de toutes les histoires. Personne n'était réellement qui il semblait être sur ce bateau.",
+        "podcast": "/podcasts/warhammer/10_Resolution_du_Huis_Clos.mp3"
+      }, {
+        "name": "Arrivée à Altdorf",
+        "description": "Arrivés à Altdorf, nos PJs enquetent sur le rapport Goffman, Ilyor fait des rêves étranges et ils rencontrent un joueur de flute au milieu de la nuit.",
+        "slug": "11_Arrivee_a_Altdorf",
+        "picture": "arrivee_altdorf.jpg",
+        "podcast": "/podcasts/warhammer/10_Resolution_du_Huis_Clos.mp3"
       }
     ]
   }

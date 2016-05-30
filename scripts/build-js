@@ -2,4 +2,4 @@
 babel \
   ./javascripts/vendors/*.js \
   ./javascripts/*.js \
-  --out-file ./source/all.js
+  --out-file ./source/js/all.js

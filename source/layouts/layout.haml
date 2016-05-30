@@ -7,12 +7,17 @@
       = yield_content(:title)
     <meta name="description" content="Archives de nos parties de jeu de rôle">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    %link{rel: "stylesheet", href: "https://cdn.jsdelivr.net/mediaelement/2.21.1/mediaelementplayer.min.css"}
     = stylesheet_link_tag :main
     %link{rel: "shortcut icon", href: "/favicon.ico"}
 
   %body
+
+    -# Add hero picture if one is defined
     - background_picture = yield_content(:background_picture)
-    %div.l-container{style: "background-image:url(#{background_picture})"}
+    %div.l-container{class: ('l-container__with-hero' unless background_picture.nil?),
+      style: ("background-image: url(#{background_picture})" unless background_picture.nil?)}
+
       %div.l-header
         =partial('partials/header')
 
@@ -20,5 +25,6 @@
         %div.o-outer-container
           = yield
 
-    -# %script{src: '//cdn.jsdelivr.net/g/jquery@2.2.0,lodash@4.4.0,fancybox@2.1.5(jquery.fancybox.pack.js+helpers/jquery.fancybox-media.min.js),vvo-lazyload@2.0.5'}
-    %script{src: '/all.js'}
+    %script{src: 'https://cdn.jsdelivr.net/g/lodash@4.13.1,jquery@3.0.0-rc1'}
+    %script{src: '/js/vendors/mediaelement-and-player.js'}
+    %script{src: '/js/all.js'}

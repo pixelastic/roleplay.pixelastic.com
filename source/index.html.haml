@@ -7,9 +7,10 @@
     %div.c-game
       %h2= game.name
       %div.c-session-list
-        - game.sessions.each do |session|
+        - game.sessions.reverse.each do |session|
           - link = "/#{game.slug}/#{session.slug}.html"
-          - picture = "/images/#{game.slug}/#{session.picture}"
+          - picture = "/img/#{game.slug}/#{session.picture}"
+          - picture = cloudinary_thumbnail(picture) if build?
           
           %a.c-session-item{href: link}
             %div.c-session-item--picture{style: "background-image: url(#{picture})"}

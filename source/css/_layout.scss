@@ -1,0 +1,39 @@
+$base-texture-top-color: lighten($background, 1%);
+$base-texture-bottom-color: darken($background, 10%);
+
+html,
+body {
+  height: 100%;
+}
+
+// Main textured background
+body {
+}
+
+
+// Can hold a hero picture for the sessions
+.l-container {
+  padding-bottom: 3rem;
+  min-height: 100%;
+  @include background(url('/img/ui/texture.png'),
+    linear-gradient(180deg, $base-texture-top-color, $base-texture-bottom-color),
+    center no-repeat $base-texture-top-color scroll);
+}
+
+// Hero picture that takes the whole background
+.l-container__with-hero {
+  background-position: 0 $header-height;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
+.l-header {
+}
+
+.l-content {
+  overflow-y: auto;
+  height: 100%;
+}
+

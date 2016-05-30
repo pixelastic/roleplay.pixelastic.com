@@ -1,13 +1,23 @@
 ---
 ---
-- picture = "/images/#{game.slug}/#{session.picture}"
+- picture = "/img/#{game.slug}/#{session.picture}"
+- picture = cloudinary_image(picture) if build?
 - content_for(:background_picture, picture)
 - content_for(:title, session.name)
 
 
-%h2= session.name
-=partial('partials/player')
-%p= session.description
+%h2.c-session--title= session.name
+
+- unless session.podcast.nil?
+  %div.c-session--text-wrapper
+    =partial('partials/player', locals: {game: game, session: session})
+
+%div.c-session--text-wrapper
+  - if session.recap.nil?
+    = session.description
+  - else
+    =partial("partials/recaps/#{session.recap}")
+
 
 -# %div{class: ".t-#{game.slug}"}
 -#   %h2
