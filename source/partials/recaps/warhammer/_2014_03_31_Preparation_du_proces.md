@@ -1,9 +1,10 @@
-Au lieu du procès de Kummetz, ce sont Cédric et Anandar qui vont être jugés
-pour complicité avec Kummetz, Allessandro et Von Friedrich.
+Alors qu'ils auraient du mener Kummetz à la barre pour son procès, ce sont deux
+de nos PJs qui se retrouvent jugés pour complicité avec Kummetz, pendant que les
+deux autres sont recherchés pour avoir aidé Kummetz à prendre la fuite.
 
-Ceux-ci sont séquestrés dans une base militaire en ville jusqu'au petit matin.
-Ils peuvent faire venir des amis et témoins pour leur servir lors du procès
-public du lendemain.
+Alessandro et Wolfgang ont le droit d'asile dans l'académie militaire en ville
+jusqu'au petit matin.  Ils peuvent faire venir des amis et témoins pour leur
+servir lors du procès public du lendemain.
 
 Magdenberg leur propose son aide, mais les PJs ne veulent pas s'en servir car
 il risquerait d'annoncer au monde qu'une liche est sans doute encore enfermée
@@ -13,7 +14,7 @@ Cédric est confiant en sa défense, il sait qu'il pourra se faire passer pour l
 pauvre gars au mauvais endroit au mauvais moment et qu'il pourra faire reposer
 la faute sur Von Friedrich.
 
-Anandar ne sait pas trop comment s'en sortir car le simple fait d'etre sorcier
+Anendar ne sait pas trop comment s'en sortir car le simple fait d'etre sorcier
 elfe le prédispose au bucher. Néanmoins, il écrit une lettre dans laquelle il
 stipule qu'il sait qu'il n'est pas coupable, mais qu'il sait aussi qu'il faut
 un bouc émissaire pour empecher la ville de sombrer dans le chaos et qu'il est
@@ -38,13 +39,13 @@ pas protéger trop longtemps les PJs.
 Allessandro prends Schultz a parti et lui explique globalement que Von
 Friedrich est un peu fou et qu'il a monté les gens les uns contre les autres.
 Il préfère s'en désolidariser et Schultz lui indique alors un passage secret où
-il peut s'enfuir, le même que Kummetz a du prendre, et qui emmene dans une
+il peut s'enfuir, le même que Kummetz a du prendre, et qui emmène dans une
 cachette où ils pourront se déguiser avant de refaire surface.
 
 Après discussion avec Schultz, Von Friedrich parvient à prendre le même passage
-secret qu'Allessandro. Les deux se retrouvent là bas et se grimment avant d'y
+secret qu'Allessandro. Les deux se retrouvent là bas et se griment avant d'y
 passer la nuit. Durant la nuit, un homme masqué vient les réveiller. Il cherche
-Von Friedrich et son garde du corps et il peut l'emmener dans un endroit sur.
+Von Friedrich et son garde du corps et il peut l'emmener dans un endroit sûr.
 
 Les deux PJs le suivent dans les égouts, ils traversent une bonne partie de la
 ville comme ça. Finalement l'homme leur demande de rentrer dans une salle, où

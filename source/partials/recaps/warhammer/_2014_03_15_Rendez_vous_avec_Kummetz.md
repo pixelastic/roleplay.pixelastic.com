@@ -64,15 +64,15 @@ saute alors dessus. La culpabilité de Kummetz ne fait alors plus aucun doute
 
 Kummetz et Kaltenbrunner sont tous les deux de très bons bretteurs, et
 esquivent et parent les coups. Allessandro se jette dans la bataille pour
-attaquer Kaltenbrunner, Cédric tente de s'interposer dans la bataille, Anandar
+attaquer Kaltenbrunner, Cédric tente de s'interposer dans la bataille, Anendar
 essaie de les désarmer avec ses sorts sans succès et Wolfgang tente de tirer
-dans le tas mais ne parvient qu'à tirer par la fenetre. Des gardes parviennent
+dans le tas mais ne parvient qu'à tirer par la fenêtre. Des gardes parviennent
 à rentrer dans la salle et prettent main-forte à Kummetz. Kaltenbrunner se
-réfugie dos à une fenetre et saute par la fenetre.
+réfugie dos à une fenêtre et saute par la fenêtre.
 
-Anandar saute à sa suite et l'attrape au vol tout en marchant dans les airs. Il
+Anendar saute à sa suite et l'attrape au vol tout en marchant dans les airs. Il
 souhaitait amortir se chute, mais Kaltenbrunner a cru qu'il l'attaquait et l'a
-repoussé. Cédric a aussi sauté par la fenetre et a réussi à atterir sans trop
+repoussé. Cédric a aussi sauté par la fenêtre et a réussi à atterir sans trop
 de mal. Kummetz de son coté a fui par une porte dérobée et deux gardes ont
 bloqués sa poursuite.
 
@@ -83,6 +83,9 @@ se barricade, en état de siège, avec Allessandro et Wolfgang encore
 à l'intérieur. Cédric parvient à se faufiler jusque Kaltenbrunner pour essayer
 de lui faire entendre raison mais celui-ci l'assome d'un coup de pommeau.
 
-Anandar quand à lui est accroché par deux hommes au milieu de la foule. Il
+Anendar quand à lui est accroché par deux hommes au milieu de la foule. Il
 tente de s'envoler mais n'y parviens pas. La foule fini par le rouer de coups
-et l'emmener, en sal état jusqu'à Kummetz.
+et l'emmener, en sale état jusqu'à Kummetz.
+
+La partie se termine donc avec Kummetz en fuite, Alessandro et Wolfgang dans
+l'académie, Cédric et Anandar en bas sur la place.
