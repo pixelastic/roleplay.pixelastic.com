@@ -1,3 +1,6 @@
+# Localized dates in french
+I18n.default_locale = :fr
+
 # With no layout
 page '/*.xml', layout: false
 page '/*.json', layout: false

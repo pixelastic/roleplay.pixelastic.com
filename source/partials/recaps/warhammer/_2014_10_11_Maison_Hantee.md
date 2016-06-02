@@ -3,14 +3,14 @@ Kugelschreiber. Ils donnent une arbalète à explosion à Wolfgang, mais gardent
 l'ensemble des autres objets pour eux (cocaïne, tisane, carreaux explosifs,
 bombes fumigènes).
 
-Ils montent enfin tous dans la nacelle, prete à décoller. Illyor et Alessandro
+Ils montent enfin tous dans la nacelle, prête à décoller. Illyor et Alessandro
 doivent activer le soufflet pour faire monter la nacelle correctement.
-Alessandro ne parvient pas à insuffler suffisemment de force dans le soufflet
+Alessandro ne parvient pas à insuffler suffisamment de force dans le soufflet
 et la nacelle grimpe en penchant dangereusement d'un coté.
 
 Ils sont obligé de partir, mais en étant déséquilibrés. Alessandro fait une
 partie du voyage en étant accroché à l'extérieur, simplement retenu par Illyor
-et Cédric. Il frole le mat d'un bateau dans le port, dérangeant quelques
+et Cédric. Il frôle le mat d'un bateau dans le port, dérangeant quelques
 mouettes au passage.
 
 Le reste du voyage se passe sans encombres, nos aventuriers quittant petit
@@ -33,7 +33,7 @@ avec lui 3 loups géants.
 
 Tout le monde cours pour se réfugier dans la maison. Cédric tente de se
 faufiler dans l'entrebaillement, mais même lui n'est pas assez fin. Alessandro
-parviennt juste à la faire pivoter sur ses gonds, dans un grands bruit de
+parvient juste à la faire pivoter sur ses gonds, dans un grand bruit de
 grincement. Illyor arrive à la charge et défonce la porte qui vient s'exploser
 contre le mur dans un grand fracas. Plus question d'être discret.
 
@@ -48,4 +48,4 @@ fantome de Maria Ott vient les rejoindre. Ils parviennent à peine à obtenir
 quelques renseignement d'elle ("Erik, oui, oui", "Rupert, non, non, non",
 "C'était son frère"). Ils ouvrent la porte de la cuisine derrière laquelle ils
 entendaient des bruits de métal, mais la referme bien vite devant la vision de
-la viande lacérée recouverte
+la viande lacérée recouverte de mouches.

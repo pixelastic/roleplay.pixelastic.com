@@ -18,3 +18,7 @@
               %div.c-session-item--name= session.name
               - if !session.description.nil?
                 %div.c-session-item--description= session.description
+              - if !session.date.nil?
+              - date = I18n.localize(Date.strptime(session.date, '%Y-%m-%d'), :format => "%-d %B %Y")
+                %div.c-session-item--date= date
+              

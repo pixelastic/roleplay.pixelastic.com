@@ -100,33 +100,41 @@
         "slug": "J_ai_accepte_par_erreur_ton_invitation",
         "picture": "invitation.jpg",
         "description": "Le bal de la Comtesse à lieu demain, mais tous nos PJs n'ont pas encore leurs invitations. Tous les moyens sont bons pour obtenir le précieux papier.",
-        "podcast": "/podcasts/warhammer/02_J_ai_accepte_par_erreur_ton_invitation.mp3"
+        "podcast": "/podcasts/warhammer/02_J_ai_accepte_par_erreur_ton_invitation.mp3",
+        "recap": "warhammer/2014_11_24_Invitations",
+        "date": "2014-11-24"
       }, {
         "name": "Le bal de la Comtesse",
         "slug": "Le_bal_de_la_Comtesse",
         "picture": "bal_comtesse.jpg",
         "description": "Nos PJs ont réussi à entrer au bal de la Comtesse, mais des feux se déclenchent en ville et une émeute éclate. Sous l'orage, le groupe est séparé en deux. Pendant qu'une partie récupère l'Étoile du Matin, l'autre tente de survivre.",
         "podcast": "/podcasts/warhammer/03_Bal_de_la_Comtesse.mp3",
-        "recap": "warhammer/2015_02_14_Final",
+        "recap": "warhammer/2015_02_14_Bal_Comtesse",
         "date": "2015-02-14"
       }, {
         "name": "La fuite en ballon",
         "slug": "La_fuite_en_ballon",
         "picture": "airship.jpg",
         "description": "Alors que la situation semble sans issue, Kugelschreiber arrive avec son engin volant et les PJs grimpent à bord. Ils doivent traverser l'orage à bord de l'engin branlant jusque la tour de l'académie militaire.",
-        "podcast": "/podcasts/warhammer/04_Fuite_en_ballon.mp3"
+        "podcast": "/podcasts/warhammer/04_Fuite_en_ballon.mp3",
+        "recap": "warhammer/2015_02_14_Fuite_ballon",
+        "date": "2015-02-14"
       }, {
         "name": "Bataille au sommet",
         "slug": "Bataille_au_sommet",
         "picture": "bataille_sommet.jpg",
         "description": "Écrasés dans la tour, les PJs vont devoir livrer le combat final contre Schaffer et ses gardes au sommet de la tour pour enfin détruire le coffre.",
-        "podcast": "/podcasts/warhammer/05_Bataille_au_sommet.mp3"
+        "podcast": "/podcasts/warhammer/05_Bataille_au_sommet.mp3",
+        "recap": "warhammer/2015_02_14_Bataille_sommet",
+        "date": "2015-02-14"
       }, {
         "name": "Le monde est sauvé",
         "slug": "Le_monde_est_sauve",
         "picture": "victory.jpg",
         "description": "Non sans mal, les PJs ont réussi à sauver la ville de la menace de Nurgle. Mais il faut maintenant traiter avec les survivants, nobles, halfelins, mafia et inquisiteurs.",
-        "podcast": "/podcasts/warhammer/06_Le_monde_est_sauve.mp3"
+        "podcast": "/podcasts/warhammer/06_Le_monde_est_sauve.mp3",
+        "recap": "warhammer/2015_02_14_monde_sauf",
+        "date": "2015-02-14"
       }, {
         "name": "Dans les décombres de Nuln",
         "slug": "Dans_les_decombres_de_Nuln",
@@ -157,14 +165,21 @@
         "picture": "huis-clos.jpg",
         "description": "Presque arrivés à Altdorf, nos PJs parviennent à déméler le vrai du faux de toutes les histoires. Personne n'était réellement qui il semblait être sur ce bateau.",
         "podcast": "/podcasts/warhammer/10_Resolution_du_Huis_Clos.mp3",
-        "recap": "warhammer/2015_06_25_Resolution_Huis_Clos",
+        "recap": "warhammer/2015_06_25_Resolution_Huis_clos",
         "date": "2015-06-25"
       }, {
         "name": "Arrivée à Altdorf",
         "description": "Arrivés à Altdorf, nos PJs enquetent sur le rapport Goffman, Ilyor fait des rêves étranges et ils rencontrent un joueur de flute au milieu de la nuit.",
         "slug": "Arrivee_a_Altdorf",
         "picture": "arrivee_altdorf.jpg",
-        "podcast": "/podcasts/warhammer/11_Arrivee_a_Altdorf.mp3"
+        "podcast": "/podcasts/warhammer/11_Arrivee_a_Altdorf.mp3",
+        "date": "2015-07-27"
+      }, {
+        "name": "Le Rapport Goffman",
+        "slug": "rapport_goffman",
+        "picture": "goffman.jpg",
+        "description": "Le contre-rapport a enfin lieu et la délibération est annoncée publiquement. Nos PJs enquetent sur Andersen et Vogel et finissent par se faire attaquer par des hommes métalliques masqués. Ils en apprennent plus sur leur dague et vont devoir quitter la ville.",
+        "date": "2016-01-08"
       }
     ]
   }

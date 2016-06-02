@@ -57,3 +57,9 @@ $session-picture-width: 200px;
   padding: 5px 5px 10px 0;
   margin-top: -5px;
 }
+.c-session-item--date {
+  color: lighten($color-text, 30%);
+  font-size: .8rem;
+  text-align: right;
+  padding-right: 5px;
+}
