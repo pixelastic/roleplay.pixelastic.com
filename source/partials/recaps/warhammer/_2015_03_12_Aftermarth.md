@@ -1,5 +1,5 @@
-Après avoir enfin réussi à sauver la ville, les PJs s'occupent de sécuriser la
-ville.
+Après avoir enfin réussi à sauver la ville, les PJs s'occupent de la sécuriser
+avant de la quitter.
 
 L'académie militaire est en ruine, la place devant est défoncée, le grand Orme
 est détruit. Le palais de la Comtesse est en morceau, une grande partie s'est
@@ -28,26 +28,26 @@ Les pretres de Morr, eux, tentent d'enterrer les cadavres, mais ne cherchent pas
 à les soigner s'ils sont clairement trop atteint. Au contraire, ils vont abréger
 leurs souffrances.
 
-Les pretresses de Shallya, elles, ont monté des tentes dans différents coins de
+Les prêtresses de Shallya, elles, ont monté des tentes dans différents coins de
 la ville pour venir en aide à tout ceux qui sont malades. Elles sont débordées
-et ne peuvent pas se déplacer, mais les pretres de Morr leur amenent des malades
+et ne peuvent pas se déplacer, mais les prêtres de Morr leur amenent des malades
 dès qu'ils peuvent.
 
-Les pretres guerriers de Sigmar par contre font un cordon autour des tentes et
-tuent ceux qu'ils jugent trop atteint. Les trois factions sont dans un climat de
-tension. En plus de cela la milice de la ville est en désordre car tous les
+Les prêtres guerriers de Sigmar par contre font un cordon autour des tentes et
+tuent ceux qu'ils jugent trop atteints. Les trois factions sont dans un climat
+de tension. En plus de cela la milice de la ville est en désordre car tous les
 hauts gradés sont de l'autre coté de la ville et il n'y a plus qu'un seul pont
 pour séparer les deux parties.
 
-Wolfgang tente de retourner le cerveau des pretres guerriers en leur disant que
+Wolfgang tente de retourner le cerveau des prêtres guerriers en leur disant que
 Kaltenbrunner est un traitre, mais il ne veut pas dire ça à un simple troufion
 et demande à voir leur chef. Quand il s'aperçoit que le chef n'est autre que
 Kaltenbrunner, il balance simplement qu'il faut faire attention à Skinner.
 
-Les joueurs parviennent à passer le pont en mettant une raclée aux petites
+Les joueurs parviennent à passer le pont en mettant une raclée aux petits
 brigands qui voulaient leur faire payer le passage. Ils convainquent ensuite
-quelques nobles et les représentant de plusieurs factions (Armée, Nobilité,
-Shallya, Morr, Sigmar et Halfelins) de fair eun gouvernement provisoire en
+quelques nobles et les représentants de plusieurs factions (Armée, Nobilité,
+Shallya, Morr, Sigmar et Halfelins) de faire un gouvernement provisoire en
 attendant que la Comtesse revienne.
 
 Pendant ce temps, le reste de l'équipe apprends qu'Alessandro était en fait un
