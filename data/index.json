@@ -180,6 +180,13 @@
         "picture": "goffman.jpg",
         "description": "Le contre-rapport a enfin lieu et la délibération est annoncée publiquement. Nos PJs enquetent sur Andersen et Vogel et finissent par se faire attaquer par des hommes métalliques masqués. Ils en apprennent plus sur leur dague et vont devoir quitter la ville.",
         "date": "2016-01-08"
+      }, {
+        "name": "Traversée du barrage",
+        "description": "Nos PJs partent enfin d'Altdorf, en suivant la direction indiquée par la dague. Ils laissent Cédric en ville mais rencontrent Karf. Pourchassé par un chien géant mort-vivant, ils fuient au travers d'un barrage Nain qui s'effondrera après leur passage.",
+        "slug": "traversee_du_barrage",
+        "picture": "barrage.jpg",
+        "podcast": "/podcasts/warhammer/13_Traversee_du_barrage.mp3",
+        "date": "2016-06-14"
       }
     ]
   }
