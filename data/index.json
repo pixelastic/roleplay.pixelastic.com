@@ -189,5 +189,19 @@
         "date": "2016-06-14"
       }
     ]
+  },
+  {
+    "name": "Shadowfell",
+    "slug": "shadowfell",
+    "sessions": [
+      {
+        "name": "Arrivée à Winterhaven",
+        "description": "Après une longue création de personnages, nos PJs affrontent une embuscade de kobolds. L'ancien mage du groupe parvient à en détruire une grande partie et ils terminent leur périple à Winterhaven.",
+        "slug": "arrivee_a_winterhaven",
+        "picture": "road.jpg",
+        "podcast": "/podcasts/shadowfell/01_Arrivee_a_Winterhaven.mp3",
+        "date": "2016-06-23"
+      }
+    ]
   }
 ]
