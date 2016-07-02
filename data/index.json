@@ -203,5 +203,20 @@
         "date": "2016-06-23"
       }
     ]
+  },
+  {
+    "name": "Doomstones",
+    "slug": "doomstones",
+    "sessions": [
+      {
+        "name": "Départ de Nuln",
+        "description": "Nos joueurs doivent ont tous de bonnes raisons de quitter la ville rapidement. Ils acceptent d'escorter le prince Maximilien vers les Sud, où son pays a besoin de lui. Fantomes, brigands et loups feront partis des embuches rencontrées en chemin.",
+        "slug": "depart_de_nuln",
+        "picture": "depart_de_nuln.jpg",
+        "recap": "doomstones/2016_07_01_Depart_de_Nuln",
+        "podcast": "/podcasts/doomstones/01_depart_de_nuln.mp3",
+        "date": "2016-07-01"
+      }
+    ]
   }
 ]
