@@ -9,7 +9,7 @@
 
 %h2.c-session--title= session.name
 
-- unless podcast.nil?
+- if podcast?(game, session)
   %div.c-session--text-wrapper
     %audio{class: 'js-player', src: podcast}
     %a{href: podcast} Télécharger le .mp3

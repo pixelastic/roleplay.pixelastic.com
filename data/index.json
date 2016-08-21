@@ -136,6 +136,14 @@
       {
         "name": "Entrée dans le donjon mécanique",
         "date": "2016-07-21"
+      },
+      {
+        "name": "Retour après activation des pièges",
+        "date": "2016-07-28"
+      },
+      {
+        "name": "Bataille contre le Golem",
+        "date": "2016-08-05"
       }
     ]
   }

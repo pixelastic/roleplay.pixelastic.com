@@ -81,9 +81,17 @@ helpers do
     File.join('..', *split[source_index..-1])
   end
 
+  # Check if session has a podcast
+  def podcast?(game, session)
+    filepath = File.expand_path(
+      "./source/#{session_path(game, session)}/podcast.mp3"
+    )
+    File.exist?(filepath)
+  end
+
   # Gets the filepath of podcast
   def session_podcast(game, session)
-    nil
+    "/#{session_path(game, session)}/podcast.mp3"
   end
 
   # Gets the first paragraph of notes of a session
