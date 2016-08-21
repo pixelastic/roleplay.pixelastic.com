@@ -5,188 +5,89 @@
     "sessions": [
       {
         "name": "Sur la route de Nuln",
-        "description": "Nos PJs se rencontrent et font la route ensemble jusque Nuln. Ils combattent des hommes-betes en chemin et trouvent un étrange paquet une fois en ville.",
-        "slug": "Sur_la_route_de_Nuln",
-        "picture": "route_nuln.jpg",
-        "recap": "warhammer/2013_09_18_Vers_Nuln",
         "date": "2013-09-18"
       }, {
         "name": "Club de Conteurs",
-        "description": "Invités à rencontrer la nobilité, nos PJs se retrouvent à raconter des histoires au coin du feu. Mais le devoir, et un prêtre de Morr, les appelle et ils s'engouffrent dans le caveau Magdenberg à la recherche du corps de Johann Gespentz.",
-        "slug": "Club_de_Conteurs",
-        "picture": "conteurs.jpg",
-        "recap": "warhammer/2013_10_11_Club_de_Conteurs",
         "date": "2013-10-11"
       }, {
         "name": "Le tombeau Magdenberg",
-        "description": "Nos PJs partent à la recherche de Johan Gespentz. En explorant le tombeau abandonné de la famille Magdenberg, ils tombent sur un repaire de Goules et un temple de Morr abandonné. Arrivés au dernier sous-sol, ils affrontent le Revenant qui garde les lieux.",
-        "slug": "Le_tombeau_Magdenberg",
-        "picture": "tombeau_magdenberg.jpg",
-        "recap": "warhammer/2013_11_06_Tombeau_Magdenberg",
         "date": "2013-11-06"
       }, {
         "name": "Entrée dans le complexe Skaven",
-        "description": "Ayant enfin démélé l'histoire de Johann Gespentz, nos PJs remontent à la surface. Mais ils replongent rapidement dans les profondeur, pour chercher à retrouver Frère Balthazar et Sœur Clarisse qui sont portés disparus.",
-        "slug": "Entree_dans_le_complexe_Skaven",
-        "picture": "complexe_skaven.jpg",
-        "recap": "warhammer/2013_11_12_Entree_Complexe_Skaven",
         "date": "2013-11-12"
       }, {
         "name": "Fuite dans les égouts",
-        "description": "Mis à mal par un groupe de Skavens, nos PJs sont cloitrés dans les souterrain. Ils parviennent à s'enfuir par les égouts, non sans avoir détruit au passage une raffinerie de Malepierre.",
-        "slug": "Fuite_dans_les_egouts",
-        "picture": "fuite_egouts.jpg",
-        "recap": "warhammer/2013_11_19_Fuite_dans_les_egouts",
         "date": "2013-11-19"
       }, {
         "name": "Colonie souterraine et artefacts volés",
-        "description": "Sur leur route vers la sortie, les PJs rencontrent une colonie souterraine de mutants, qui vivent selons les préceptes de Shallya. Après y avoir passé la nuit, ils rencontrent Ernst Kaltenbrunner, un Répurgateur. Ils enquetent avec lui rapidement et tombent sur une cave contenant des artefacts chaotiques et plusieurs cadavres.",
-        "slug": "Colonie_souterraine_et_artefacts_voles",
-        "picture": "colonie_et_artefacts.jpg",
-        "recap": "warhammer/2014_01_26_La_Colonie_et_les_artefacts_voles",
         "date": "2014-01-26"
       }, {
         "name": "Enquête sur les artefacts",
-        "description": "Nos PJs enquetent sur la Famille jusque dans les bas-fonds. Ils y trouvent un sectateur de Nurgle aux mains écorchées. Wolfgang se fait passer à tabac par des hommes de main de la Famille, mais ils obtiennent une audience auprès du Général Kummetz pour le lendemain.",
-        "slug": "Enquete_sur_les_artefacts",
-        "picture": "enquete_sur_les_artefacts.jpg",
-        "recap": "warhammer/2014_02_28_Enquete_sur_les_artefacts",
         "date": "2014-02-28"
       }, {
         "name": "Rendez-vous avec Kummetz",
-        "description": "La partie où tout a basculé. Kummetz ouvre le feu sur Kaltenbrunner, scelant ainsi sa culpabilité. Nos PJs sont séparés en deux groupes, ceux qui sont capturés et vont être jugés, et ceux qui s'enfuient et sont recherchés.",
-        "slug": "Rendez_vous_avec_Kummetz",
-        "picture": "rendez_vous_kummetz.jpg",
-        "recap": "warhammer/2014_03_15_Rendez_vous_avec_Kummetz",
         "date": "2014-03-15"
       }, {
         "name": "Préparation du procès",
-        "description": "Pendant qu'une partie de nos PJs prépare sa défense au procès, des dissenssions se créent dans l'autre groupe. Après avoir pris la fuite par un passage secret, ils tombent dans un piège et retrouvent les horribles vers blancs.",
-        "slug": "Preparation_du_proces",
-        "picture": "preparation_proces.jpg",
-        "recap": "warhammer/2014_03_31_Preparation_du_proces",
         "date": "2014-03-31"
       }, {
         "name": "Le Procès",
-        "description": "Cédric et Anendar sont jugés en public dans ce qui tourne rapidement à un procès du grand absent, Wolfgang Von Friedrich, la tête pensante du groupe. À l'issue du procès, le groupe est réduit d'un membre.",
-        "slug": "proces",
-        "picture": "proces.jpg",
-        "recap": "warhammer/2014_04_15_Proces",
         "date": "2014-04-15"
       }, {
         "name": "La vente aux enchères",
-        "description": "Déguisés, nos PJs rentrent dans la vente aux enchères, bien décidés à récupérer les artefacts du Chaos et la chevalière de Von Friedrich. La scène tourne au chaos quand deux autres acheteurs ouvrent le coffre maudit. L'un arrive à s'enfuir, mais l'autre leur indique pour qui ils travaillent.",
-        "slug": "vente_aux_encheres",
-        "picture": "encheres.jpg",
-        "recap": "warhammer/2014_05_27_Vente_aux_encheres",
         "date": "2014-05-27"
       }, {
         "name": "Kugelshreiber",
-        "description": "Petit passage à l'armurerie pour nos PJs, où Kugelschreiber, le savant fou des services secrets, les équipe de toutes sortes de gadgets en vue de leur prochaine mission.",
-        "slug": "kugelschreiber",
-        "picture": "kugelschreiber.jpg",
-        "recap": "warhammer/2014_09_10_Kugelshreiber",
         "date": "2014-09-10"
       }, {
         "name": "Au manoir de Schaffer",
-        "slug": "Au_manoir_de_Schaffer",
-        "description": "Nos PJs entrent de nuit au sein du Manoir de Schaffer. Depuis le jardin jusqu'aux différentes pièces, ils auront leur lot de découvertes macabres et finiront par quitter les lieux avant que le batiment ne brûle.",
-        "picture": "manoir_schaffer.jpg",
-        "podcast": "/podcasts/warhammer/01_Au_manoir_de_Schaffer.mp3",
-        "recap": "warhammer/2014_10_11_Maison_Hantee",
         "date": "2014-10-11"
       }, {
         "name": "J'ai accepté par erreur ton invitation",
-        "slug": "J_ai_accepte_par_erreur_ton_invitation",
-        "picture": "invitation.jpg",
-        "description": "Le bal de la Comtesse à lieu demain, mais tous nos PJs n'ont pas encore leurs invitations. Tous les moyens sont bons pour obtenir le précieux papier.",
-        "podcast": "/podcasts/warhammer/02_J_ai_accepte_par_erreur_ton_invitation.mp3",
-        "recap": "warhammer/2014_11_24_Invitations",
         "date": "2014-11-24"
       }, {
         "name": "Le bal de la Comtesse",
-        "slug": "Le_bal_de_la_Comtesse",
-        "picture": "bal_comtesse.jpg",
-        "description": "Nos PJs ont réussi à entrer au bal de la Comtesse, mais des feux se déclenchent en ville et une émeute éclate. Sous l'orage, le groupe est séparé en deux. Pendant qu'une partie récupère l'Étoile du Matin, l'autre tente de survivre.",
-        "podcast": "/podcasts/warhammer/03_Bal_de_la_Comtesse.mp3",
-        "recap": "warhammer/2015_02_14_Bal_Comtesse",
         "date": "2015-02-14"
       }, {
         "name": "La fuite en ballon",
-        "slug": "La_fuite_en_ballon",
-        "picture": "airship.jpg",
-        "description": "Alors que la situation semble sans issue, Kugelschreiber arrive avec son engin volant et les PJs grimpent à bord. Ils doivent traverser l'orage à bord de l'engin branlant jusque la tour de l'académie militaire.",
-        "podcast": "/podcasts/warhammer/04_Fuite_en_ballon.mp3",
-        "recap": "warhammer/2015_02_14_Fuite_ballon",
         "date": "2015-02-14"
       }, {
         "name": "Bataille au sommet",
-        "slug": "Bataille_au_sommet",
-        "picture": "bataille_sommet.jpg",
-        "description": "Écrasés dans la tour, les PJs vont devoir livrer le combat final contre Schaffer et ses gardes au sommet de la tour pour enfin détruire le coffre.",
-        "podcast": "/podcasts/warhammer/05_Bataille_au_sommet.mp3",
-        "recap": "warhammer/2015_02_14_Bataille_sommet",
         "date": "2015-02-14"
       }, {
         "name": "Le monde est sauvé",
-        "slug": "Le_monde_est_sauve",
-        "picture": "victory.jpg",
-        "description": "Non sans mal, les PJs ont réussi à sauver la ville de la menace de Nurgle. Mais il faut maintenant traiter avec les survivants, nobles, halfelins, mafia et inquisiteurs.",
-        "podcast": "/podcasts/warhammer/06_Le_monde_est_sauve.mp3",
-        "recap": "warhammer/2015_02_14_monde_sauf",
         "date": "2015-02-14"
       }, {
         "name": "Dans les décombres de Nuln",
-        "slug": "Dans_les_decombres_de_Nuln",
-        "picture": "decombres.png",
-        "description": "Consacrés héros de la ville, nos PJs règlent leurs dernières affaires à Nuln avant de quitter la ville.",
-        "podcast": "/podcasts/warhammer/07_Dans_les_decombres_de_Nuln.mp3",
-        "recap": "warhammer/2015_03_12_Aftermarth",
         "date": "2015-03-12"
       }, {
         "name": "Départ de Nuln",
-        "slug": "Depart_de_Nuln",
-        "picture": "docks.jpg",
-        "description": "Nos PJs quittent Nuln, à bord de l'Empereur Ludwig, un grand bateau de luxe. À bord, ils rencontrent de nombreux personnages qui semblent leur cacher des choses.",
-        "podcast": "/podcasts/warhammer/08_Depart_de_Nuln.mp3",
-        "recap": "warhammer/2015_05_08_Depart_de_Nuln",
         "date": "2015-05-08"
       }, {
         "name": "À bord de l'Empereur Ludwig",
-        "slug": "A_bord_de_l_Empereur_Ludwig",
-        "picture": "empereur_ludwig.jpg",
-        "description": "Le voyage à bord du bateau n'est pas de tout repos. Un assassinat à lieu durant la nuit, et les PJs tentent de l'élucider et de s'en sortir indemne.",
-        "podcast": "/podcasts/warhammer/09_A_bord_de_l_Empereur_Ludwig.mp3",
-        "recap": "warhammer/2015_06_07_Huis_Clos_sur_bateau",
         "date": "2015-06-07"
       }, {
         "name": "Résolution du Huis-Clos",
-        "slug": "Resolution_du_Huis_Clos",
-        "picture": "huis-clos.jpg",
-        "description": "Presque arrivés à Altdorf, nos PJs parviennent à déméler le vrai du faux de toutes les histoires. Personne n'était réellement qui il semblait être sur ce bateau.",
-        "podcast": "/podcasts/warhammer/10_Resolution_du_Huis_Clos.mp3",
-        "recap": "warhammer/2015_06_25_Resolution_Huis_clos",
         "date": "2015-06-25"
       }, {
         "name": "Arrivée à Altdorf",
-        "description": "Arrivés à Altdorf, nos PJs enquetent sur le rapport Goffman, Ilyor fait des rêves étranges et ils rencontrent un joueur de flute au milieu de la nuit.",
-        "slug": "Arrivee_a_Altdorf",
-        "picture": "arrivee_altdorf.jpg",
-        "podcast": "/podcasts/warhammer/11_Arrivee_a_Altdorf.mp3",
         "date": "2015-07-27"
       }, {
         "name": "Le Rapport Goffman",
-        "slug": "rapport_goffman",
-        "picture": "goffman.jpg",
-        "description": "Le contre-rapport a enfin lieu et la délibération est annoncée publiquement. Nos PJs enquetent sur Andersen et Vogel et finissent par se faire attaquer par des hommes métalliques masqués. Ils en apprennent plus sur leur dague et vont devoir quitter la ville.",
         "date": "2016-01-08"
       }, {
         "name": "Traversée du barrage",
-        "description": "Nos PJs partent enfin d'Altdorf, en suivant la direction indiquée par la dague. Ils laissent Cédric en ville mais rencontrent Karf. Pourchassé par un chien géant mort-vivant, ils fuient au travers d'un barrage Nain qui s'effondrera après leur passage.",
-        "slug": "traversee_du_barrage",
-        "picture": "barrage.jpg",
-        "podcast": "/podcasts/warhammer/13_Traversee_du_barrage.mp3",
         "date": "2016-06-14"
+      }
+    ]
+  },
+  {
+    "name": "Combustion Spontanée",
+    "slug": "combustion-spontanee",
+    "sessions": [
+      {
+        "name": "Combustion Spontanée",
+        "date": "2016-03-15"
       }
     ]
   },
@@ -196,11 +97,17 @@
     "sessions": [
       {
         "name": "Arrivée à Winterhaven",
-        "description": "Après une longue création de personnages, nos PJs affrontent une embuscade de kobolds. L'ancien mage du groupe parvient à en détruire une grande partie et ils terminent leur périple à Winterhaven.",
-        "slug": "arrivee_a_winterhaven",
-        "picture": "road.jpg",
-        "podcast": "/podcasts/shadowfell/01_Arrivee_a_Winterhaven.mp3",
         "date": "2016-06-23"
+      }
+    ]
+  },
+  {
+    "name": "Pulp",
+    "slug": "pulp",
+    "sessions": [
+      {
+        "name": "L'œil de Kilquato",
+        "date": "2016-02-20"
       }
     ]
   },
@@ -210,12 +117,25 @@
     "sessions": [
       {
         "name": "Départ de Nuln",
-        "description": "Nos joueurs doivent ont tous de bonnes raisons de quitter la ville rapidement. Ils acceptent d'escorter le prince Maximilien vers les Sud, où son pays a besoin de lui. Fantomes, brigands et loups feront partis des embuches rencontrées en chemin.",
-        "slug": "depart_de_nuln",
-        "picture": "depart_de_nuln.jpg",
-        "recap": "doomstones/2016_07_01_Depart_de_Nuln",
-        "podcast": "/podcasts/doomstones/01_depart_de_nuln.mp3",
         "date": "2016-07-01"
+      }
+    ]
+  },
+  {
+    "name": "Underground",
+    "slug": "underground",
+    "sessions": [
+      {
+        "name": "Première exploration",
+        "date": "2016-07-14"
+      },
+      {
+        "name": "Retour après repos",
+        "date": "2016-07-14"
+      },
+      {
+        "name": "Entrée dans le donjon mécanique",
+        "date": "2016-07-21"
       }
     ]
   }

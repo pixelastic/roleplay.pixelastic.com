@@ -1,19 +1,18 @@
 ---
 ---
-- picture = "/img/#{game.slug}/#{session.picture}"
-- picture = cloudinary_image(picture) if build?
+- podcast = session_podcast(game, session)
+- picture = session_picture(game, session)
+- notes = session_notes(game, session)
 - content_for(:background_picture, picture)
 - content_for(:title, session.name)
 
 
 %h2.c-session--title= session.name
 
-- unless session.podcast.nil?
+- unless podcast.nil?
   %div.c-session--text-wrapper
-    =partial('partials/player', locals: {game: game, session: session})
+    %audio{class: 'js-player', src: podcast}
+    %a{href: podcast} Télécharger le .mp3
 
 %div.c-session--text-wrapper
-  - if session.recap.nil?
-    = session.description
-  - else
-    =partial("partials/recaps/#{session.recap}")
+  =partial(session_notes_filepath_for_partials(game, session))

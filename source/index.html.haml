@@ -8,17 +8,13 @@
       %h2= game.name
       %div.c-session-list
         - game.sessions.reverse.each do |session|
-          - link = "/#{game.slug}/#{session.slug}.html"
-          - picture = "/img/#{game.slug}/#{session.picture}"
-          - picture = cloudinary_thumbnail(picture) if build?
-          
+          - link = session_link(game, session)
+          - picture = session_picture(game, session)
+          - description = session_description(game, session)
+          - date = session_date(session)
           %a.c-session-item{href: link}
             %div.c-session-item--picture{style: "background-image: url(#{picture})"}
             %div.c-session-item--details
               %div.c-session-item--name= session.name
-              - if !session.description.nil?
-                %div.c-session-item--description= session.description
-              - if !session.date.nil?
-              - date = I18n.localize(Date.strptime(session.date, '%Y-%m-%d'), :format => "%-d %B %Y")
-                %div.c-session-item--date= date
-              
+              %div.c-session-item--description= description
+              %div.c-session-item--date= date
