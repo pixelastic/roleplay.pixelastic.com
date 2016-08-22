@@ -3,35 +3,47 @@ seconde partie du complexe, dans le ventre même de ce qui semble etre une
 machine géante. Ils discuteront avec des têtes métalliques et tenteront de
 crocheter des portes.
 
-Rejoins par deux nouveaux alliés, notre équipe s'enfonce plus profondément dans
-le donjon. Ici, tout est métallique, du sol jusqu'au plafond. Les portes
-glissent sur le coté dans un lourd cliquetis, et quelques volutes de fumées. Ce
-ne sont pas des monstres qui attendent nos héros ici, mais des pièges, et des
-têtes animées.
+Lors de cette session, le sorcier ne pouvait pas être présent mais il a été
+remplacé par un rodeur, un paladin et un voleur.
 
-La nouvelle recrue, censée savoir crocheter des serrures, manque de se faire
-décapiter dès la première porte. Heureusement, grâce à une formidable
-chorégraphie orchestrée avec son ami de la garde, les lames ne font que
-l'effleurer.
+L'équipe s'est aventurée dans la suite du donjon, là ou le frere du magicien
+était enterré. Le frere était un alchimiste mécanicien, qui a fait de sa
+sepulture une immense machine avec des tuyaux et des engrenages en tout sens.
 
-La seconde salle leur fera rencontre ce qu'il reste du précédent groupe
-d'aventurier qui était venu ici. Aujourd'hui, seules leurs têtes ornent la
-salle, et celle-ci sont bavardes. Nos héros parviennent à apprendre qu'il faut
-se méfier du Golem, et se méfier du trou dans lequel tournent les rouages.
+Après avoir affronté les quelques chiens qui gardaient l'entrée, ils ont essayé
+de crocheter la serrure mais ont activé le piège à la place. Celui-ci a presque
+failli les couper en morceaux avec ses lames.
 
-Après de longues tergiversations, ils découvrent un piège sur une dalle du sol
-qui semble aspirer ce qui s'y trouve vers le plafond. Notre guerrier a bien
-failli y laisser son épée.
+Ils ont ensuite fait connaissance avec 4 bustes metalliques incrustés dans le
+mur. Ce sont les restes d'aventuriers qui étaient déjà venus dans le donjon pour
+le piller par le passé mais ne s'en sont pas sorti. Apparemment quelque chose
+les a transformé ainsi. Ils avertissent les PJs d'un Golem, et d'un trou que
+protege le golem dans lequel il ne faut pas tomber.
 
-Ils parviennent néanmoins jusqu'à la porte finale qui doit les amener dans le
-tombeau qu'ils venaient chercher. Malheureusement, le voleur encore une fois
-active les pièges plutot que de les désamorcer et enclenche un processus de
-protection du donjon. Du gaz tombe du plafond, les portes se ferment et les
-flammes commencent à jaillir du sol.
+Après avoir bien discuté avec les tetes, ils en savent un peu plus sur ce qui
+les attends sur la suite, mais parviennent quand même à vexer tellement une des
+tetes qu'elle s'éteint. Ils "tuent" une autre tete par hasard en essayant de lui
+enlever son casque, et se font amis avec une troisième tete en lui donnant le
+casque. Finalement, la dernière tete les insulte et souhaite leur mort.
 
-Nos héros sont obligés de fuir hors du complexe quand des mort-vivants se
-jettent sur eux. Fatigués et meurtris comme ils sont, ils ne peuvent pas lutter
-et préfèrent fuir en sécurité.
+Pendant ce temps, le guerrier va explorer la pièce adjacente et trouve des
+dalles étranges qui activent un tuyau d'aspiration géant au plafond. Il parvient
+à garder son épée en main sans qu'elle ne soit aspirée.
 
-Il leur faudra revenir la prochaine fois, et lutter cette fois contre un donjon
-bien préparé...
+Dans le couloir suivant, ils voient un cadavre au loin. N'étant pas surs si
+c'est un vrai cadavre ou un piège, ils tirent dessus. Le cadavre semble surpris
+et se releve, lance un sort d'obscurité et anime tous les ressorts et engrenages
+qui se trouvent sur le sol, les transformant en une véritable marée humaine.
+
+Le guerrier et son attaque circulaire n'en font rapidement qu'une bouchée, mais
+quand l'obscurité se dissipe, l'homme n'est plus là.
+
+Poussés par la curiosité, ils décident de tenter d'ouvrir la porte par laquelle
+il a du s'enfuir, mais activent à nouveau un piège qui fait jaillir des gazs
+toxiques et des jets de flamme. Les autres portes s'ouvrent des des guerriers
+squelettes en sortent.
+
+Nos PJs courent vers la sortie et parviennent à retrouver la sécurité de leur
+auberge où ils pansent leurs plaies et réfléchissent à la manière dont ils
+donneront le prochain assaut.
+
