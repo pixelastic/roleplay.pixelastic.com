@@ -16,3 +16,38 @@
   color: $color-text-inverted;
   text-align: justify;
 }
+
+.c-session--pictures {
+  margin-top: 2rem;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.c-session--picture {
+  flex: 1 1 15rem;
+  max-width: 30rem;
+  position: relative;
+  background-color: $dark-green;
+  border-radius: 3px;
+  box-shadow: 0 1px 4px darken($dark-green, 10%);
+  margin: .5rem;
+
+  &:focus,
+  &:hover {
+    .c-session--picture-image {
+      opacity: .7
+    }
+  }
+}
+
+.c-session--picture-image {
+  overflow: hidden;
+  height: 200px;
+  max-height: 200px;
+  border-radius: 3px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+

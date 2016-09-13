@@ -8,6 +8,7 @@
     <meta name="description" content="Archives de nos parties de jeu de rôle">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
     %link{rel: "stylesheet", href: "https://cdn.jsdelivr.net/mediaelement/2.21.1/mediaelementplayer.min.css"}
+    %link{rel: "stylesheet", href: "//cdn.jsdelivr.net/fancybox/2.1.5/jquery.fancybox.min.css"}
     = stylesheet_link_tag :main
     %link{rel: "shortcut icon", href: "/favicon.ico"}
 
@@ -25,6 +26,6 @@
         %div.o-outer-container
           = yield
 
-    %script{src: 'https://cdn.jsdelivr.net/g/lodash@4.13.1,jquery@3.0.0-rc1'}
+    %script{src: 'https://cdn.jsdelivr.net/g/lodash@4.13.1,jquery@3.0.0-rc1,fancybox@2.1.5'}
     %script{src: '/js/vendors/mediaelement-and-player.js'}
     %script{src: '/js/all.js'}

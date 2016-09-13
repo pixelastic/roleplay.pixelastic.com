@@ -115,6 +115,23 @@ helpers do
     "/#{slug(game.name)}/#{slug(session.name)}.html"
   end
 
+  def session_pictures(game, session)
+    path = session_path(game, session)
+    pictures = Dir.glob("./source/#{path}/*.jpg")
+
+    # Removing the cover
+    pictures = pictures.reject do |picture|
+      File.basename(picture) == 'image.jpg'
+    end
+
+    # Using http urls
+    pictures = pictures.map do |picture|
+      "/#{path}/#{File.basename(picture)}"
+    end
+
+    pictures
+  end
+
   def cloudinary(url, options)
     base_url = 'http://res.cloudinary.com/pixelastic-roleplay/image/fetch/'
     "#{base_url}#{options.join(',')}/http://roleplay.pixelastic.com#{url}"
