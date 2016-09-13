@@ -21,8 +21,8 @@
   %div.c-session--pictures
     - pictures.each do |picture|
       - thumbnail = picture
-      - picture = cloudinary_image(picture) if build?
       - thumbnail = cloudinary_thumbnail(picture) if build?
+      - picture = cloudinary_image(picture) if build?
       %a.c-session--picture.js-fancybox{href: picture, rel: 'pictures'}
         %div.c-session--picture-image{'style': "background-image: url(#{thumbnail})"}
 

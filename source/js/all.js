@@ -4,12 +4,15 @@ $(document).ready(() => {
     success: function success(mediaElement, originalNode) {}
   });
 
-  $('.js-fancybox').fancybox({
-    helpers: {
-      overlay: {
-        locked: false
-      },
-      media: {}
-    }
-  });
+  let fancyboxes = $('.js-fancybox');
+  if (fancyboxes) {
+    fancyboxes.fancybox({
+      helpers: {
+        overlay: {
+          locked: false
+        },
+        media: {}
+      }
+    });
+  }
 });
