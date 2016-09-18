@@ -4,6 +4,15 @@ $session-border-color: darken($background, 10%);
 $session-min-height: 120px;
 $session-picture-width: 200px;
 
+.c-game--players {
+  display: none;
+  @media(min-width: $breakpoint-tablet) {
+    display: inline-block;
+    font-size: 1.2rem;
+    color: lighten($color-text, 30%);
+  }
+}
+
 .c-session-list {
 }
 
@@ -49,6 +58,14 @@ $session-picture-width: 200px;
   display: block;
   line-height: 1;
   padding: 5px 0;
+}
+.c-session-item--players {
+  display: none;
+  @media(min-width: $breakpoint-tablet) {
+    display: inline-block;
+    font-size: 1.2rem;
+    color: lighten($color-text, 30%);
+  }
 }
 .c-session-item--description {
   font-style: italic;

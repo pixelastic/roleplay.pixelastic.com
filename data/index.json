@@ -2,152 +2,193 @@
   {
     "name": "Warhammer",
     "slug": "warhammer",
+    "players": "Alx, Arthur, Fabien, Traz (anciennement Robin et Yoann)",
     "sessions": [
       {
         "name": "Sur la route de Nuln",
-        "date": "2013-09-18"
+        "date": "2013-09-18",
+        "players": "Alx, Arthur, Fabien, Robin et Traz"
       }, {
         "name": "Club de Conteurs",
-        "date": "2013-10-11"
+        "date": "2013-10-11",
+        "players": "Alx, Arthur, Fabien, Robin, Traz et Yoann"
       }, {
         "name": "Le tombeau Magdenberg",
-        "date": "2013-11-06"
+        "date": "2013-11-06",
+        "players": "Alx, Arthur, Fabien, Robin et Traz"
       }, {
         "name": "Entrée dans le complexe Skaven",
-        "date": "2013-11-12"
+        "date": "2013-11-12",
+        "players": "Alx, Arthur, Fabien, Robin et Traz"
       }, {
         "name": "Fuite dans les égouts",
-        "date": "2013-11-19"
+        "date": "2013-11-19",
+        "players": "Alx, Fabien, Robin et Traz"
       }, {
         "name": "Colonie souterraine et artefacts volés",
-        "date": "2014-01-26"
+        "date": "2014-01-26",
+        "players": "Alx, Fabien, Robin et Traz"
       }, {
         "name": "Enquête sur les artefacts",
-        "date": "2014-02-28"
+        "date": "2014-02-28",
+        "players": "Alx, Arthur, Fabien, Robin et Traz"
       }, {
         "name": "Rendez-vous avec Kummetz",
-        "date": "2014-03-15"
+        "date": "2014-03-15",
+        "players": "Alx, Arthur, Fabien et Robin"
       }, {
         "name": "Préparation du procès",
-        "date": "2014-03-31"
+        "date": "2014-03-31",
+        "players": "Alx, Arthur, Fabien, Robin et Traz"
       }, {
         "name": "Le Procès",
-        "date": "2014-04-15"
+        "date": "2014-04-15",
+        "players": "Alx, Arthur, Fabien, Robin et Traz"
       }, {
         "name": "La vente aux enchères",
-        "date": "2014-05-27"
+        "date": "2014-05-27",
+        "players": "Alx, Arthur, Fabien et Traz"
       }, {
         "name": "Kugelshreiber",
-        "date": "2014-09-10"
+        "date": "2014-09-10",
+        "players": "Alx, Arthur, Fabien et Traz"
       }, {
         "name": "Au manoir de Schaffer",
-        "date": "2014-10-11"
+        "date": "2014-10-11",
+        "players": "Alx, Arthur, Fabien et Traz"
       }, {
         "name": "J'ai accepté par erreur ton invitation",
-        "date": "2014-11-24"
+        "date": "2014-11-24",
+        "players": "Alx, Arthur, Fabien et Traz"
       }, {
         "name": "Le bal de la Comtesse",
-        "date": "2015-02-14"
+        "date": "2015-02-14",
+        "players": "Alx, Arthur, Fabien et Traz"
       }, {
         "name": "La fuite en ballon",
-        "date": "2015-02-14"
+        "date": "2015-02-14",
+        "players": "Alx, Arthur, Fabien et Traz"
       }, {
         "name": "Bataille au sommet",
-        "date": "2015-02-14"
+        "date": "2015-02-14",
+        "players": "Alx, Arthur, Fabien et Traz"
       }, {
         "name": "Le monde est sauvé",
-        "date": "2015-02-14"
+        "date": "2015-02-14",
+        "players": "Alx, Arthur, Fabien et Traz"
       }, {
         "name": "Dans les décombres de Nuln",
-        "date": "2015-03-12"
+        "date": "2015-03-12",
+        "players": "Alx, Arthur, Fabien et Traz"
       }, {
         "name": "Départ de Nuln",
-        "date": "2015-05-08"
+        "date": "2015-05-08",
+        "players": "Alx, Arthur, Fabien et Traz"
       }, {
         "name": "À bord de l'Empereur Ludwig",
-        "date": "2015-06-07"
+        "date": "2015-06-07",
+        "players": "Alx, Arthur et Traz"
       }, {
         "name": "Résolution du Huis-Clos",
-        "date": "2015-06-25"
+        "date": "2015-06-25",
+        "players": "Alx, Arthur, Fabien et Traz"
       }, {
         "name": "Arrivée à Altdorf",
-        "date": "2015-07-27"
+        "date": "2015-07-27",
+        "players": "Alx, Arthur, Fabien et Traz"
       }, {
         "name": "Le Rapport Goffman",
-        "date": "2016-01-08"
+        "date": "2016-01-08",
+        "players": "Alx, Arthur, Fabien et Traz"
       }, {
         "name": "Traversée du barrage",
-        "date": "2016-06-14"
+        "date": "2016-06-14",
+        "players": "Alx, Arthur, Fabien et Traz"
       }
     ]
   },
   {
     "name": "Combustion Spontanée",
     "slug": "combustion-spontanee",
+    "players": "Arthur, Fabien et Traz",
     "sessions": [
       {
         "name": "Combustion Spontanée",
-        "date": "2016-03-15"
+        "date": "2016-03-15",
+        "players": "Arthur, Fabien et Traz"
       }
     ]
   },
   {
     "name": "Shadowfell",
     "slug": "shadowfell",
+    "players": "Arthur, Maud, Marion et Traz",
     "sessions": [
       {
         "name": "Arrivée à Winterhaven",
-        "date": "2016-06-23"
+        "date": "2016-06-23",
+        "players": "Arthur, Maud, Marion et Traz"
       }
     ]
   },
   {
     "name": "Pulp",
     "slug": "pulp",
+    "players": "Fabien, Maud, Marion et Traz",
     "sessions": [
       {
         "name": "L'œil de Kilquato",
-        "date": "2016-02-20"
+        "date": "2016-02-20",
+        "players": "Arthur, Maud, Marion et Traz"
       }
     ]
   },
   {
     "name": "Doomstones",
     "slug": "doomstones",
+    "players": "Alx, Fabien et Traz",
     "sessions": [
       {
         "name": "Départ de Nuln",
-        "date": "2016-07-01"
+        "date": "2016-07-01",
+        "players": "Alx, Fabien et Traz"
       }
     ]
   },
   {
     "name": "Underground",
     "slug": "underground",
+    "players": "Alx, Arthur, Fabien, Maud et Traz (et des invités)",
     "sessions": [
       {
         "name": "Première exploration",
-        "date": "2016-07-14"
+        "date": "2016-07-14",
+        "players": "Fabien et Maud"
       },
       {
         "name": "Retour après repos",
-        "date": "2016-07-14"
+        "date": "2016-07-14",
+        "players": "Fabien et Maud"
       },
       {
         "name": "Entrée dans le donjon mécanique",
-        "date": "2016-07-21"
+        "date": "2016-07-21",
+        "players": "Alex (AGI), Fabien, Maud et Traz"
       },
       {
         "name": "Retour après activation des pièges",
-        "date": "2016-07-28"
+        "date": "2016-07-28",
+        "players": "Alx, Fabien et Maud"
       },
       {
         "name": "Bataille contre le Golem",
-        "date": "2016-08-05"
+        "date": "2016-08-05",
+        "players": "Alx, Arthur, Fabien, Maud et Traz"
       },
       {
         "name": "Murailles",
-        "date": "2016-09-17"
+        "date": "2016-09-17",
+        "players": "Arthur, Fabien et Maud"
       }
     ]
   }
