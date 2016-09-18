@@ -12,7 +12,8 @@
 
 - if podcast?(game, session)
   %div.c-session--text-wrapper
-    %audio{class: 'js-player', src: podcast}
+    %audio{class: 'js-player', controls: '', preload: 'auto', src: podcast}
+      %source{src: podcast}
     %a{href: podcast} Télécharger le .mp3
 
 %div.c-session--text-wrapper
