@@ -27,5 +27,23 @@
           = yield
 
     %script{src: 'https://cdn.jsdelivr.net/g/lodash@4.13.1,jquery@3.0.0-rc1,fancybox@2.1.5'}
-    -# %script{src: '/js/vendors/mediaelement-and-player.js'}
+    -# Temporarily load this whole bunch of files until media element is released with the fix for Chromium
+    <script src="/js/vendors/mediaelement/me-namespace.js" type="text/javascript"></script>
+    <script src="/js/vendors/mediaelement/me-utility.js" type="text/javascript"></script>
+    <script src="/js/vendors/mediaelement/me-i18n.js" type="text/javascript"></script>
+    <script src="/js/vendors/mediaelement/me-plugindetector.js" type="text/javascript"></script>
+    <script src="/js/vendors/mediaelement/me-featuredetection.js" type="text/javascript"></script>
+    <script src="/js/vendors/mediaelement/me-mediaelements.js" type="text/javascript"></script>
+    <script src="/js/vendors/mediaelement/me-shim.js" type="text/javascript"></script>
+    <script src="/js/vendors/mediaelement/mep-library.js" type="text/javascript"></script>
+    <script src="/js/vendors/mediaelement/mep-player.js" type="text/javascript"></script>
+    <script src="/js/vendors/mediaelement/mep-feature-playpause.js" type="text/javascript"></script>
+    <script src="/js/vendors/mediaelement/mep-feature-progress.js" type="text/javascript"></script>
+    <script src="/js/vendors/mediaelement/mep-feature-time.js" type="text/javascript"></script>
+    <script src="/js/vendors/mediaelement/mep-feature-speed.js" type="text/javascript"></script>	
+    <script src="/js/vendors/mediaelement/mep-feature-tracks.js" type="text/javascript"></script>
+    <script src="/js/vendors/mediaelement/mep-feature-volume.js" type="text/javascript"></script>
+    <script src="/js/vendors/mediaelement/mep-feature-stop.js" type="text/javascript"></script>
+    <script src="/js/vendors/mediaelement/mep-feature-fullscreen.js" type="text/javascript"></script>
+
     %script{src: '/js/all.js'}
