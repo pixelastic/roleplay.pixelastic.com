@@ -59,7 +59,7 @@ helpers do
   # Gets the url of the image of this session
   def session_picture(game, session)
     picture = "/#{session_path(game, session)}/image.jpg"
-    picture = cloudinary_thumbnail(picture) if build?
+    picture = cloudinary_image(picture) if build?
     picture
   end
 
