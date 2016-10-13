@@ -112,14 +112,56 @@
     ]
   },
   {
-    "name": "Combustion Spontanée",
-    "slug": "combustion-spontanee",
-    "players": "Arthur, Fabien et Traz",
+    "name": "Underground",
+    "slug": "underground",
+    "players": "Alx, Arthur, Fabien, Maud, Traz et invités",
     "sessions": [
       {
-        "name": "Combustion Spontanée",
-        "date": "2016-03-15",
-        "players": "Arthur, Fabien et Traz"
+        "name": "Première exploration",
+        "date": "2016-07-14",
+        "players": "Fabien et Maud"
+      },
+      {
+        "name": "Retour après repos",
+        "date": "2016-07-14",
+        "players": "Fabien et Maud"
+      },
+      {
+        "name": "Entrée dans le donjon mécanique",
+        "date": "2016-07-21",
+        "players": "Alex (AGI), Fabien, Maud, Philippe et Traz"
+      },
+      {
+        "name": "Retour après activation des pièges",
+        "date": "2016-07-28",
+        "players": "Alx, Fabien et Maud"
+      },
+      {
+        "name": "Bataille contre le Golem",
+        "date": "2016-08-05",
+        "players": "Alx, Arthur, Fabien, Maud et Traz"
+      },
+      {
+        "name": "Murailles",
+        "date": "2016-09-17",
+        "players": "Arthur, Fabien et Maud"
+      }
+    ]
+  },
+  {
+    "name": "Zombies",
+    "slug": "zombies",
+    "players": "Alex M., Anthony, Gianluca, Lucas, Paul-Louis, RCS",
+    "sessions": [
+      {
+        "name": "Boarding the cruise ship",
+        "date": "2016-10-11",
+        "players": "Alex M., Anthony, Gianluca, Lucas, Paul-Louis, RCS"
+      },
+      {
+        "name": "First kill",
+        "date": "2016-10-12",
+        "players": "Anthony, Gianluca, Lucas, Paul-Louis, RCS"
       }
     ]
   },
@@ -160,39 +202,14 @@
     ]
   },
   {
-    "name": "Underground",
-    "slug": "underground",
-    "players": "Alx, Arthur, Fabien, Maud et Traz (et des invités)",
+    "name": "Combustion Spontanée",
+    "slug": "combustion-spontanee",
+    "players": "Arthur, Fabien et Traz",
     "sessions": [
       {
-        "name": "Première exploration",
-        "date": "2016-07-14",
-        "players": "Fabien et Maud"
-      },
-      {
-        "name": "Retour après repos",
-        "date": "2016-07-14",
-        "players": "Fabien et Maud"
-      },
-      {
-        "name": "Entrée dans le donjon mécanique",
-        "date": "2016-07-21",
-        "players": "Alex (AGI), Fabien, Maud, Philippe et Traz"
-      },
-      {
-        "name": "Retour après activation des pièges",
-        "date": "2016-07-28",
-        "players": "Alx, Fabien et Maud"
-      },
-      {
-        "name": "Bataille contre le Golem",
-        "date": "2016-08-05",
-        "players": "Alx, Arthur, Fabien, Maud et Traz"
-      },
-      {
-        "name": "Murailles",
-        "date": "2016-09-17",
-        "players": "Arthur, Fabien et Maud"
+        "name": "Combustion Spontanée",
+        "date": "2016-03-15",
+        "players": "Arthur, Fabien et Traz"
       }
     ]
   }
