@@ -1,41 +1,22 @@
-$header-background: $darker-green;
-$header-color: transparentize(white, .3);
-$header-color-hover: white;
-$header-height: 60px;
-
-.c-header {
-  background-color: $header-background;
-  border-bottom: 1px solid darken($header-background, 10);
-  color: $header-color;
-  height: $header-height;
-}
-
-.c-header--title {
-  font-family: 'Title';
-  display: block;
-  float: left;
-  font-size: 2.5rem;
+.l-header {
   height: $header-height;
   line-height: $header-height;
-  margin: 0;
-  a {
-    position: relative;
-    padding-left: 64px;
-    color: $light-green;
-    &:before {
-      content: "";
-      position: absolute;
-      left: 0;
-      background-position: top;
-      background-repeat: no-repeat;
-      background-size: contain;
-      background-image: url(/img/ui/favicon.png);
-      width: 64px;
-      height: 55px;
-    }
-    &:hover {
-      color: $orange;
-    }
-  }
 }
 
+.c-header--logo {
+  position: relative;
+  padding-left: 55px;
+  &:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url(/img/ui/favicon.png);
+    width: 64px;
+    height: $header-height - 10px;
+    top: 50%;
+    margin-top: -24px;
+  }
+}

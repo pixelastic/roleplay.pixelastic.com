@@ -1,29 +1,33 @@
 ---
 ---
 - podcast = session_podcast(game, session)
-- picture = session_picture(game, session)
+- background_picture = session_picture(game, session)
 - pictures = session_pictures(game, session)
 - notes = session_notes(game, session)
-- content_for(:background_picture, picture)
+- content_for(:background_picture, background_picture)
 - content_for(:title, session.name)
 
 
-%h2.c-session--title= session.name
+%div.bg-black-90.br3.pa3.mh5-l.c-session--text-wrapper
+  -# Title
+  %h2.ma0.antique.f1.orange.c-session--title= session.name
 
-- if podcast?(game, session)
-  %div.c-session--text-wrapper
-    %audio{class: 'js-player', controls: '', preload: 'auto', src: podcast}
-      %source{src: podcast}
-    %a{href: podcast} Télécharger le .mp3
+  -# Text
+  .f4.lh-copy.taj.white-60.ph4-l.ph3
 
-%div.c-session--text-wrapper
-  =partial(session_notes_filepath_for_partials(game, session))
+    - if podcast?(game, session)
+      %div.mt3
+        %audio{class: 'js-player', controls: '', preload: 'auto', src: podcast}
+          %source{src: podcast}
+        %a.link{href: podcast} Télécharger le .mp3
 
-  %div.c-session--pictures
+    =partial(session_notes_filepath_for_partials(game, session))
+
+  -# Pictures
+  %div.flex.flex-row.flex-wrap.justify-center
     - pictures.each do |picture|
       - thumbnail = picture
       - thumbnail = cloudinary_thumbnail(picture) if build?
       - picture = cloudinary_image(picture) if build?
-      %a.c-session--picture.js-fancybox{href: picture, rel: 'pictures'}
-        %div.c-session--picture-image{'style': "background-image: url(#{thumbnail})"}
-
+      %a.flex-auto.mw-25.w-33.w-20-l.ma2.br2.pointer.bg-orange.js-fancybox{href: picture, rel: 'pictures'}
+        %div.br2.bg-cover.bg-center.h5{'style': "background-image: url(#{thumbnail})"}

@@ -1,0 +1,17 @@
+%div.mb4
+  %h2.dib.antique.f2.ma0.mb2
+    %a.link{href: "/#{game.slug}/"}=game.name
+  .dib.f4.antique.dark-gray.pl2=game.players
+  %div
+    - game.sessions.reverse.each do |session|
+      - link = session_link(game, session)
+      - picture = session_picture(game, session)
+      - description = session_description(game, session)
+      - date = session_date(session)
+      %a.c-session.no-underline.dark-gray.flex.flex-row-l.flex-column.flex-nowrap.br2.mb2-l.mb3.oh.shadow-3.bg-orange{href: link}
+        .c-session--image.link.flex-none.bg-center.bg-cover.br.b--gray{style: "background-image: url(#{picture})"}
+        .flex-auto.pa2.bg-white.relative
+          .dib.f2.antique.link=session.name
+          .dib.f4.antique.link.gray.pl1=session.players
+          .f5.i.pt1.ph0-l.ph1.lh-copy= description
+          .f7.dn.db-l.absolute.bottom-1.right-1.gray= date

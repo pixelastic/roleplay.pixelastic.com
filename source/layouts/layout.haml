@@ -13,18 +13,23 @@
     %link{rel: "shortcut icon", href: "/favicon.ico"}
 
   %body
-    %div.l-container
-      %div.l-header
-        =partial('partials/header')
+    %div.l-container.bg-texture.bg-washed-green
+      =partial('partials/header')
 
       -# Add hero picture if one is defined
       - background_picture = yield_content(:background_picture)
       - unless background_picture.nil?
-        %div.l-background-hero{style: ("background-image: url(#{background_picture})" unless background_picture.nil?)}
+        %div.fixed.w-100.h-100.z-1.bg-center.bg-cover{style: ("background-image: url(#{background_picture})" unless background_picture.nil?)}
 
-      %div.l-content
-        %div.o-outer-container
-          = yield
+      %div.mh4.mh5-l.pv3.z-2.relative
+        = yield
+
+        .tc.f6.gray.pt2
+          Code and content available under a 
+          %a.link{href: 'https://creativecommons.org/licenses/by-sa/2.0/'}CC-BY-SA license
+          on
+          %a.link{href: 'https://github.com/pixelastic/roleplay.pixelastic.com'}GitHub
+
 
     %script{src: 'https://cdn.jsdelivr.net/g/lodash@4.13.1,jquery@3.0.0-rc1,fancybox@2.1.5'}
     -# Temporarily load this whole bunch of files until media element is released with the fix for Chromium

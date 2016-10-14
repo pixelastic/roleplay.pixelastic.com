@@ -1,52 +1,9 @@
-$base-texture-top-color: lighten($background, 1%);
-$base-texture-bottom-color: darken($background, 10%);
-
-html,
-body {
+html, body {
   height: 100%;
 }
 
-// Main textured background
-body {
-}
-
-
-// Can hold a hero picture for the sessions
+// 1. Adding a top margin to display below the fixed header
 .l-container {
-  min-height: 100%;
-  border-top: 1px solid transparent;
-  @include background(url('/img/ui/texture.png'),
-    linear-gradient(180deg, $base-texture-top-color, $base-texture-bottom-color),
-    center no-repeat $base-texture-top-color scroll);
-}
-
-.l-header {
-  position: fixed;
-  width: 100%;
-  top: 0;
-  z-index: $z-index-header;
-}
-
-// Hero picture that takes the whole background
-// We set with a position: fixed an element that only contain the background and
-// that stretch to all the available space.
-.l-background-hero {
-  position: fixed;
-  width: 100%;
-  top: $header-height;
-  z-index: $z-index-hero;
-  // height: 100% is better than bottom:0 on mobile. bottom:0 forces the mobile
-  // to recalculate when scrolling because the address bar can disappear, and
-  // this causes a lag in the display
-  height: 100%;
-  background-position: top;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.l-content {
-  z-index: $z-index-content;
-  position: relative;
-  margin-top: $header-height;
-  padding: .5rem 1rem 3rem 1rem;
+  margin-top: $header-height; /* 1 */
+  min-height:100%;
 }

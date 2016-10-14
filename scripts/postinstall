@@ -3,14 +3,6 @@ base_dir=$(pwd)
 
 bundle install
 
-# Init Bourbon, Neat and Bitters
-css_vendors=./source/stylesheets/_vendors
-mkdir -p $css_vendors
-cd $css_vendors
-bundle exec bourbon install
-bundle exec neat install
-bundle exec bitters install
-
 # Make normalize.css importable
 cd "$base_dir"
 

@@ -1,24 +1,22 @@
-// Main page title
-h2 {
-  text-align: left;
-  font-size: 3rem;
-  font-family: 'Title';
-  margin:1.5rem 0 1rem 0;
-  color: $dark-green;
-  a {
-    color: $dark-green;
-    &:hover {
-      color: $light-green;
-    }
-  }
-}
-
-h3 {
-  text-align: left;
-  font-size: 2rem;
-  font-family: 'Title';
-  margin:1.5rem 0 0 0;
-  color: $color-text;
-  padding-bottom: 0.5rem;
-}
-
+// Colors
+.dark-green { color: $dark-green; }
+.bg-dark-green { background-color: $dark-green; }
+.bg-texture { background-image: url('/img/ui/texture.png'); }
+// Background
+.bg-top { background-repeat: no-repeat; background-position: top }
+.bg-center { background-repeat: no-repeat; background-position: center }
+.bg-cover { background-size: cover; }
+// Flexbox
+.flex-nogrow { flex-grow: 0; }
+.flex-noshrink { flex-shrink: 0; }
+// Overflow
+.oh { overflow: hidden; }
+// Fonts
+.antique { font-family: 'Antique'; }
+// Text align
+.taj { text-align: justify; }
+// Max width
+.mw-25 { max-width: 25%; }
+.mw-33 { max-width: 33%; }
+// Font-size
+.f7 { font-size: .85rem; }

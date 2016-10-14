@@ -1,34 +1,7 @@
-// Color palette from:
-// https://coolors.co/app/002626-0e4749-95c623-e55812-efe7da
-$background: #EFE7DA;
-$darker-green: #002626;
-$dark-green: #0E4749;
-$light-green: #95C623;
-$orange: #E55812;
-
-$color-link: $dark-green;
-$color-link-hover: $orange;
-$color-text: transparentize(black, .1);
-$color-text-inverted: darken(white, 40%);
-
-$breakpoint-tablet: 568px;
-
-$z-index-header: 1000;
-$z-index-hero: 100;
-$z-index-content: 500;
-
-* {
-  box-sizing: border-box;
-}
-
-body {
-  color: $color-text;
-}
-
-a {
-  color: $color-link;
+// Links
+.link {
+  color: $dark-green;
   &:hover {
-    color: $color-link-hover;
+    color: $orange;
   }
 }
-

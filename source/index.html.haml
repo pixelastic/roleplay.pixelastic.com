@@ -2,23 +2,6 @@
 ---
 - content_for(:title, 'Roleplay')
 
-%div.c-games
+%div
   - data.index.each do |game|
-    %div.c-game
-      %h2.c-game--name
-        =game.name
-        %span.c-game--players=game.players
-      %div.c-session-list
-        - game.sessions.reverse.each do |session|
-          - link = session_link(game, session)
-          - picture = session_picture(game, session)
-          - description = session_description(game, session)
-          - date = session_date(session)
-          %a.c-session-item{href: link}
-            %div.c-session-item--picture{style: "background-image: url(#{picture})"}
-            %div.c-session-item--details
-              %div.c-session-item--name
-                =session.name
-                %span.c-session-item--players=session.players
-              %div.c-session-item--description= description
-              %div.c-session-item--date= date
+    =partial('partials/game_overview', locals: {game: game})

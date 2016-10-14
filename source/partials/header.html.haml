@@ -1,6 +1,12 @@
-%header.c-header
-  %div.o-outer-container
-    %h1.c-header--title
-      =link_to 'Roleplay', '/'
-    -# %p
-    -#   =link_to 'À propos', 'about'
+%header.l-header.fixed.bg-dark-green.top-0.w-100.ph3.ph4-ns.flex.flex-row.z-5
+  %h1.ma0.pa0.flex-auto
+    %a.c-header--logo.white.no-underline.antique{'href': '/'}
+      Roleplay
+  -# Menu
+  .dn.flex-auto-ns.list.flex.flex-row.flex-nowrap.justify-end
+    -# Looping through each defined menu element
+    - data.index.each do |game|
+      - next if game.sessions.length < 2
+      %a.flex-none.white.no-underline.tc.ph3{href: "/#{game.slug}/", class: nav_active(game.slug)}
+
+        =game.name

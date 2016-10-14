@@ -21,6 +21,10 @@ set :images_dir, 'img'
 
 # Build a page for each session
 data.index.each do |game|
+  proxy "#{game.slug}/index.html",
+        '/partials/game.html',
+        locals: { game: game },
+        ignore: true
   game.sessions.each do |session|
     proxy "#{game.slug}/#{session.name.slugify}.html",
           '/partials/session.html',
@@ -37,6 +41,10 @@ end
 
 
 helpers do
+  def nav_active(slug)
+    current_page.path =~ /^#{slug}\// ? 'b bg-green' : ''
+  end
+
   def slug(input)
     input.slugify
   end

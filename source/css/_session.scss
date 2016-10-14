@@ -1,53 +1,5 @@
-.c-session--title {
-  color: darken(white, 25%);
-  text-shadow: 2px 4px lighten(black, 10%);
-  font-size: 3rem;
-  @media(min-width: $breakpoint-tablet) {
-    font-size: 4rem;
-  }
-}
-
-.c-session--text-wrapper {
-  margin: 1rem 0;
-  background: rgba(0,0,0, .9);
-  border-radius: 5px;
-  padding: 15px;
-  font-size: 1.2rem;
-  color: $color-text-inverted;
-  text-align: justify;
-}
-
-.c-session--pictures {
-  margin-top: 2rem;
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: center;
-}
-
-.c-session--picture {
-  flex: 1 1 15rem;
-  max-width: 30rem;
-  position: relative;
-  background-color: $dark-green;
-  border-radius: 3px;
-  box-shadow: 0 1px 4px darken($dark-green, 10%);
-  margin: .5rem;
-
-  &:focus,
-  &:hover {
-    .c-session--picture-image {
-      opacity: .7
-    }
-  }
-}
-
 .c-session--picture-image {
-  overflow: hidden;
-  height: 200px;
-  max-height: 200px;
-  border-radius: 3px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  &:hover {
+    opacity: .8;
+  }
 }
-
