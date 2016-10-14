@@ -125,7 +125,7 @@ helpers do
 
   def session_pictures(game, session)
     path = session_path(game, session)
-    pictures = Dir.glob("./source/#{path}/*.jpg").sort
+    pictures = Dir.glob("./source/#{path}/*.{jpg,gif}").sort
 
     # Removing the cover
     pictures = pictures.reject do |picture|

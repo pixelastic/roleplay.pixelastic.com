@@ -29,5 +29,5 @@
       - thumbnail = picture
       - thumbnail = cloudinary_thumbnail(picture) if build?
       - picture = cloudinary_image(picture) if build?
-      %a.flex-auto.mw-25.w-33.w-20-l.ma2.br2.pointer.bg-orange.js-fancybox{href: picture, rel: 'pictures'}
+      %a.flex-auto.mw-25.w-33.w-20-l.ma2.br2.pointer.js-fancybox{href: picture, rel: 'pictures'}
         %div.br2.bg-cover.bg-center.h5{'style': "background-image: url(#{thumbnail})"}
