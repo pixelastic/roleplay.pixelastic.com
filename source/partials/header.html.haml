@@ -3,7 +3,7 @@
     %a.c-header--logo.white.no-underline.antique{'href': '/'}
       Roleplay
   -# Menu
-  .dn.flex-auto-ns.list.flex.flex-row.flex-nowrap.justify-end
+  .dn.flex-ns.flex-auto.list.flex-row.flex-nowrap.justify-end
     -# Looping through each defined menu element
     - data.index.each do |game|
       - next if game.sessions.length < 2

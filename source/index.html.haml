@@ -4,4 +4,20 @@
 
 %div
   - data.index.each do |game|
-    =partial('partials/game_overview', locals: {game: game})
+    %h2.antique.ma0.mb2
+      %a.link.f2{href: "/#{game.slug}/"}=game.name
+      .di.f4.antique.gray=game.players
+
+    %div.flex.flex-row.flex-wrap.justify-center.mb4
+      - game.sessions.each_with_index do |session, index|
+        - link = session_link(game, session)
+        - picture = session_picture(game, session)
+        - picture = cloudinary_image(picture) if build?
+        - date = session_date(session)
+        %a.link.flex-auto.relative.w5.h5.antique.bg-cover.bg-center{href: link, style: "background-image: url(#{picture})"}
+          .absolute.top-0.w-0.bg-black-50.white-90.f3.ph2.pv1
+            =session.name
+          .absolute.bottom-0.left-0.bg-black-50.white-50.tr.ph2.pv1
+            ="##{index + 1}"
+          .absolute.bottom-0.right-0.bg-black-50.white-50.tr.ph2.pv1
+            =date

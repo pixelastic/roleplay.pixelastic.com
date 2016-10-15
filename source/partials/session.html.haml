@@ -4,16 +4,21 @@
 - background_picture = session_picture(game, session)
 - pictures = session_pictures(game, session)
 - notes = session_notes(game, session)
+- date = session_date(session)
 - content_for(:background_picture, background_picture)
 - content_for(:title, session.name)
 
 
 %div.bg-black-90.br3.pa3.mh5-l.c-session--text-wrapper
   -# Title
-  %h2.ma0.antique.f1.orange.c-session--title= session.name
+  %h2.ma0.antique.f1-l.f2.dark-green.c-session--title
+    = session.name
+    .di.f3.antique.gray=session.players
+
 
   -# Text
-  .f4.lh-copy.taj.white-60.ph4-l.ph3
+  .f4-l.f5.lh-copy.taj.white-60.ph4-l.ph1
+    .f3.antique=date
 
     - if podcast?(game, session)
       %div.mt3
@@ -30,4 +35,4 @@
       - thumbnail = cloudinary_thumbnail(picture) if build?
       - picture = cloudinary_image(picture) if build?
       %a.flex-auto.mw-25.w-33.w-20-l.ma2.br2.pointer.js-fancybox{href: picture, rel: 'pictures'}
-        %div.br2.bg-cover.bg-center.h5{'style': "background-image: url(#{thumbnail})"}
+        %div.br2.bg-cover.bg-center.h5-l.h4{'style': "background-image: url(#{thumbnail})"}

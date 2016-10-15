@@ -66,9 +66,7 @@ helpers do
 
   # Gets the url of the image of this session
   def session_picture(game, session)
-    picture = "/#{session_path(game, session)}/image.jpg"
-    picture = cloudinary_image(picture) if build?
-    picture
+    "/#{session_path(game, session)}/image.jpg"
   end
 
   # Gets the filepath of the file containing the notes of the session
