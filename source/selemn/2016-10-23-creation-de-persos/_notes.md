@@ -1,5 +1,5 @@
-Première pre-partie pour tirer les persos. L'équipe sera donc très orientée
-magie avec un ensorceleur, un sorcier, un druide et un pretre.
+Première pré-partie pour tirer les persos. L'équipe sera donc très orientée
+magie avec un ensorceleur, un sorcier, un druide et un prêtre.
 
 Je jouerai donc un Druide Dragonborn. Destiné à devenir métamorphe, il est pour
 le moment plus orienté vers la maitrise du feu (c'est quand même pratique de
@@ -17,14 +17,14 @@ voulait lui dire quelque chose!
 
 Ce qu'il avait pris pour un cadavre était en fait encore vivant, bien que très
 faible. Il utilisa alors toutes ses compétences d'herboriste pour tenter de le
-sauver mais rien n'y fit.
+sauver mais rien n'y fit, celui-ci était encore très affaibli.
 
 Puis, alors qu'il pensait le jeune homme perdu, celui-ci s'échappa à la faveur
 de la nuit, et quand il revint le lendemain matin, il était doté d'une force
 étrange, et quelque chose avait changé dans son regard. Persuadé que cette
 transformation allait avoir une importance capitale sur la survie du monde, il
-se décidé à quitter son marais pour aller trouver des réponses dans la grande
+se décida à quitter son marais pour aller trouver des réponses dans la grande
 bibliothèque de Selemn.
 
-C'est alors que son jeune protégé lui annoncé vouloir aller lui aussi dans cette
-direction. Ce ne pouvait être qu'un signe!
+C'est alors que son jeune protégé lui annonca vouloir aller lui aussi dans cette
+direction. Ce ne pouvait être qu'un signe, et le début de grandes aventures!
