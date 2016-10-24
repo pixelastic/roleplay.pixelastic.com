@@ -212,5 +212,17 @@
         "players": "Arthur, Fabien et Traz"
       }
     ]
+  },
+  {
+    "name": "Selemn",
+    "slug": "selemn",
+    "players": "Fabien, Marion, Tim, Traz (MJ: Arthur)",
+    "sessions": [
+      {
+        "name": "Création de persos",
+        "date": "2016-10-23",
+        "players": "Fabien, Marion, Tim, Traz"
+      }
+    ]
   }
 ]
