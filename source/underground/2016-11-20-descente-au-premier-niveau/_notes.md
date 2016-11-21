@@ -1,6 +1,6 @@
-Nos trois aventuriers traversent la caverne pour aller descendre au premier
+_Nos trois aventuriers traversent la caverne pour aller descendre au premier
 niveau de Stonehell. Ils explorent avec discrétion jusqu'à ce qu'un Kobold
-parvienne à s'enfuir et à donner l'alarme.
+parvienne à s'enfuir et à donner l'alarme._
 
 Peu intéressés par les différentes ruines qui jalonnent leur chemin, nos
 aventuriers décident d'aller directement vers l'entrée principale. L'avancée est
@@ -9,35 +9,39 @@ gaie, un lapin les regarde.
 Finalement, leurs yeux débusquent deux entrées taillées dans la roche de chaque
 coté de la caverne et ils décident d'y jeter un œil. Un sentiment de malaise les
 prends quand ils sentent l'air froid venir de l'entrée sur la gauche et ils
-décident de ne pas l'explorer. L'entrée sur la droite donne sur une petit pièce
+décident de ne pas l'explorer. L'entrée sur la droite donne sur une petite pièce
 carrée à l'odeur de moisi, mais voyant que celle-ci donne sur deux couloirs et
 une porte fermée, ils décident de l'ignorer aussi.
 
-L'un des batiments en ruine, qui comporte encore certains de ses arches en
-pierre et une statue d'un nain en armure, genoux à terre, attire leur attention.
+L'un des batiments en ruine, qui comporte encore certaines de ses arches en
+pierre et une statue d'un nain en armure, genou à terre, attire leur attention.
 Ils identifient que la statue représente un ancien dieu du devoir et de la
 fidélité. Après une courte prière, ils continuent en direction de l'entrée de
 plus belle, en faisant un petit détour par la cascade. Ils y découvrent une
 végétation luxuriante, en grande partie due à la chaleur de l'eau.
 
+<img src="waterfall.jpg" class="db h5 br2 center" />
+
 L'unique œil valide d'Arenden parvient à débusquer une entrée camouflée derrière
 des buissons, sur la droite de l'arche principale. Ils se décident donc
 à l'explorer en priorité. Ils n'y découvent que quelques pièces abandonnées, ne
 comportant rien de plus que des outils d'aventurier oubliés, humides ou cassés.
-Ils mettent fin aux souffrance d'un blaireau blessés, tuent quelques puces de
+Ils mettent fin aux souffrance d'un blaireau blessé, tuent quelques puces de
 lit géantes et coupent un cobra géant en rondelle sans difficulté. Ce sera un
 piège à base de sac de sable qui leur donnera leur première vraie action
 (heureusement, le casque d'Arenden arreta toute potentielle blessure).
 
 Dans la dernière salle, trop pressé de vouloir lire les inscriptions sur le
 trone en pierre, notre sorcier ne vit pas la dalle piègée et tomba dans un
-profond trou. Il s'en sorti indemne, et cela ne l'empeche pas de découvrir une
+profond trou. Il s'en sorti indemne, et cela ne l'empecha pas de découvrir une
 porte secrète qu'ils parvinrent à débloquer avec leur force combinée. La salle
-suivant semblait être un repaire d'alchimiste, mais toutes les potions étaient
+suivante semblait être un repaire d'alchimiste, mais toutes les potions étaient
 soient renversées soient brisées. Néanmoins, ils réussirent à trouver dans un
 pied de la table quelques pièces d'or, une potion de soin et un anneau magique.
-À part quelques runes Elfes et le fin qu'il ait un rapport avec la
+À part quelques runes Elfes et le fait qu'il ait un rapport avec la
 téléportation, ils ne purent en comprendre mieux les effets.
+
+<img src="teleport-ring.jpg" class="db w4 br2 center" />
 
 Déçus de ne pas avoir découvert une entrée secrète au donjon, nos aventuriers
 font marche arrière et se résignent à entrer dans Stonehell par la porte
@@ -72,6 +76,8 @@ Ils passent à coté d'un puit qui siffle, mais repèrent rapidement un groupe d
 Kobold en train de récupérer du guano de chauve-souris dans une caverne
 adjacente.
 
+<img src="kobold.jpg" class="db h5 br2 center" />
+
 S'approchain discrètement, ils parviennent à les attaquer par surprise et avec
 l'action conjointe de leur sort de feu et des attaques des deux guerriers, la
 moitié des Kobolds sont morts avant d'avoir pu comprendre ce qui leur arrivait.
@@ -101,6 +107,8 @@ dans une petite pièce, l'un d'eux parvient à se faufiler dans son pantalon par
 la jambe et lui déchire en lambeaux celle-ci. Si ce n'était grâce au Sorcier qui
 parvient à la trainer hors de la pièce et lui administrer la potion de soin
 trouvées précédemment, ça en aurait été fini d'Arenden.
+
+<img src="rats.jpg" class="db h4 br2 center bg-black o-50" />
 
 Quelques soins plus tard, tout le monde est de nouveau en forme et les Kobolds
 morts ou en fuite. Nos aventuriers décident de monter un camp de repos dans la

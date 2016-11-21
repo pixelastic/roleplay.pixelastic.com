@@ -6,32 +6,10 @@ page '/*.xml', layout: false
 page '/*.json', layout: false
 page '/*.txt', layout: false
 
-# Do not build partials
-ignore '/partials/*'
-# Do not build the images sources
-ignore '/img/sources/*'
-
 # Shorter dir names in ./source
 set :js_dir, 'js'
 set :css_dir, 'css'
 set :images_dir, 'img'
-
-# Uncomment to debug builds, bypassing all image copy
-# ignore '/images/*'
-
-# Build a page for each session
-data.index.each do |game|
-  proxy "#{game.slug}/index.html",
-        '/partials/game.html',
-        locals: { game: game },
-        ignore: true
-  game.sessions.each do |session|
-    proxy "#{game.slug}/#{session.name.slugify}.html",
-          '/partials/session.html',
-          locals: { game: game, session: session },
-          ignore: true
-  end
-end
 
 configure :development do
   activate :livereload
@@ -39,77 +17,164 @@ configure :development do
   set :reload_paths, ["#{File.dirname __FILE__}/data"]
 end
 
-
-helpers do
-  def nav_active(slug)
-    current_page.path =~ /^#{slug}\// ? 'b bg-green' : ''
-  end
-
-  def slug(input)
+# Do not build partials
+ignore '/partials/*'
+# Do not build the images sources
+ignore '/img/sources/*'
+# Uncomment to debug builds, bypassing all image copy
+# ignore '*.mp3'
+ 
+class Roleplay
+  # Return a slugified version
+  def self.slug(input)
     input.slugify
   end
 
-  # Gets the data associated with the game, from its name. It's basically only
-  # reading in data.{game_name} but makes it easier to access
-  def game(name)
-    data.send(name.to_sym)
-  end
-
-  # Gets the root web path of a given session. Podcasts and images will be
-  # relative to that path
-  def session_path(game, session)
+  # Directory path of the session, relative to ./source
+  def self.source_session_path(game, session)
     File.join(
       game.slug,
       "#{session.date}-#{slug(session.name)}"
     )
   end
 
-  # Gets the url of the image of this session
-  def session_picture(game, session)
-    "/#{session_path(game, session)}/image.jpg"
-  end
-
-  # Gets the filepath of the file containing the notes of the session
-  def session_notes(game, session)
-    filepath = File.expand_path(
-      "./source/#{session_path(game, session)}/_notes.md"
+  # Filepath of the markdown file holding the session description, relative to
+  # ./source
+  def self.source_session_notes_path(game, session)
+    File.join(
+      source_session_path(game, session),
+      '_notes.md'
     )
-    return nil unless File.exist?(filepath)
-    filepath
   end
 
-  # Gets the filepath of the notes, relative to the partials directory, so we
-  # can use it in partials
-  def session_notes_filepath_for_partials(game, session)
-    filepath = session_notes(game, session)
-    split = filepath.split('/')
-    source_index = split.find_index('source') + 1
-    File.join('..', *split[source_index..-1])
-  end
-
-  # Check if session has a podcast
-  def podcast?(game, session)
-    filepath = File.expand_path(
-      "./source/#{session_path(game, session)}/podcast.mp3"
+  # Filepath of the mp3 podcast, relative to ./source
+  def self.source_session_podcast_path(game, session)
+    File.join(
+      source_session_path(game, session),
+      'podcast.mp3'
     )
-    File.exist?(filepath)
   end
 
-  # Gets the filepath of podcast
-  def session_podcast(game, session)
-    "/#{session_path(game, session)}/podcast.mp3"
+  # Filepath of the additional images of a session, relative to ./source
+  def self.source_session_pictures_path(game, session)
+    path = source_session_path(game, session)
+    pictures = Dir.glob("./source/#{path}/*.{jpg,gif}").sort
+
+    # Removing the cover
+    pictures.reject! do |picture|
+      File.basename(picture) == 'image.jpg'
+    end
+
+    # Removing the ./source prefix
+    pictures.map! do |picture|
+      picture.gsub('/source/', '/')
+    end
+
+    pictures
   end
 
-  # Gets the first paragraph of notes of a session
-  def session_description(game, session)
-    note_file = session_notes(game, session)
-    return nil if note_file.nil?
-
-    raw = File.read(note_file)
-    raw.split("\n\n").first
+  # Web path of the session, relative to /
+  def self.build_session_path(game, session)
+    File.join('/', game.slug, slug(session.name), '/')
   end
 
-  # Gets a human-readable version of the date of the session
+  # Web path of the picture illustrating a session
+  def self.build_session_picture_path(game, session)
+    File.join(
+      build_session_path(game, session),
+      'image.jpg'
+    )
+  end
+
+  # Web path of all the additional pictures of a session
+  def self.build_session_pictures_path(game, session)
+    pictures = source_session_pictures_path(game, session)
+    date = session.date
+    pictures.map! do |picture|
+      picture.gsub("/#{date}-", '/')[1..-1]
+    end
+  end
+
+  # Web path of the mp3 podcast of a session
+  def self.build_session_podcast_path(game, session)
+    File.join(
+      build_session_path(game, session),
+      'podcast.mp3'
+    )
+  end
+end
+
+# Build a page for each session
+data.index.each do |game|
+  # Index page, listing all sessions of a given name
+  proxy "#{game.slug}/index.html",
+        '/partials/game.html',
+        locals: { game: game },
+        ignore: true
+
+  # For each session of the game
+  game.sessions.each do |session|
+    # Creating the index page
+    proxy "#{game.slug}/#{Roleplay.slug(session.name)}/index.html",
+          '/partials/session.html',
+          locals: { game: game, session: session },
+          ignore: true
+  end
+end
+
+
+# Change the resource list so the final build does not include dates in
+# directories
+unless defined?(Middleman::Extension::RemoveDateFromDirectories) == 'constant'
+  class RemoveDateFromDirectories < Middleman::Extension
+    def initialize(app, options_hash={}, &block)
+      super
+    end
+    def manipulate_resource_list(resources)
+      resources.each do |resource|
+        next if resource.ignored?
+
+        # Skipping simple files
+        destination_path = resource.destination_path
+        path_split = destination_path.split('/')
+        next if path_split.size != 3
+
+        # Skipping assets
+        game = path_split[0]
+        next if ['fonts', 'img', 'css', 'js'].include?(game)
+
+        # Reconstruction the final path by removing the date
+        dirname = path_split[1]
+        basename = path_split[2]
+        session = dirname[11..-1]
+        final_path = "#{game}/#{session}/#{basename}"
+        resource.destination_path = final_path
+      end
+
+      resources
+    end
+  end
+  ::Middleman::Extensions.register(:remove_date_from_directories, RemoveDateFromDirectories)
+  activate :remove_date_from_directories
+end
+
+helpers do
+  def nav_active(slug)
+    current_page.path =~ /^#{slug}\// ? 'b bg-green' : ''
+  end
+
+  def session_url(game, session)
+    Roleplay.build_session_path(game, session)
+  end
+
+  def session_picture_url(game, session)
+    Roleplay.build_session_picture_path(game, session)
+  end
+
+  def session_podcast_url(game, session)
+    Roleplay.build_session_podcast_path(game, session)
+  end
+
   def session_date(session)
     I18n.localize(
       Date.strptime(session.date, '%Y-%m-%d'),
@@ -117,37 +182,47 @@ helpers do
     )
   end
 
-  def session_link(game, session)
-    "/#{slug(game.name)}/#{slug(session.name)}.html"
+  def session_description_short(game, session)
+    notes_file = File.join(
+      './source',
+      Roleplay.source_session_notes_path(game, session)
+    )
+    return nil unless File.exists?(notes_file)
+
+    raw = File.read(notes_file)
+    raw.split("\n\n").first
   end
 
   def session_pictures(game, session)
-    path = session_path(game, session)
-    pictures = Dir.glob("./source/#{path}/*.{jpg,gif}").sort
+    Roleplay.build_session_pictures_path(game, session)
+  end
 
-    # Removing the cover
-    pictures = pictures.reject do |picture|
-      File.basename(picture) == 'image.jpg'
-    end
+  def session_podcast(game, session)
+    Roleplay.build_session_podcast_path(game, session)
+  end
 
-    # Using http urls
-    pictures = pictures.map do |picture|
-      "/#{path}/#{File.basename(picture)}"
-    end
+  def podcast?(game, session)
+    File.exist?(File.join(
+      './source',
+      Roleplay.source_session_podcast_path(game, session))
+    )
+  end
 
-    pictures
+  def render_description(game, session)
+    note_path = Roleplay.source_session_notes_path(game, session)
+    path_relative_to_partials = File.join('..', note_path)
+
+    html = partial(path_relative_to_partials)
+
+    # Images used in markdown are relative to the :images_dir. When in a game
+    # session, we want them relative to the current directory, so we remove the
+    # :images_dir prefix
+    html.gsub(%r{src="/img/}, 'src="')
   end
 
   def cloudinary(url, options)
+    return url unless build?
     base_url = 'http://res.cloudinary.com/pixelastic-roleplay/image/fetch/'
     "#{base_url}#{options.join(',')}/http://roleplay.pixelastic.com#{url}"
-  end
-
-  def cloudinary_thumbnail(url)
-    cloudinary(url, %w(w_400 q_100 c_scale f_auto))
-  end
-
-  def cloudinary_image(url)
-    cloudinary(url, %w(q_90 f_auto))
   end
 end

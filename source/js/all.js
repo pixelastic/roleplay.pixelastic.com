@@ -1,18 +1,7 @@
 "use strict";
-$(document).ready(() => {
-  $('.js-player').mediaelementplayer({
-    success: function success(mediaElement, originalNode) {}
-  });
+// TODO
+'use strict';
 
-  let fancyboxes = $('.js-fancybox');
-  if (fancyboxes) {
-    fancyboxes.fancybox({
-      helpers: {
-        overlay: {
-          locked: false
-        },
-        media: {}
-      }
-    });
-  }
+$('.js-player').mediaelementplayer({
+  success: function success(mediaElement, originalNode) {}
 });

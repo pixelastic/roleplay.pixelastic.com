@@ -10,9 +10,9 @@
 
     %div.flex.flex-row.flex-wrap.justify-center.mb4
       - game.sessions.each_with_index do |session, index|
-        - link = session_link(game, session)
-        - picture = session_picture(game, session)
-        - picture = cloudinary_image(picture) if build?
+        - link = session_url(game, session)
+        - picture = session_picture_url(game, session)
+        - picture = cloudinary(picture, %w(w_900 q_90 c_scale f_auto))
         - date = session_date(session)
         %a.link.flex-auto.relative.w5.h5.antique.bg-cover.bg-center{href: link, style: "background-image: url(#{picture})"}
           .absolute.top-0.w-0.bg-black-50.white-90.f3.ph2.pv1

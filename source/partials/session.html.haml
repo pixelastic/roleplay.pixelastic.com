@@ -1,12 +1,10 @@
 ---
 ---
-- podcast = session_podcast(game, session)
-- background_picture = session_picture(game, session)
-- pictures = session_pictures(game, session)
-- notes = session_notes(game, session)
-- date = session_date(session)
+- background_picture = session_picture_url(game, session)
+- background_picture = cloudinary(background_picture, %w(q_90 f_auto))
 - content_for(:background_picture, background_picture)
 - content_for(:title, session.name)
+- date = session_date(session)
 
 
 %div.bg-black-90.br3.pa3.mh5-l.c-session--text-wrapper
@@ -15,24 +13,23 @@
     = session.name
     .di.f3.antique.gray=session.players
 
-
-  -# Text
   .f4-l.f5.lh-copy.taj.white-60.ph4-l.ph1
     .f3.antique=date
 
+    - podcast = session_podcast(game, session)
     - if podcast?(game, session)
       %div.mt3
         %audio{class: 'js-player', controls: '', preload: 'auto', src: podcast}
           %source{src: podcast}
         %a.link{href: podcast} Télécharger le .mp3
 
-    =partial(session_notes_filepath_for_partials(game, session))
+    =render_description(game, session)
 
   -# Pictures
+  - pictures = session_pictures(game, session)
   %div.flex.flex-row.flex-wrap.justify-center
     - pictures.each do |picture|
-      - thumbnail = picture
-      - thumbnail = cloudinary_thumbnail(picture) if build?
-      - picture = cloudinary_image(picture) if build?
+      - thumbnail = cloudinary(picture, %w(w_350 q_90 c_scale f_auto))
+      - picture = cloudinary(picture, %w(q_90 f_auto))
       %a.flex-auto.mw-25.w-33.w-20-l.ma2.br2.pointer.js-fancybox{href: picture, rel: 'pictures'}
         %div.br2.bg-cover.bg-center.h5-l.h4{'style': "background-image: url(#{thumbnail})"}
