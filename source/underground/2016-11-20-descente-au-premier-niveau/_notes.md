@@ -1,6 +1,6 @@
-_Nos trois aventuriers traversent la caverne pour aller descendre au premier
+Nos trois aventuriers traversent la caverne pour aller descendre au premier
 niveau de Stonehell. Ils explorent avec discrétion jusqu'à ce qu'un Kobold
-parvienne à s'enfuir et à donner l'alarme._
+parvienne à s'enfuir et à donner l'alarme.
 
 Peu intéressés par les différentes ruines qui jalonnent leur chemin, nos
 aventuriers décident d'aller directement vers l'entrée principale. L'avancée est
