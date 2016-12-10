@@ -176,6 +176,11 @@
         "name": "Infirmary breakout",
         "date": "2016-11-22",
         "players": "Anthony, Lucas, Paul-Louis, RCS"
+      },
+      {
+        "name": "Bar Fight",
+        "date": "2016-12-09",
+        "players": "Anthony, Lucas, Paul-Louis, RCS"
       }
     ]
   },
@@ -236,6 +241,11 @@
         "name": "Création de persos",
         "date": "2016-10-23",
         "players": "Fabien, Marion, Tim, Traz"
+      },
+      {
+        "name": "Mort d'Iram Dalen",
+        "date": "2016-12-08",
+        "players": "Fabien, Marion, Maud, Tim et Traz"
       }
     ]
   }
