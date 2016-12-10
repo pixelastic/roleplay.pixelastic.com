@@ -5,7 +5,7 @@
   -# Menu
   .dn.flex-ns.flex-auto.list.flex-row.flex-nowrap.justify-end
     -# Looping through each defined menu element
-    - data.index.each do |game|
+    - data.index.sort_by { |game| game.sessions.length }.reverse.each do |game|
       - next if game.sessions.length < 2
       %a.flex-none.white.no-underline.tc.ph3{href: "/#{game.slug}/", class: nav_active(game.slug)}
 

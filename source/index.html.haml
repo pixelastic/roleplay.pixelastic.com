@@ -3,7 +3,7 @@
 - content_for(:title, 'Roleplay')
 
 %div
-  - data.index.each do |game|
+  - data.index.sort_by { |game| game.sessions.length }.reverse.each do |game|
     %h2.antique.ma0.mb2
       %a.link.f2{href: "/#{game.slug}/"}=game.name
       .di.f4.antique.gray=game.players
