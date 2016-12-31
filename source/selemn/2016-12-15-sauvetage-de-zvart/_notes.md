@@ -129,7 +129,7 @@ pour finir les deux derniers mais celui-ci étant étroit il est assez difficile
 de passer. Le combat tourne rapidement à la foire d'empoigne car l'espace est
 très réduit. Nous parvenons à tuer le garde du corps et à assomer Zarlif, non
 sans avoir deux membre de notre équipe assez amochés. Nous nous soignons et
-attachons Zarlif à la place du halfelin pour l'interroger plus tard. Xzvart est
+attachons Zarlif à la place du halfelin pour l'interroger plus tard. Zvart est
 sauvé, mais on apprends qu'il devait 75 pieces d'or à Zarlif, et nous lui disons
 que c'est à nous qu'il doit cet argent désormais et qu'il va avoir une sacré
 dette envers nous.
