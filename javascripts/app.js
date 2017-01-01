@@ -1,5 +1,2 @@
-// TODO
-$('.js-player').mediaelementplayer({
-  success: function(mediaElement, originalNode) {
-  }
-});
+$('.js-fancybox').fancybox();
+$('.js-player').mediaelementplayer();
