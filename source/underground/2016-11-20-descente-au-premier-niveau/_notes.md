@@ -126,8 +126,8 @@ Ils décident de passer la nuit là pour continuer leur exploration le lendemain
 
 Pour défoncer une porte (ou tout autre object), il faut le frapper avec une arme
 capable de le détruire (hache, marteau, etc). On touche sur une Parry de 2. Il
-faut ensuite dépasser le Toughness de la porte (6 pour porte simple, 8 pour
-épaisse, 10 pour renforcée).
+faut ensuite dépasser le Toughness de la porte (8 pour porte simple, 10 pour
+épaisse, 12 pour renforcée).
 
 ### Poison
 
@@ -135,18 +135,32 @@ Quand un personnage est infecté par du poison, il doit réussir un jet de Vigor
 ou prendre un niveau de Fatigue (-1 à tous les jets, maximum -2. Si -3,
 évanoui)
 
-### Découvrir un piège
-
-Lors de la fouille d'une salle, si réussite avec un Raise, découvre
-potentiellement les pièges et portes secretes. Si marche sur un piège sans le
-savoir, peut avoir un jet d'Athlétisme ou de Notice pour limiter les effets.
-
 ### Fouiller une pièce
 
 Jet de Notice. Seulement une personne peut fouiller une pièce, et ne peut le
-faire qu'une fois. Selon la marge de réussite, le MJ indique ce que le PJ
-trouve. Si la salle ne contient rien, même une très forte réussite ne fait pas
-apparaitre un loot.
+faire qu'une fois.
+- Sur un échec critique, la fouille peut avoir attiré des monstres errants
+- Sur un échec, on ne trouve rien
+- Sur une réussite, on trouve les éléments classiques et non cachés
+- Sur un Raise, on peut découvrir des passages secrets
+
+Le TN de base est de 4, mais il peut être modifié au besoin. À noter qu'un Raise
+dans une salle qui ne contenait rien ne fait rien apparaitre.
+
+S'ils le désirent, les PJs peuvent refouiller une pièce à nouveau, en y passant
+1 heure supplémentaire. Cela déclenche un jet sur la table des monstres errants.
+
+### Découvrir un piège
+
+Les Pjs peuvent fouiller précisement à la recherche de pièges dans une salle, ce
+qui prends 1h et appelle un jet sur les monstres errants.
+
+Sinon, on considère qu'ils se déplacent toujours de manière relativement
+prudente et s'ils viennent à activer un piège, ils ont le droit à un jet de
+Notice. En cas d'échec, ils se prennent le piège dans sa totalité, en cas de
+réussite ils ont le droit à une action (sans pour autant savoir ce que le piège
+va faire, juste qu'ils ont activé quelque chose), et avec des Raise ils peuvent
+potentiellement l'esquiver ou amoindrir les dégats.
 
 ### Identifier des objets
 
