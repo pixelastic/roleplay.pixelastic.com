@@ -117,3 +117,37 @@ que cet endroit et le Temple de Tilimvor. Puis, les yeux s'éteignent et la
 bouche arrete de souffler de la fumée. Plus confus qu'autre chose, ils décident
 que cette journée d'exploration était bien assez mouvementée et retournent dans
 à leur camp de base.
+
+## Le mot du MJ
+
+Une plus longue partie, même s'il n'y avait que deux joueurs, ils s'en sont
+sortis avec plus de facilité que celle de la veille. Peut-être est-ce parce que
+les sorts du magiciens sont plus puissants ou peut-être parce qu'ils ont étés
+plus prudents.
+
+J'ai oublié de faire la règle du Backlash des magiciens (un 1 sur le
+Spellcasting die le Shaken) qui aurait peut-être pu rendre les combats plus
+complexe. À l'inverse, je me suis aussi trompé dans la manière dont les Wild
+Cards peuvent être blessés. S'ils sont Shaken, un nouveau résultat de Shaken ne
+leur fait rien, il faut un Raise (les Extras continuent de mourir s'ils sont
+Shaken alors que déjà Shaken).
+
+Il y a eu pas mal d'objets magiques trouvés de manière random en fouillant
+certaines pièces. J'ai pas l'habitude d'avoir mes joueurs avec autant d'objets
+magiques (pas dans Warhammer en tout cas), mais là c'est un autre genre de jeu
+et ça me va d'essayer ça. J'essaie de donner des objets qui ne soient pas trop
+puissants, mais qui peuvent permettre de gérer des encounter de manière tactique
+(le médaillon est assez puissant cela dit).
+
+Ils ont bien gérés globalement les rencontres, en étant prudent, en tendant des
+pièges, etc. Le degré de difficulté a été juste ce qu'il faut, voir un peu
+facile pour eux, mais je ne vais pas le changer pour le moment. C'est que le
+premier niveau du donjon. Si ça devient trop une promenade de santé je changerai
+quelques trucs.
+
+Globalement je me suis beaucoup amusé, et le système de cartes Hearthstone
+fonctionne bien. J'ai aussi laissé les joueurs gérer la distribution des cartes
+d'initiative, ce qui me fait aussi gagner du temps. Je continue de lancer mes
+dés en public, sauf pour les dés de monstres errants. J'essaierai la prochaine
+fois de garder ma carte d'initiative secrete, pour qu'ils ne sachent pas quand
+ils se feront frapper.

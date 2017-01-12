@@ -58,7 +58,7 @@ class Roleplay
   # Filepath of the additional images of a session, relative to ./source
   def self.source_session_pictures_path(game, session)
     path = source_session_path(game, session)
-    pictures = Dir.glob("./source/#{path}/*.{jpg,gif}").sort
+    pictures = Dir.glob("./source/#{path}/*.{jpg,gif,png}").sort
 
     # Removing the cover
     pictures.reject! do |picture|

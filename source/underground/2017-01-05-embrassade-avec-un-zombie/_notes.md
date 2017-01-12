@@ -43,7 +43,6 @@ Arenden n'ayant survécu que miraculeusement à cet affrontement, nos héros
 décident de s'arreter là pour le moment et retournent en sécurité dans leur
 salle de repos.
 
-
 ## Le mot du MJ
 
 Dans cette partie, j'ai décidé que pour ouvrir une porte, il fallait faire un
@@ -86,4 +85,12 @@ contre un), ainsi que les règles des Wounds sur les PJ (pour un Wild Card, un
 Shaken alors qu'il est déjà Shaken ne donne pas de blessure, il faut forcément
 un Raise). En tout cas, ils ont fini par prendre des risques pour sortir du
 combat et le tuer à distance.
+
+J'ai aussi sur cette partie commencé à jouer avec des cartes cartonnées
+imprimées avec certains points de règles, caractéristiques de monstres, etc. Ça
+me permet de partager des infos avec les joueurs pour qu'ils sachent combien ile
+doivent faire en Parry et en Toughness et leur permet de mieux réaliser ce
+qu'ils affrontent. Pour moi, quand je suis pris de court je peux aussi
+facilement choisir un monstre, un piège ou un objet de loot.
+
 
