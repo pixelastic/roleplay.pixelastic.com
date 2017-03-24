@@ -89,20 +89,21 @@ se trouvant derrière.
 
 Le sol et les murs sont recouverts de pentagrames et d'écritures sordides. Un
 escalier en colimaçon descent profondément jusqu'au sous-sol. Là bas, nous
-y trouvons une elfe enfermée dans un cachot. Elle semble avoir été capturée par
-Cyn'Gen, et sans doute torturée, peut-etre même dans le but d'obtenir des
-informations sur Arkhem.
+y trouvons une elfe du nom de Dehisal enfermée dans un cachot. Elle semble avoir
+été capturée par Cyn'Gen, et sans doute torturée, peut-etre même dans le but
+d'obtenir des informations sur Arkhem.
 
 Le sous-sol abrite une autre cellule, vide, et une porte secrete nous permet de
 ressortir dans les sous-sols publics du batiment, là où j'avais vu le
 garde-manger et les donjons. Nous sommes extenués, et nos sorts finissent par
 s'estomper. Nous nous reposons un peu et tentons une nouvelle sortie. Arkhem
-rends invisible Bastheth et l'elfe, et sous forme féline, je les guide jusque la
+rends invisible Basteth et Dehisal, et sous forme féline, je les guide jusque la
 sortie. Les gardes sont aux aguets mais nous parvenons à sortir sans éveiller
 trop de soupçons.
 
 Je tente de courir pour prévenir Kervin de nous aider, mais celui-ci ne souhaite
-pas intervenir. Pendant ce temps Bastheth va mettre l'elfe en sécurité.
+pas intervenir. Je lui indique quand même de prévenir Eldan de cette aventure
+dès qu'il en aura l'occasion. Pendant ce temps Bastheth va mettre Dehisal en sécurité.
 
 Viennent ensuite le tour d'Arkhem et d'Etith. Ils n'ont plus de sorts, mais
 seulement une potion de forme gazeuse. Etith, la plus discrète des deux,
@@ -113,6 +114,6 @@ doit s'enfuir in extremis après avoir ingurgité la potion.
 
 Au final de cette expédition, nous ne savons toujours pas pourquoi Cyn'gen en
 voulait à Arkhem, mais au moins elle ne nous causera plus de problèmes. Nous
-avons sauvé une elfe, qui pourra sans doute nous en dire un peu plus une fois
+avons sauvé Dehisal, qui pourra sans doute nous en dire un peu plus une fois
 qu'on aura pu la soigner un peu.
 

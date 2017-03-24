@@ -244,6 +244,21 @@
         "name": "Compromis d'enterrement",
         "date": "2017-01-19",
         "players": "Fabien, Maud, Tim et Traz"
+      },
+      {
+        "name": "Tentative de vol du cercueil",
+        "date": "2017-02-24",
+        "players": "Fabien, Maud, Tim et Traz"
+      },
+      {
+        "name": "Enquête sur Ma'han",
+        "date": "2017-03-09",
+        "players": "Fabien, Maud, Tim et Traz"
+      },
+      {
+        "name": "Infiltration chez Cyn'gen",
+        "date": "2017-03-15",
+        "players": "Fabien, Maud, Tim et Traz"
       }
     ]
   },
@@ -267,6 +282,11 @@
       {
         "name": "Départ de Nuln",
         "date": "2016-07-01",
+        "players": "Alx, Fabien et Traz"
+      },
+      {
+        "name": "Traitrise dans la nuit",
+        "date": "2017-03-20",
         "players": "Alx, Fabien et Traz"
       }
     ]
