@@ -113,12 +113,22 @@ data.index.each do |game|
         ignore: true
 
   # For each session of the game
-  game.sessions.each do |session|
-    # Creating the index page
+  previous_session = nil
+  next_session = nil
+  game.sessions.each_with_index do |session, index|
+    next_session = game.sessions[index + 1]
+    # Creating the detail of the session
     proxy "#{game.slug}/#{Roleplay.slug(session.name)}/index.html",
           '/partials/session.html',
-          locals: { game: game, session: session },
+          locals: {
+            game: game,
+            session: session,
+            next_session: next_session,
+            previous_session: previous_session
+          },
           ignore: true
+
+    previous_session = session
   end
 end
 

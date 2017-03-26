@@ -6,30 +6,43 @@
 - content_for(:title, session.name)
 - date = session_date(session)
 
-%div.bg-black-90.br3.pa3.mh5-l
-  -# Title
-  %h2.ma0.antique.f1-l.f2.dark-green.c-session--title
-    = session.name
-    .di.f3.antique.gray=session.players
 
-  .f4-l.f5.lh-copy.taj.white-60.ph4-l.ph1
-    .f3.antique=date
+.frnw
+  .fn.w2.flex.w3-l
+    - unless previous_session.nil?
+      %a.fa.cursor.o-0{href: session_url(game, previous_session)} &lt;&lt;
 
-    - podcast = session_podcast(game, session)
-    - if podcast?(game, session)
-      %div.mt3
-        %audio{class: 'js-player', controls: '', preload: 'auto', src: podcast}
-          %source{src: podcast}
-        %a.link{href: podcast} Télécharger le .mp3
+  -# Main content
+  .fa.bg-black-90.br3.pa3
 
-    =render_description(game, session)
+    -# Title
+    %h2.ma0.antique.f1-l.f2.dark-green.c-session--title
+      = session.name
+      .di.f3.antique.gray=session.players
 
-  -# Pictures
-  - pictures = session_pictures(game, session)
-  %div.flex.flex-row.flex-wrap.justify-center
-    - pictures.each do |picture|
-      - thumbnail = cloudinary(picture, %w(w_350 q_90 c_scale f_auto))
-      - picture = cloudinary(picture, %w(q_90 f_auto))
-      %a.flex-auto.mw-25.w-33.w-20-l.ma2.br2.pointer.js-fancybox{href: picture, rel: 'pictures'}
-        %div.br2.bg-contain.bg-center.h5-l.h4{'style': "background-image: url(#{thumbnail})"}
+    .f4-l.f5.lh-copy.taj.white-60.ph4-l.ph1
+      .f3.antique=date
+
+      - podcast = session_podcast(game, session)
+      - if podcast?(game, session)
+        %div.mt3
+          %audio{class: 'js-player', controls: '', preload: 'auto', src: podcast}
+            %source{src: podcast}
+          %a.link{href: podcast} Télécharger le .mp3
+
+      =render_description(game, session)
+
+    -# Pictures
+    - pictures = session_pictures(game, session)
+    %div.flex.flex-row.flex-wrap.justify-center
+      - pictures.each do |picture|
+        - thumbnail = cloudinary(picture, %w(w_350 q_90 c_scale f_auto))
+        - picture = cloudinary(picture, %w(q_90 f_auto))
+        %a.flex-auto.mw-25.w-33.w-20-l.ma2.br2.pointer.js-fancybox{href: picture, rel: 'pictures'}
+          %div.br2.bg-contain.bg-center.h5-l.h4{'style': "background-image: url(#{thumbnail})"}
+
+
+  .fn.w2.flex.w3-l
+    - unless next_session.nil?
+      %a.fa.cursor.o-0{href: session_url(game, next_session)} &gt;&gt;
 

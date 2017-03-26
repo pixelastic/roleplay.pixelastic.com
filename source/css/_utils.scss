@@ -8,8 +8,6 @@
 .bg-cover { background-size: cover; }
 .bg-contain { background-size: contain; }
 // Flexbox
-  .df { display: flex; }
-  @media screen and (min-width: 60em) { .df-l { display: flex; } }
   // Row/Columns
   .frw { display: flex; flex-direction: row; flex-wrap: wrap; }
   .frnw { display: flex; flex-direction: row; }

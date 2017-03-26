@@ -13,7 +13,7 @@
     %link{rel: "shortcut icon", href: "/favicon.ico"}
 
   %body
-    %div.l-container.bg-texture.bg-washed-green
+    .l-container.bg-texture.bg-washed-green
       =partial('partials/header')
 
       -# Add hero picture if one is defined
@@ -21,7 +21,7 @@
       - unless background_picture.nil?
         %div.fixed.w-100.h-100.z-1.bg-center.bg-cover{style: ("background-image: url(#{background_picture})" unless background_picture.nil?)}
 
-      %div.mh2.mh5-l.pv3.z-2.relative
+      .pv3.z-2.relative
         = yield
 
         .tc.f6.gray.pt2
