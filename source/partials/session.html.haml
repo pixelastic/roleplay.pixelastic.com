@@ -6,8 +6,7 @@
 - content_for(:title, session.name)
 - date = session_date(session)
 
-
-%div.bg-black-90.br3.pa3.mh5-l.c-session--text-wrapper
+%div.bg-black-90.br3.pa3.mh5-l
   -# Title
   %h2.ma0.antique.f1-l.f2.dark-green.c-session--title
     = session.name
@@ -33,3 +32,4 @@
       - picture = cloudinary(picture, %w(q_90 f_auto))
       %a.flex-auto.mw-25.w-33.w-20-l.ma2.br2.pointer.js-fancybox{href: picture, rel: 'pictures'}
         %div.br2.bg-contain.bg-center.h5-l.h4{'style': "background-image: url(#{thumbnail})"}
+

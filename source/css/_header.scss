@@ -20,3 +20,45 @@
     margin-top: -24px;
   }
 }
+
+/**
+ * Clicking on the label will hide/display the menu by default
+ * Hamburger icon is done through before/after
+ **/
+.c-header--menu-label {
+  position: relative;
+  $hamburger-size: 20px;
+  padding-left:$hamburger-size + 10px;
+  &:before {
+    content: "";
+    position: absolute;
+    display: block;
+    left: 5px;
+    top: 50%;
+    margin-top: -$hamburger-size / 2;
+    width: $hamburger-size;
+    height: $hamburger-size / 5 * 3;
+    border-top: ($hamburger-size / 5) solid white;
+    border-bottom: ($hamburger-size / 5) solid white;
+  }
+  &:after {
+    content: "";
+    position: absolute;
+    display: block;
+    left: 5px;
+    top: 50%;
+    margin-top: -$hamburger-size / 10;
+    width: $hamburger-size;
+    height: $hamburger-size / 5;
+    background: white;
+  }
+
+}
+
+.c-header--menu-checkbox:checked ~ .c-header--menu {
+  display: block;
+  top: $header-height;
+  @media screen and (min-width: 60em) { 
+    top: 0;
+  }
+}

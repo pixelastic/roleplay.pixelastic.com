@@ -1,12 +1,20 @@
-%header.l-header.fixed.bg-dark-green.top-0.w-100.ph3.ph4-ns.flex.flex-row.z-5
+%header.l-header.fixed.bg-dark-green.top-0.w-100.flex.flex-row.z-5.ph4-ns
+  -# Title
   %h1.ma0.pa0.flex-auto
     %a.c-header--logo.white.no-underline.antique{'href': '/'}
       Roleplay
+
+  -# Menu toggle
+  %label.c-header--menu-label.fn.white.pointer.mr3.dn-l{for: 'menu-toggle'}
+    Menu
+
   -# Menu
-  .dn.flex-ns.flex-auto.list.flex-row.flex-nowrap.justify-end
+  %input.c-header--menu-checkbox.dn{type: 'checkbox', id:'menu-toggle'}
+  - classes_mobile = 'dn absolute right-0 w4'
+  - classes_desktop = 'relative-l w-auto-l flex-l'
+  .c-header--menu.bg-dark-green{class: "#{classes_mobile} #{classes_desktop}"}
     -# Looping through each defined menu element
     - data.index.sort_by { |game| game.sessions.length }.reverse.each do |game|
       - next if game.sessions.length < 2
-      %a.flex-none.white.no-underline.tc.ph3{href: "/#{game.slug}/", class: nav_active(game.slug)}
-
+      %a.db.di-l.white.no-underline.tc.ph3-l.ph1{href: "/#{game.slug}/", class: nav_active(game.slug)}
         =game.name
