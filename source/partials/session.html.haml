@@ -39,7 +39,7 @@
         - thumbnail = cloudinary(picture, %w(w_350 q_90 c_scale f_auto))
         - picture = cloudinary(picture, %w(q_90 f_auto))
         %a.flex-auto.mw-25.w-33.w-20-l.ma2.br2.pointer.js-fancybox{href: picture, rel: 'pictures'}
-          %div.br2.bg-contain.bg-center.h5-l.h4{'style': "background-image: url(#{thumbnail})"}
+          %div.br2.bg-cover.bg-center.h5-l.h4{'style': "background-image: url('#{thumbnail}')"}
 
 
   .fn.w2.flex.w3-l
