@@ -128,6 +128,14 @@
         "name": "Sauvetage de l'auberge",
         "date": "2017-04-12",
         "players": "Alx, Arthur, Fabien et Traz"
+      }, {
+        "name": "Attaque du Shaman Homme-Bete",
+        "date": "2017-04-18",
+        "players": "Alx, Arthur, Fabien et Traz"
+      }, {
+        "name": "Récupération des chasseurs",
+        "date": "2017-05-02",
+        "players": "Alx, Arthur, Fabien et Traz"
       }
     ]
   },
@@ -241,36 +249,46 @@
         "name": "Création de persos",
         "date": "2016-10-23",
         "players": "Fabien, Marion, Tim, Traz"
-      },
-      {
+      }, {
         "name": "Mort d'Iram Delen",
         "date": "2016-12-08",
         "players": "Fabien, Marion, Maud, Tim et Traz"
-      },
-      {
+      }, {
         "name": "Sauvetage de Zvart",
         "date": "2016-12-15",
         "players": "Fabien, Marion, Maud, Tim et Traz"
-      },
-      {
+      }, {
         "name": "Compromis d'enterrement",
         "date": "2017-01-19",
         "players": "Fabien, Maud, Tim et Traz"
-      },
-      {
+      }, {
         "name": "Tentative de vol du cercueil",
         "date": "2017-02-24",
         "players": "Fabien, Maud, Tim et Traz"
-      },
-      {
+      }, {
         "name": "Enquête sur Ma'han",
         "date": "2017-03-09",
         "players": "Fabien, Maud, Tim et Traz"
-      },
-      {
+      }, {
         "name": "Infiltration chez Cyn'gen",
         "date": "2017-03-15",
         "players": "Fabien, Maud, Tim et Traz"
+      }, {
+        "name": "Cérémonie de la Lune",
+        "date": "2017-05-08",
+        "players": "Fabien, Maud, Tim et Traz"
+      }
+    ]
+  },
+  {
+    "name": "Texas",
+    "slug": "texas",
+    "players": "Adèle, Clara, Éve et Pierre",
+    "sessions": [
+      {
+        "name": "Horreur au camp",
+        "date": "2017-05-12",
+        "players": "Adèle, Clara, Éve et Pierre"
       }
     ]
   },
