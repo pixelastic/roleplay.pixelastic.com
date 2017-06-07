@@ -13,4 +13,4 @@ rsync \
       --copy-links \
       --compress \
       ./build/ \
-      pixelastic:/var/www/pixelastic.com/roleplay.pixelastic.com/
+      pixelastic:/var/www/roleplay.pixelastic.com/
