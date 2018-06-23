@@ -229,6 +229,33 @@
     ]
   },
   {
+    "name": "Sandpoint",
+    "slug": "sandpoint",
+    "players": "Maud, Matthieu, Samir, Traz, Tut",
+    "sessions": [
+      {
+        "name": "Le festival",
+        "date": "2018-05-19",
+        "players": "Maud, Matthieu, Samir, Traz, Tut"
+      },
+      {
+        "name": "Les héros de Sandpoint",
+        "date": "2018-05-23",
+        "players": "Maud, Matthieu, Samir, Tut"
+      },
+      {
+        "name": "La Verrerie",
+        "date": "2018-06-05",
+        "players": "Maud, Samir, Tut"
+      },
+      {
+        "name": "Le sous-sol de la Verrerie",
+        "date": "2018-06-20",
+        "players": "Maud, Matthieu, Samir, Traz, Tut"
+      }
+    ]
+  },
+  {
     "name": "Shadowfell",
     "slug": "shadowfell",
     "players": "Arthur, Maud, Marion et Traz",
