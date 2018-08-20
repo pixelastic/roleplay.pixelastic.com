@@ -374,5 +374,17 @@
         "players": "Arthur, Fabien et Traz"
       }
     ]
+  },
+  {
+    "name": "Bedlam",
+    "slug": "bedlam",
+    "players": "Fabien, Maud, Traz",
+    "sessions": [
+      {
+        "name": "John Cassidy",
+        "date": "2018-08-21",
+        "players": "Fabien, Maud, Traz"
+      }
+    ]
   }
 ]
