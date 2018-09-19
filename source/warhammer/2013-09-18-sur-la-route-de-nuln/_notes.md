@@ -3,7 +3,7 @@ hommes-betes en chemin et trouvent un étrange paquet une fois en ville.
 
 Démarrage à l'auberge du "Pied du Mur", au bas de Kemperbad. Herr Wolfgang
 (Alx), fait appel à l'intendant de Marquandt pour lui fournir une escorte
-jusque Nuln. Il voyagera donc avec Alessandro (Fabien) et Ilyior (Traz) chargés
+jusque Nuln. Il voyagera donc avec Alessandro (Fabien) et Ylior (Traz) chargés
 de veiller à ce qu'il arrive à bon port, mais aussi avec Cédric (Arthur) et
 Anendar (Robin) qui doivent aussi se rendre à Nuln pour leurs propres raisons.
 
