@@ -1,9 +1,10 @@
 #!/usr/bin/env bash
+set -e
 # Note: We DO NOT delete the files on destination on purpose, to give us
 # a chance to get back files if we happen to have them wrongly deleted on local.
 # This happened once, I don't want it to happen again
 
-middleman build && \
+yarn run build
 rsync \
       --chmod=Du=rwx,Dg=rwx,Do=rx,Fu=rw,Fg=rw,Fo=r \
       --verbose \
