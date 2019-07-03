@@ -27,7 +27,8 @@
     "lint:js:fix": "./scripts/lint-js-fix",
     "lint:json": "./scripts/lint-json",
     "postinstall": "./scripts/postinstall",
-    "serve": "./scripts/serve"
+    "serve": "./scripts/serve",
+    "test": "true"
   },
   "version": "0.0.1"
 }
