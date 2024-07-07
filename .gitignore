@@ -8,3 +8,4 @@ node_modules/
 .DS_Store
 source/stylesheets/_vendors
 *.mp3
+yarn-error.log
