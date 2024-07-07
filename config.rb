@@ -11,6 +11,13 @@ set :js_dir, 'js'
 set :css_dir, 'css'
 set :images_dir, 'img'
 
+# Haml throws error when handling Middleman-specific config, so we disable Haml
+# validation altogether
+# See https://github.com/middleman/middleman/issues/2113
+Haml::TempleEngine.disable_option_validator!
+
+
+
 configure :development do
   activate :livereload
   # Auto-reload when a change in /data occurs
@@ -23,7 +30,7 @@ ignore '/partials/*'
 ignore '/img/sources/*'
 # Uncomment to debug builds, bypassing all image copy
 # ignore '*.mp3'
- 
+
 class Roleplay
   # Return a slugified version
   def self.slug(input)

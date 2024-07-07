@@ -10,9 +10,8 @@ Attempt at saving all the archives of all the roleplay games I played.
 # Install system dependencies
 sudo apt-get install libyaml-dev
 
-# Install ruby 2.4.2 (latest version at time of creation)
-rbenv install 2.4.2
-rbenv local 2.4.2
+# Install ruby 
+rbenv install 2.3.8
 
 # Install bundler (it wasn't packaged with Ruby at that time)
 gem install bundler:1.16.1
