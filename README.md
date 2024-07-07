@@ -7,7 +7,10 @@ Attempt at saving all the archives of all the roleplay games I played.
 ### Ruby
 
 ```
-# Install ruby 2.4.2
+# Install system dependencies
+sudo apt-get install libyaml-dev
+
+# Install ruby 2.4.2 (latest version at time of creation)
 rbenv install 2.4.2
 rbenv local 2.4.2
 
@@ -18,6 +21,19 @@ gem install bundler:1.16.1
 bundle install
 
 ```
+
+### Node
+
+```
+# First, we need to use python 2.7 to install node
+pyenv install 2.7.18
+pyenv global 2.7.18
+eval "$(pyenv init -)"
+
+# Install node v8.17.0 (latest version at time of creation)
+nvm install 8.17.0
+
+
 
 
 ```
