@@ -2,7 +2,23 @@
 
 Attempt at saving all the archives of all the roleplay games I played.
 
-## Run locally
+## Install dependencies
+
+### Ruby
+
+```
+# Install ruby 2.4.2
+rbenv install 2.4.2
+rbenv local 2.4.2
+
+# Install bundler (it wasn't packaged with Ruby at that time)
+gem install bundler:1.16.1
+
+# Install local dependencies
+bundle install
+
+```
+
 
 ```
 npm install
