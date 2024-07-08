@@ -68,7 +68,7 @@ function fixMarkdown() {
 		local cleanImagePath="$(sanitizeFilepath $imagePath)"
 
 		# Transform into an HTML tag
-		local htmlImageTag="<img src=\"${cleanImagePath}\" class=\"dib h5 br2 mr2\" />"
+		local htmlImageTag="<img class=\"h5 br2 mr2\" src=\"${cleanImagePath}\" />"
 
 		# Update the _notes
 		local escapedMarkdownImageTag="$(escapeSedString $markdownImageTag)"
