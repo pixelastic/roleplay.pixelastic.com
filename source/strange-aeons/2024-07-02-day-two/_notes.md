@@ -40,7 +40,11 @@ Un dénommé Loïk, qui semble avoir des hallucinations auditives, et qui croit 
 
 <i>Cornes</i> essaie de calmer Loïk, en lui faisant une petite danse de leur région d'origine, mais cela ne fait que l'exciter encore plus et il bouge tellement que l'infirmière qui essaie de lui faire une piqûre n'y parvient pas. La dose est gâchée, et Loïk restera excité pour la soirée.
 
+<img src="./pixelastic_painting_of_a_gipsy_bald_man_large_lips_broken_ears__abc6a023-007d-456b-9624-67b63e72ea58.png" />
+
 Ils ont aussi besoin de bois, à la fois pour reconstruire la barricade au Nord (qui se fait abimer à chaque attaque de Changeforme), mais aussi pour faire un feu dans la chapelle. <i>La p'tite</i> utilise une énorme masse d'armes qu'elle a trouvé pour briser un meuble en deux et ainsi faire pas mal de bois. Cela impressionne beaucoup Lucellin, un brancardier reconverti en garde de la chapelle.
+
+<img src="./Untitled.png" />
 
 <img src="./Untitled_7.png" />
 
@@ -50,13 +54,19 @@ Les PJs discutent aussi longuement avec "Nana". "Nana" s'occupe de Braem et Maev
 
 "Nana" est une ancienne infirmière et leur indique qu'ils ont très peu de médicaments et que ça serait bien, si jamais ils arrivent à en trouver d'autres, de pouvoir les ramener. Au point où ils en sont, ils peuvent faire des mélanges de médicaments, utilisant un type de médicament pour un autre. Au point où ils en sont, tout est bon à prendre.
 
-<i>Scalpel</i> (qui se fait appeller <i>Random</i>) aide Darren, le cuisinier gnome, à préparer à manger. Darren est plein de tics, mais très habile avec un couteau. Ensemble, ils préparent une bonne ration de patates et de carottes pour le repas du sois.
+<img src="./pixelastic_Low_fantasy_portrait_of_a_motherly_hobbit_nurse_age__00cd046b-56aa-41fc-87e1-18778529df84.png" />
+
+<i>Scalpel</i> (qui se fait appeller <i>Random</i>) aide Darren, le cuisinier gnome, à préparer à manger. Darren est plein de tics, mais très habile avec un couteau. Ensemble, ils préparent une bonne ration de patates et de carottes pour le repas du soir.
+
+<img src="./pixelastic_painting_of_a_gipsy_cook_age_47_nervous_long_face_ug_09a94f6c-e2ce-4a40-b76f-8f1bf8ea62b4.png" />
 
 Après avoir discuté avec les survivants de la chapelle, les joueurs sont rapidement acceptés au sein de la communauté. Ils décident de retourner tout au bout du couloir récupérer un petit peu de mobilier, dans les pièces qu'ils avaient visitées. Ils remarquent que plusieurs des cadavres qui étaient restés sur les tables au bout du couloir ont disparu et ont vraisemblablement été tirés par le passage rempli d'éboulis au bout à gauche du couloir, celui qu'ils n'ont pas exploré.
 
 ### Qui sont les PJs et où sont-ils ?
 
 Sœur Daphné leur explique que l'asile de Rochépine est situé sur une île au milieu d'un lac. L'asile n'est pas le plus réputé, mais ce n'est pas le pire non plus. Il semble que les médecins aient vraiment envie de comprendre les pathologies du cerveau. La directrice, Élise Losandro, cherche particulièrement à comprendre comment le cerveau fonctionne et elle semble avoir des méthodes de travail particulièrement réputées.
+
+<img src="./Untitled_1.png" />
 
 Sœur Daphné semble avoir au mauvais endroit au mauvais moment. Son ami Aymeric, un Pistolier Royal, enquête sur la disparition de Wolfgang Von Friedrich, le comte de la région. Von Friedrich a disparu et ne donne plus de signes de vie. Il venait régulièrement à Rochépine avant sa disparition, et Aymeric a demandé à Sœur Daphné d'enquêter sur Rochéphine et voir si elle trouvait une piste. 
 
@@ -193,3 +203,11 @@ En fouillant la pièce, ils découvrent une dizaine de petits tableaux, peints a
 Ils trouvent également un trousseau de clés et divers objets étranges sur le bureau (tels un presse papier en bois sculpté en forme de cervelle, des serre-livres représentant des visages en train de crier ou bien une pyramide en cuivre brut). En déverrouillant le tiroir privé de la directrice, ils mettent la main sur son cahier de notes ainsi que sur un petit trésor en terme d'objets magiques mineurs.
 
 Dans le carnet, ils trouvent différentes notes qui expliquent que Zandalus était un patient muet, qui faisait des cauchemars. Le compte Wolfgang Von Friedrich semble intéressé par ce patient et a proposé un moyen de le soigner au Docteur Losandro, en utilisant un livre nommé <i>Les Chaines de la Nuit</i>. Le Docteur Losandro est initialement très sceptique, mais une fois qu'elle peut voir le livre, elle est convaincue. Von Friedrich accepte de lui prêter le livre, à condition qu'elle accepte 4 de ses hommes (nos PJs), amnésiques, dans son établissement, de manière officieuse.
+
+<img src="./ISoS-Handout1a.png" />
+
+<img src="./ISoS-Handout1b.png" />
+
+<img src="./ISoS-Handout1c.png" />
+
+<img src="./ISoS-Handout1d.png" />
