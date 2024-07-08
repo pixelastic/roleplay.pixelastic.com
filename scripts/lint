@@ -1,4 +1,13 @@
 #!/usr/bin/env sh
 set -e
 
-aberlaas lint "$@"
+aberlaas lint:js \
+	./.*.js \
+	./*.js \
+	./javascripts/*.js \
+	./source/js/app.js \
+	"$@"
+
+aberlaas lint:json
+
+aberlaas lint:css

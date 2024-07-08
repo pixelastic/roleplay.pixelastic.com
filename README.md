@@ -33,7 +33,7 @@ eval "$(pyenv init -)"
 nvm install 8.17.0
 
 # Install yarn globally in that node version
-npm install -g yarn@1.16.0
+npm install -g yarn@1.18.0
 
 
 
