@@ -12,6 +12,10 @@
 .img-right p, .img-left p {
   margin-top: 0;
 }
+.img-right img, .img-left img {
+  border-radius: .25rem;
+  height: 16rem;
+}
 .img-right img {
   float: right;
   margin-left: 1rem;
@@ -19,4 +23,20 @@
 .img-left img {
   float: left;
   margin-right: 1rem;
+}
+
+.img-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+  gap: 1rem;
+  padding: 1rem;
+}
+.img-gallery div {
+  flex-grow: 1;
+  width: calc(33% - 1rem);
+}
+.img-gallery img {
+  border-radius: .25rem;
 }
