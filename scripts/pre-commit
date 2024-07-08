@@ -7,6 +7,7 @@ set -e
 # $PATH, so the pre-commit scripts uses the same node version as the whole
 # project
 local nodeVersion="$(<.nvmrc)"
+echo "Running pre-commit script using node ${nodeVersion}"
 export PATH="${HOME}/.nvm/versions/node/v${nodeVersion}/bin:$PATH"
 
 yarn run lint
