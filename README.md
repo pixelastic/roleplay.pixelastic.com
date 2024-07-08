@@ -4,6 +4,14 @@ Attempt at saving all the archives of all the roleplay games I played.
 
 ## Install dependencies
 
+I made this website in 2017, and tried to update it in 2024. Even if I had some
+`package.json` and `Gemfile` files, not all versions were locked, and it took me
+some time to make it compile again.
+
+Even if the dependencies versions themselves were pinned, the language (Ruby,
+Node) and package managers (Bundler, Yarn) were not, so I tried to
+reverse-engineer the latest working versions and pinned them in the repo.
+
 ### Ruby
 
 ```

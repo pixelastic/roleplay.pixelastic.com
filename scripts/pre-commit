@@ -1,0 +1,12 @@
+#!/usr/bin/env zsh
+# Husky uses the system node version to run pre-commit scripts, not the one
+# defined in .nvmrc. So we'll try to force it to use the right version from here
+set -e
+
+# Read the correct node version from nvmrc, and push it back to the beginning of
+# $PATH, so the pre-commit scripts uses the same node version as the whole
+# project
+local nodeVersion="$(<.nvmrc)"
+export PATH="${HOME}/.nvm/versions/node/v${nodeVersion}/bin:$PATH"
+
+yarn run lint
