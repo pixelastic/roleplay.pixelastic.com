@@ -41,17 +41,17 @@ D'un côté de la pièce ils trouvent une vieille chaudière dans laquelle il ne
 </div>
 
 
-<div class="flex justify-around">
-    <div class="flex-auto fc"><img src="./WhatsAppImage2024-07-01at17.35.43_1.jpg" class="h5 br2 mr2" /></div>
-    <div class="flex-auto fc"><img src="./WhatsAppImage2024-07-01at17.38.26.jpg" class="h5 br2 mr2" /></div>
-    <div class="flex-auto fc"><img src="./WhatsAppImage2024-07-01at17.35.42.jpg" class="h5 br2 mr2" /></div>
+<div class="img-gallery">
+    <div><img src="./WhatsAppImage2024-07-01at17.35.43_1.jpg" /></div>
+    <div><img src="./WhatsAppImage2024-07-01at17.38.26.jpg" /></div>
+    <div><img src="./WhatsAppImage2024-07-01at17.35.42.jpg" /></div>
 </div>
 
 Dehors, ils voient une cour boueuse entourée de murs gris avec des brumes jaunes au-dessus. La pluie devient brûlante pendant un instant et ils se réfugient à l'intérieur du cabanon avant de continuer leur piste. Ils aperçoivent une porte indiquant "Aile Ouest: Administration, Sanitaires & Chapelle"
 
-<div class="flex justify-around">
-    <div class="flex-auto fc"><img src="./WhatsAppImage2024-07-01at17.38.26_3.jpg" class="h5 br2 mr2" /></div>
-    <div class="flex-auto fc"><img src="./WhatsAppImage2024-07-01at17.38.26_2.jpg" class="h5 br2 mr2" /></div>
+<div class="img-gallery">
+    <div><img src="./WhatsAppImage2024-07-01at17.38.26_3.jpg" /></div>
+    <div><img src="./WhatsAppImage2024-07-01at17.38.26_2.jpg" /></div>
 </div>
 
 <div class="img-left">
@@ -59,25 +59,25 @@ Dehors, ils voient une cour boueuse entourée de murs gris avec des brumes jaune
     <p>À l'intérieur, ils s'avancent dans un long couloir. Au Nord, ils entendent des cris de douleur se répercuter contre les murs de l'asile. Au Sur, un garde nommé Lucellin les tient en joue depuis une barricade de fortune qui bloque le couloir. Lucellin appelle le capitaine Vaustin, un nain bourru, et celui-ci ne fait pas confiance aux joueurs. Il les soupçonne d'être des changeformes déguisés et exige qu'ils ramène la tête de trois "d'entre eux" pour qu'il accepte de les laisser passer.</p>
 </div>
 
-<div class="flex justify-around">
-    <div class="flex-auto fc"><img src="./WhatsAppImage2024-07-01at17.35.43.jpg" class="h5 br2 mr2" /></div>
-    <div class="flex-auto fc"><img src="./WhatsAppImage2024-07-01at17.34.33.jpg" class="h5 br2 mr2" /></div>
+<div class="img-gallery">
+    <div><img src="./WhatsAppImage2024-07-01at17.35.43.jpg" /></div>
+    <div><img src="./WhatsAppImage2024-07-01at17.34.33.jpg" /></div>
 </div>
 Nos personnages s'engagent donc dans le couloir vers le Nord, trouvant quelques couvertures dans un placard et dérangeant des cafards géants dans un autre. Le second cafard parvient à mordre notre voleur, et lui injecter la totalié du poison qu'il avait dans l'abdomen. *Scalpel* manque d'y passer. Après une pause pour se soigner, ils continuent discrètement jusqu'à une salle dont le plafond s'est écroulé.
 
-<div class="flex justify-around">
-    <div class="flex-auto fc"><img src="./WhatsAppImage2024-07-01at17.35.41.jpg" class="h5 br2 mr2" /></div>
-    <div class="flex-auto fc"><img src="./WhatsAppImage2024-07-01at16.30.13_1.jpg" class="h5 br2 mr2" /></div>
+<div class="img-gallery">
+    <div><img src="./WhatsAppImage2024-07-01at17.35.41.jpg" /></div>
+    <div><img src="./WhatsAppImage2024-07-01at16.30.13_1.jpg" /></div>
 </div>
 
 
 Sur les tables de cette pièce, des cadavres sont minutieusement allongés, le corps couvert de cicatrices. Par terre, quelques autres cadavres sont en tas, aussi bien des docteurs, patients que des Changeformes. Nos héros coupent deux têtes de Changeforme pour prouver qu'ils ont tué ces créatures. Ils trouvent aussi une vieille dame blessée qu'ils aident à se relever. Notre voleur a un doute, et dès qu'elle a le dos tourné, il lui tranche la tête avec son arme. La vieille dame se révèle très résistante et reprends son apparence de Doppleganger avant de s'enfuir. Nos héros la pourchassent, et alors qu'elle s'engouffre dans un trou sous des éboulis, ils parviennent à la rattraper et à la tuer.
 
-<div class="flex justify-around">
-    <div class="flex-auto fc"><img src="./WhatsAppImage2024-07-01at16.30.13.jpg" class="h5 br2 mr2" /></div>
-    <div class="flex-auto fc"><img src="./WhatsAppImage2024-07-01at17.35.38.jpg" class="h5 br2 mr2" /></div>
-    <div class="flex-auto fc"><img src="./WhatsAppImage2024-07-01at16.29.53.jpg" class="h5 br2 mr2" /></div>
-    <div class="flex-auto fc"><img src="./WhatsAppImage2024-07-01at17.38.25.jpg" class="h5 br2 mr2" /></div>
+<div class="img-gallery">
+    <div><img src="./WhatsAppImage2024-07-01at16.30.13.jpg" /></div>
+    <div><img src="./WhatsAppImage2024-07-01at16.29.53.jpg" /></div>
+    <div><img src="./WhatsAppImage2024-07-01at17.35.38.jpg" /></div>
+    <div><img src="./WhatsAppImage2024-07-01at17.38.25.jpg" /></div>
 </div>
 
 Ce faisant, ils dérangent un autre cadavre d'une infirmière qui était ensevellie sous des décombres, et les mains et la tête de ce cadavre se détachent et se mettent à ramper (et voler, pour le crane) dans leur direction. Le crâne parvient à déverser un torrent de flammes dans le couloir, avant que nos héros ne réduisent ces membres animés en bouillie.
@@ -85,9 +85,9 @@ Ce faisant, ils dérangent un autre cadavre d'une infirmière qui était ensevel
 
 Ils remontent le couloir avec désormais 3 têtes de Doppelgangers, pour prouver leur victoire au capitaine Vaustin. Celui-ci accepte alors de les laisser entrer. Il fait ouvrir une porte sur le côté, qui semble bien abîmée par différentes marques de crocs et de griffes, de créatures qui ont tenté de rentrer.
 
-<div class="flex justify-around">
-    <div class="flex-auto fc"><img src="./WhatsAppImage2024-07-01at17.34.34_1.jpg" class="dib h5 br2 mr2" /></div>
-    <div class="flex-auto fc"><img src="./WhatsAppImage2024-07-01at17.34.34.jpg" class="dib h5 br2 mr2" /></div>
+<div class="img-gallery">
+    <div><img src="./WhatsAppImage2024-07-01at17.34.34_1.jpg" /></div>
+    <div class="flex-auto fc"><img src="./WhatsAppImage2024-07-01at17.34.34.jpg" /></div>
 </div>
 
 À l'intérieur, ils rencontrent rapidement différents personnages dont Sœur Daphné qui soigne *Scalpel* mais leur demande d'attendre jusqu'au dîner pour discuter davantage.
