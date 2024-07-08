@@ -12,7 +12,20 @@ fi
 
 cd $folder
 
+# Rename all jpeg to jpg
+function renameJpegToJpg() {
+  local jpegFiles=(*.jpeg(N))
+  rename 's/.jpeg/.jpg/g' $jpegFiles
+}
+
 # Rename all pictures so their name does not contain any spaces
-local imageFiles=(*.{jpeg,jpg,png,gif}(N))
-rename 's/ //g' $imageFiles
+function removeSpacesFromImageNames() {
+  local imageFiles=(*.{jpg,png,gif}(N))
+  rename 's/ //g' $imageFiles
+}
+
+renameJpegToJpg
+removeSpacesFromImageNames
+
+
 
