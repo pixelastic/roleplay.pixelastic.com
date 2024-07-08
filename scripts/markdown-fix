@@ -16,16 +16,21 @@ cd $folder
 function renameJpegToJpg() {
   # Rename actual files
   local jpegFiles=(*.jpeg(N))
-  rename 's/.jpeg/.jpg/g' $jpegFiles
+
+  if [[ ! ${#jpegFiles[@]} -eq 0 ]]; then
+    rename 's/.jpeg/.jpg/g' $jpegFiles
+  fi
   
   # Rename references in notes
-  sed -n -r 's_!\[(.*)\]\((.*).jpeg\)_![\1](\2).jpg_pg' _notes.md
+  sed -r 's_!\[(.*)\]\((.*).jpeg\)_![\1](\2.jpg)_g' _notes.md
 }
 
 # Rename all pictures so their name does not contain any spaces
 function removeSpacesFromImageNames() {
   local imageFiles=(*.{jpg,png,gif}(N))
-  rename 's/ //g' $imageFiles
+  if [[ ! ${#imageFiles[@]} -eq 0 ]]; then
+    rename 's/ //g' $imageFiles
+  fi
 }
 
 renameJpegToJpg
