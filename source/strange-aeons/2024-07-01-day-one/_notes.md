@@ -8,7 +8,7 @@ Au début de la semaine, seul 3 des 4 joueurs étaient là (Traz n'arrivera que 
 
 La campagne est très inspirée des scénarios d'horreur cosmique de Lovecraft, et j'ai prévenu les joueurs qu'ils joueraient des amnésiques, se réveillant dans un asile psychiatrique sans connaitre leurs origines, et que le but serait de comprendre et de réussir à sortir. 
 
-![WhatsApp Image 2024-07-01 at 17.34.57](./WhatsApp Image 2024-07-01 at 17.34.57.jpg)
+![WhatsApp Image 2024-07-01 at 17.34.57](./WhatsApp Image 2024-07-01 at 17.34.57.jpeg)
 
 Certains des joueurs (Maud, Traz et Tut) avaient déjà joué le début de cette campagne, en asynchrone sur Discord, au début de l'épidémie de Covid, mais on avait arreté en cours de route car le format ne nous convenait pas. Ils allaient donc rejouer le début qu'ils avaient déjà fait, mais comme le scénario joue autour des thème de la mémoire, ce sentiment de *déjà-vu* a même amené une touche d'immersion supplémentaire.
 

@@ -3,38 +3,81 @@
 # there is some cleanup needed once done, especially in regard with the images
 set -e
 
+# The whole script will be executed from the folder to clean
 local folder="$1"
-
 if [[ $folder == "" ]]; then
 	echo "You must pass the folder to clean as an argument"
 	exit 1
 fi
-
 cd $folder
 
-# Rename all jpeg to jpg
-function renameJpegToJpg() {
-  # Rename actual files
-  local jpegFiles=(*.jpeg(N))
+## Helpers {{{
 
-  if [[ ! ${#jpegFiles[@]} -eq 0 ]]; then
-    rename 's/.jpeg/.jpg/g' $jpegFiles
-  fi
-  
-  # Rename references in notes
-  sed -r -i 's_!\[(.*)\]\((.*).jpeg\)_![\1](\2.jpg)_g' _notes.md
+# Sanitizes a filepath
+# This will be used both for renaming files on disk, and to rewrite the markdown
+# image tags ![title](filepath) into HTML image tags <img src="filepath" />
+function sanitizeFilepath() {
+	local filepath="$1"
+
+	# Remove spaces
+	filepath=${filepath// /}
+	# Replaces .jpeg with .jpg
+	filepath=${filepath//.jpeg/.jpg}
+	# Replaces (3) with _3
+	filepath=${filepath//)/}
+	filepath=${filepath//\(/_}
+
+	echo $filepath
 }
 
-# Rename all pictures so their name does not contain any spaces
-function removeSpacesFromImageNames() {
-  local imageFiles=(*.{jpg,png,gif}(N))
-  if [[ ! ${#imageFiles[@]} -eq 0 ]]; then
-    rename 's/ //g' $imageFiles
-  fi
+function escapeSedString() {
+	echo $1 | sed 's/[][\/.]/\\&/g'
 }
 
-renameJpegToJpg
-removeSpacesFromImageNames
+# }}}
+
+## Fix files on disk {{{
+function fixFiles() {
+	# Rename jpeg files to jpg
+	local jpegFiles=(*.jpeg(N))
+	if [[ ! ${#jpegFiles[@]} -eq 0 ]]; then
+	  rename 's/.jpeg/.jpg/g' $jpegFiles
+	fi
+
+  # Get all images and cleanup names
+  local imagePaths=(*.{jpg,gif,png}(N))
+  for imagePath in $imagePaths; do
+		local cleanImagePath="$(sanitizeFilepath $imagePath)"
+
+		# Rename file if needed
+		[[ "$imagePath" == "$cleanImagePath" ]] && continue
+    mv $imagePath $cleanImagePath
+  done
+}
+# }}}
+
+## Fix markdown {{{
+function fixMarkdown() {
+	# Get all markdown image tags
+	local markdownImageTags="$(sed -n '/!\[\(.*\)\](\(.*\))/p' _notes.md)"
+
+	# Replace them all with an HTML tag instead
+	for markdownImageTag in ${(f)markdownImageTags}; do
+		# Sanitize the filepath
+		local imagePath="$(echo $markdownImageTag | sed -r 's_!\[(.*)\]\((.*)\)_\2_g')"
+		local cleanImagePath="$(sanitizeFilepath $imagePath)"
+
+		# Transform into an HTML tag
+		local htmlImageTag="<img src=\"${cleanImagePath}\" class=\"dib h5 br2 mr2\" />"
+
+		# Update the _notes
+		local escapedMarkdownImageTag="$(escapeSedString $markdownImageTag)"
+		local escapedHtmlImageTag="$(escapeSedString $htmlImageTag)"
+		sed -i "s/${escapedMarkdownImageTag}/${escapedHtmlImageTag}/" _notes.md
+	done
+}
+# }}}
 
 
-
+fixFiles
+fixMarkdown
