@@ -14,8 +14,12 @@ cd $folder
 
 # Rename all jpeg to jpg
 function renameJpegToJpg() {
+  # Rename actual files
   local jpegFiles=(*.jpeg(N))
   rename 's/.jpeg/.jpg/g' $jpegFiles
+  
+  # Rename references in notes
+  sed -n -r 's_!\[(.*)\]\((.*).jpeg\)_![\1](\2).jpg_pg' _notes.md
 }
 
 # Rename all pictures so their name does not contain any spaces
