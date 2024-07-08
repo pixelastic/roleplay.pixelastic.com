@@ -212,7 +212,6 @@ entrés directement auprès de la directrice Losandro.
     <p>La pièce est somptueusement décorée d'un mobilier très luxueux et de très bon gout. Malheureusement, tout ceci est gaché par l'immense flaque de sang au centre de la pièce. </p>
     <p>Au milieu se trouve ce qu'il reste de Élise Losandro, à genoux sur le sol, les bras le long du corps, la tête en arrière et avec une fumée multicolore qui s'échappe de sa bouche comme un arc-en-ciel agonisant se transformant en brume jaune. </p>
     <p>Nos héros décident de mettre fin à ses jours à distance, à base de Traits de Feu et autres Pierres-Tonnerres.</p>
-
 </div>
 
 
@@ -232,10 +231,12 @@ Ils trouvent également un trousseau de clés et divers objets étranges sur le 
 </div>
 
 
-Dans le carnet, ils trouvent différentes notes qui expliquent que Zandalus était un patient muet, qui faisait des cauchemars. Le compte Wolfgang Von Friedrich semble intéressé par ce patient et a proposé un moyen de le soigner au Docteur Losandro, en utilisant un livre nommé <i>Les Chaines de la Nuit</i>. Le Docteur Losandro est initialement très sceptique, mais une fois qu'elle peut voir le livre, elle est convaincue. Von Friedrich accepte de lui prêter le livre, à condition qu'elle accepte 4 de ses hommes (nos PJs), amnésiques, dans son établissement, de manière officieuse.
+<div class="img-left">
+    <img src="./ISoS-Handout1a.png" />
+    Dans le carnet, ils trouvent différentes notes qui expliquent que Zandalus était un patient muet, qui faisait des cauchemars. Le compte Wolfgang Von Friedrich semble intéressé par ce patient et a proposé un moyen de le soigner au Docteur Losandro, en utilisant un livre nommé <i>Les Chaines de la Nuit</i>. Le Docteur Losandro est initialement très sceptique, mais une fois qu'elle peut voir le livre, elle est convaincue. Von Friedrich accepte de lui prêter le livre, à condition qu'elle accepte 4 de ses hommes (nos PJs), amnésiques, dans son établissement, de manière officieuse.
+</div>
 
 <div class="img-gallery">
-    <div><img src="./ISoS-Handout1a.png" /></div>
     <div><img src="./ISoS-Handout1b.png" /></div>
     <div><img src="./ISoS-Handout1c.png" /></div>
     <div><img src="./ISoS-Handout1d.png" /></div>
