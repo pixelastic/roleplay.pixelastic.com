@@ -24,6 +24,10 @@ rbenv install 2.3.8
 # Install bundler (it wasn't packaged with Ruby at that time)
 gem install bundler:1.16.1
 
+# Make sure this is the only Bundler you have installed
+# If not, you'll have to use "bundle _1.16.1_" instead of "bundle"
+bundle --version
+
 # Install local dependencies
 bundle install
 
@@ -37,20 +41,17 @@ pyenv install 2.7.18
 pyenv global 2.7.18
 eval "$(pyenv init -)"
 
-# Install node v8.17.0 (latest version at time of creation)
+# Install node v8.17.0
 nvm install 8.17.0
 
 # Install yarn globally in that node version
 npm install -g yarn@1.18.0
 
-
-
-
+# Install dependencies
+yarn install
 ```
-npm install
-bundle install
-npm run serve
-```
+
+## Run the app
 
 And then open [http://127.0.0.1:4567/](http://127.0.0.1:4567/).
 
