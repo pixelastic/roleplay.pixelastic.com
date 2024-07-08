@@ -8,134 +8,203 @@
         "name": "Sur la route de Nuln",
         "date": "2013-09-18",
         "players": "Alx, Arthur, Fabien, Robin et Traz"
-      }, {
+      },
+      {
         "name": "Club de Conteurs",
         "date": "2013-10-11",
         "players": "Alx, Arthur, Fabien, Robin, Traz et Yoann"
-      }, {
+      },
+      {
         "name": "Le tombeau Magdenberg",
         "date": "2013-11-06",
         "players": "Alx, Arthur, Fabien, Robin et Traz"
-      }, {
+      },
+      {
         "name": "Entrée dans le complexe Skaven",
         "date": "2013-11-12",
         "players": "Alx, Arthur, Fabien, Robin et Traz"
-      }, {
+      },
+      {
         "name": "Fuite dans les égouts",
         "date": "2013-11-19",
         "players": "Alx, Fabien, Robin et Traz"
-      }, {
+      },
+      {
         "name": "Colonie souterraine et artefacts volés",
         "date": "2014-01-26",
         "players": "Alx, Fabien, Robin et Traz"
-      }, {
+      },
+      {
         "name": "Enquête sur les artefacts",
         "date": "2014-02-28",
         "players": "Alx, Arthur, Fabien, Robin et Traz"
-      }, {
+      },
+      {
         "name": "Rendez-vous avec Kummetz",
         "date": "2014-03-15",
         "players": "Alx, Arthur, Fabien et Robin"
-      }, {
+      },
+      {
         "name": "Préparation du procès",
         "date": "2014-03-31",
         "players": "Alx, Arthur, Fabien, Robin et Traz"
-      }, {
+      },
+      {
         "name": "Le Procès",
         "date": "2014-04-15",
         "players": "Alx, Arthur, Fabien, Robin et Traz"
-      }, {
+      },
+      {
         "name": "La vente aux enchères",
         "date": "2014-05-27",
         "players": "Alx, Arthur, Fabien et Traz"
-      }, {
+      },
+      {
         "name": "Kugelshreiber",
         "date": "2014-09-10",
         "players": "Alx, Arthur, Fabien et Traz"
-      }, {
+      },
+      {
         "name": "Au manoir de Schaffer",
         "date": "2014-10-11",
         "players": "Alx, Arthur, Fabien et Traz"
-      }, {
+      },
+      {
         "name": "J'ai accepté par erreur ton invitation",
         "date": "2014-11-24",
         "players": "Alx, Arthur, Fabien et Traz"
-      }, {
+      },
+      {
         "name": "Le bal de la Comtesse",
         "date": "2015-02-14",
         "players": "Alx, Arthur, Fabien et Traz"
-      }, {
+      },
+      {
         "name": "La fuite en ballon",
         "date": "2015-02-14",
         "players": "Alx, Arthur, Fabien et Traz"
-      }, {
+      },
+      {
         "name": "Bataille au sommet",
         "date": "2015-02-14",
         "players": "Alx, Arthur, Fabien et Traz"
-      }, {
+      },
+      {
         "name": "Le monde est sauvé",
         "date": "2015-02-14",
         "players": "Alx, Arthur, Fabien et Traz"
-      }, {
+      },
+      {
         "name": "Dans les décombres de Nuln",
         "date": "2015-03-12",
         "players": "Alx, Arthur, Fabien et Traz"
-      }, {
+      },
+      {
         "name": "Départ de Nuln",
         "date": "2015-05-08",
         "players": "Alx, Arthur, Fabien et Traz"
-      }, {
+      },
+      {
         "name": "À bord de l'Empereur Ludwig",
         "date": "2015-06-07",
         "players": "Alx, Arthur et Traz"
-      }, {
+      },
+      {
         "name": "Résolution du Huis-Clos",
         "date": "2015-06-25",
         "players": "Alx, Arthur, Fabien et Traz"
-      }, {
+      },
+      {
         "name": "Arrivée à Altdorf",
         "date": "2015-07-27",
         "players": "Alx, Arthur, Fabien et Traz"
-      }, {
+      },
+      {
         "name": "Le Rapport Goffman",
         "date": "2016-01-08",
         "players": "Alx, Arthur, Fabien et Traz"
-      }, {
+      },
+      {
         "name": "Traversée du barrage",
         "date": "2016-06-14",
         "players": "Alx, Arthur, Fabien et Traz"
-      }, {
+      },
+      {
         "name": "Traversée du lac asseché",
         "date": "2016-10-06",
         "players": "Alx, Arthur, Fabien et Traz"
-      }, {
+      },
+      {
         "name": "Rencontre avec le joueur de flute",
         "date": "2016-12-02",
         "players": "Alx, Arthur, Fabien et Traz"
-      }, {
+      },
+      {
         "name": "Meurtres au pied du mur",
         "date": "2017-01-24",
         "players": "Alx, Arthur, Fabien et Traz"
-      }, {
+      },
+      {
         "name": "Assaut sur Dibella",
         "date": "2017-02-16",
         "players": "Alx, Arthur, Fabien et Traz"
-      }, {
+      },
+      {
         "name": "Les Passe-Murailles",
         "date": "2017-03-08",
         "players": "Alx, Arthur, Fabien et Traz"
-      }, {
+      },
+      {
         "name": "Sauvetage de l'auberge",
         "date": "2017-04-12",
         "players": "Alx, Arthur, Fabien et Traz"
-      }, {
+      },
+      {
         "name": "Attaque du Shaman Homme-Bete",
         "date": "2017-04-18",
         "players": "Alx, Arthur, Fabien et Traz"
-      }, {
+      },
+      {
         "name": "Récupération des chasseurs",
         "date": "2017-05-02",
         "players": "Alx, Arthur, Fabien et Traz"
+      }
+    ]
+  },
+  {
+    "name": "Sandpoint",
+    "slug": "sandpoint",
+    "players": "Maud, Matthieu, Samir, Traz, Tut",
+    "sessions": [
+      {
+        "name": "Le festival",
+        "date": "2018-05-19",
+        "players": "Maud, Matthieu, Samir, Traz, Tut"
+      },
+      {
+        "name": "Les héros de Sandpoint",
+        "date": "2018-05-23",
+        "players": "Maud, Matthieu, Samir, Tut"
+      },
+      {
+        "name": "La Verrerie",
+        "date": "2018-06-05",
+        "players": "Maud, Samir, Tut"
+      },
+      {
+        "name": "Le sous-sol de la Verrerie",
+        "date": "2018-06-20",
+        "players": "Maud, Matthieu, Samir, Traz, Tut"
+      },
+      {
+        "name": "Séparation des groupes",
+        "date": "2018-06-27",
+        "players": "Maud, Matthieu, Samir, Traz, Tut"
+      },
+      {
+        "name": "L'escalier tueur",
+        "date": "2018-07-04",
+        "players": "Maud, Samir, Traz, Tut"
       }
     ]
   },
@@ -229,43 +298,6 @@
     ]
   },
   {
-    "name": "Sandpoint",
-    "slug": "sandpoint",
-    "players": "Maud, Matthieu, Samir, Traz, Tut",
-    "sessions": [
-      {
-        "name": "Le festival",
-        "date": "2018-05-19",
-        "players": "Maud, Matthieu, Samir, Traz, Tut"
-      },
-      {
-        "name": "Les héros de Sandpoint",
-        "date": "2018-05-23",
-        "players": "Maud, Matthieu, Samir, Tut"
-      },
-      {
-        "name": "La Verrerie",
-        "date": "2018-06-05",
-        "players": "Maud, Samir, Tut"
-      },
-      {
-        "name": "Le sous-sol de la Verrerie",
-        "date": "2018-06-20",
-        "players": "Maud, Matthieu, Samir, Traz, Tut"
-      },
-      {
-        "name": "Séparation des groupes",
-        "date": "2018-06-27",
-        "players": "Maud, Matthieu, Samir, Traz, Tut"
-      },
-      {
-        "name": "L'escalier tueur",
-        "date": "2018-07-04",
-        "players": "Maud, Samir, Traz, Tut"
-      }
-    ]
-  },
-  {
     "name": "Shadowfell",
     "slug": "shadowfell",
     "players": "Arthur, Maud, Marion et Traz",
@@ -286,31 +318,38 @@
         "name": "Création de persos",
         "date": "2016-10-23",
         "players": "Fabien, Marion, Tim, Traz"
-      }, {
+      },
+      {
         "name": "Mort d'Iram Delen",
         "date": "2016-12-08",
         "players": "Fabien, Marion, Maud, Tim et Traz"
-      }, {
+      },
+      {
         "name": "Sauvetage de Zvart",
         "date": "2016-12-15",
         "players": "Fabien, Marion, Maud, Tim et Traz"
-      }, {
+      },
+      {
         "name": "Compromis d'enterrement",
         "date": "2017-01-19",
         "players": "Fabien, Maud, Tim et Traz"
-      }, {
+      },
+      {
         "name": "Tentative de vol du cercueil",
         "date": "2017-02-24",
         "players": "Fabien, Maud, Tim et Traz"
-      }, {
+      },
+      {
         "name": "Enquête sur Ma'han",
         "date": "2017-03-09",
         "players": "Fabien, Maud, Tim et Traz"
-      }, {
+      },
+      {
         "name": "Infiltration chez Cyn'gen",
         "date": "2017-03-15",
         "players": "Fabien, Maud, Tim et Traz"
-      }, {
+      },
+      {
         "name": "Cérémonie de la Lune",
         "date": "2017-05-08",
         "players": "Fabien, Maud, Tim et Traz"
@@ -384,6 +423,38 @@
         "name": "John Cassidy",
         "date": "2018-08-21",
         "players": "Fabien, Maud, Traz"
+      }
+    ]
+  },
+  {
+    "name": "Strange Aeons",
+    "slug": "strange-aeons",
+    "players": "Maud, Samir, Traz, Tut",
+    "sessions": [
+      {
+        "name": "Day One",
+        "date": "2024-07-01",
+        "players": "Maud, Samir, Tut"
+      },
+      {
+        "name": "Day Two",
+        "date": "2024-07-02",
+        "players": "Maud, Samir, Traz, Tut"
+      },
+      {
+        "name": "Day Three",
+        "date": "2024-07-03",
+        "players": "Maud, Traz, Tut"
+      },
+      {
+        "name": "Day Four",
+        "date": "2024-07-04",
+        "players": "Maud, Traz, Tut"
+      },
+      {
+        "name": "Day Five",
+        "date": "2024-07-05",
+        "players": "Maud, Traz, Tut"
       }
     ]
   }
