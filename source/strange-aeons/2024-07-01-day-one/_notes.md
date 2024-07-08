@@ -8,7 +8,7 @@ Au début de la semaine, seul 3 des 4 joueurs étaient là (Traz n'arrivera que 
 
 La campagne est très inspirée des scénarios d'horreur cosmique de Lovecraft, et j'ai prévenu les joueurs qu'ils joueraient des amnésiques, se réveillant dans un asile psychiatrique sans connaitre leurs origines, et que le but serait de comprendre et de réussir à sortir. 
 
-![WhatsApp Image 2024-07-01 at 17.34.57](./WhatsApp Image 2024-07-01 at 17.34.57.jpeg)
+![WhatsApp Image 2024-07-01 at 17.34.57](./WhatsApp Image 2024-07-01 at 17.34.57.jpg)
 
 Certains des joueurs (Maud, Traz et Tut) avaient déjà joué le début de cette campagne, en asynchrone sur Discord, au début de l'épidémie de Covid, mais on avait arreté en cours de route car le format ne nous convenait pas. Ils allaient donc rejouer le début qu'ils avaient déjà fait, mais comme le scénario joue autour des thème de la mémoire, ce sentiment de *déjà-vu* a même amené une touche d'immersion supplémentaire.
 
@@ -16,69 +16,69 @@ Certains des joueurs (Maud, Traz et Tut) avaient déjà joué le début de cette
 
 L'aventure commence alors que les personnages marchent dans une ville aux murs gris, infestée de brouillard jaune. Ils entendent des bruits de pas dans la brume et ils essaient de fuir mais se retrouvent face à une créature au visage enrubané de tissu gris. Ils tentent de s'échapper, certains en courant dans la brume, d'autre en escaladant les murs, sans succès. Ils sont rattrapés par cette créature aux longs bras et minuscules mains qui les frappe et les tue sans qu'ils ne puissent réagir. Le personnage de Tut chute du haut d'un toit, alors que celui de Samir se fait poignarder (il a même essayé de se poignarder lui-même pour se réveiller). Une voix crie vaguement "Réveillez-vous !" et ils meurent tous dans ce rêve pour se réveiller dans une cellule froide d'un donjon.
 
-![WhatsApp Image 2024-07-01 at 17.35.44 (2)](./WhatsApp Image 2024-07-01 at 17.35.44 (2).jpeg)
+![WhatsApp Image 2024-07-01 at 17.35.44 (2)](./WhatsApp Image 2024-07-01 at 17.35.44 (2).jpg)
 
 Ils sont séparés dans deux cellules différentes, quasiment nus et sans équipement. Une créature déguisée en docteur plante divers outils dans un corps étendu sur une table entre les cellules. Ils parviennent à attraper la créature à travers les barreaux, l'immobilisant et récupèrant les clés attachées à sa ceinture. Samir prend deux scalpels sur la petite table près de la créature, en brise un dans la serrure et lance l'autre sur le docteur, manquant sa cible. Il renverse aussi la table où se trouvaient les autres outils, permettant à ses alliés de s'armer.
 
-![WhatsApp Image 2024-07-01 at 17.35.43 (2)](./WhatsApp Image 2024-07-01 at 17.35.43 (2).jpeg)
+![WhatsApp Image 2024-07-01 at 17.35.43 (2)](./WhatsApp Image 2024-07-01 at 17.35.43 (2).jpg)
 
-![WhatsApp Image 2024-07-01 at 17.35.44](./WhatsApp Image 2024-07-01 at 17.35.44.jpeg)
+![WhatsApp Image 2024-07-01 at 17.35.44](./WhatsApp Image 2024-07-01 at 17.35.44.jpg)
 
-![WhatsApp Image 2024-07-01 at 17.34.31](./WhatsApp Image 2024-07-01 at 17.34.31.jpeg)
+![WhatsApp Image 2024-07-01 at 17.34.31](./WhatsApp Image 2024-07-01 at 17.34.31.jpg)
 
 Le personnage de Tut agrippe la créature qui change alors de visage et crie "Silence, votre tour viendra !". Ils réussissent à ouvrir les portes, mais la créature s'enfuit au fond d'un couloir noir, blessée. Nos joueurs trouvent un sac contenant leurs affaires et récupèrent une partie de leur équipement. Les habits ne sont marqués d'aucun nom, mais par élimination, ils parviennent à retrouver qui porte quoi.
 
-![WhatsApp Image 2024-07-01 at 17.34.32 (1)](./WhatsApp Image 2024-07-01 at 17.34.32 (1).jpeg)
+![WhatsApp Image 2024-07-01 at 17.34.32 (1)](./WhatsApp Image 2024-07-01 at 17.34.32 (1).jpg)
 
-![WhatsApp Image 2024-07-01 at 17.38.25 (3)](./WhatsApp Image 2024-07-01 at 17.38.25 (3).jpeg)
+![WhatsApp Image 2024-07-01 at 17.38.25 (3)](./WhatsApp Image 2024-07-01 at 17.38.25 (3).jpg)
 
 D'un côté de la pièce ils trouvent une vieille chaudière dans laquelle il ne reste que quelques braises. Ils y trouvent aussi des restes de cadavres brulés. Ils font demi-tour et ouvrent la porte à l'autre bout du couloir. Ils arrivent dans une pièce remplie de cadavres en putréfaction et d'un bruit incessant de mouches. 
 
-![WhatsApp Image 2024-07-01 at 17.35.43 (1)](./WhatsApp Image 2024-07-01 at 17.35.43 (1).jpeg)
+![WhatsApp Image 2024-07-01 at 17.35.43 (1)](./WhatsApp Image 2024-07-01 at 17.35.43 (1).jpg)
 
 Le personnage de Maud, surnommé *La P'tite* escalade la pile de cadavres jusqu'à un toboggan métallique dans le mur. Cornes, le personnage de Tut la suit, alors que *Scalpel*, le personnage de Samir reste en bas pour monter la garde. Arrivés en haut, ils trouvent des outils de bricolage dans un petit abri de jardin, et *Scalpel* les rejoint. Le toit de l'abri est cassé, et de la pluie tape dessus, créant un bruit constant.
 
-![WhatsApp Image 2024-07-01 at 17.38.26](./WhatsApp Image 2024-07-01 at 17.38.26.jpeg)
+![WhatsApp Image 2024-07-01 at 17.38.26](./WhatsApp Image 2024-07-01 at 17.38.26.jpg)
 
-![WhatsApp Image 2024-07-01 at 17.35.42](./WhatsApp Image 2024-07-01 at 17.35.42.jpeg)
+![WhatsApp Image 2024-07-01 at 17.35.42](./WhatsApp Image 2024-07-01 at 17.35.42.jpg)
 
 Dehors, ils voient une cour boueuse entourée de murs gris avec des brumes jaunes au-dessus. La pluie devient brûlante pendant un instant et ils se réfugient à l'intérieur du cabanon avant de continuer leur piste. Ils aperçoivent une porte indiquant "Aile Ouest: Administration, Sanitaires & Chapelle".
 
-![WhatsApp Image 2024-07-01 at 17.38.26 (3)](./WhatsApp Image 2024-07-01 at 17.38.26 (3).jpeg)
+![WhatsApp Image 2024-07-01 at 17.38.26 (3)](./WhatsApp Image 2024-07-01 at 17.38.26 (3).jpg)
 
-![WhatsApp Image 2024-07-01 at 17.38.26 (2)](./WhatsApp Image 2024-07-01 at 17.38.26 (2).jpeg)
+![WhatsApp Image 2024-07-01 at 17.38.26 (2)](./WhatsApp Image 2024-07-01 at 17.38.26 (2).jpg)
 
 À l'intérieur, ils s'avancent dans un long couloir. Au Nord, ils entendent des cris de douleur se répercuter contre les murs de l'asile. Au Sur, un garde nommé Lucellin les tient en joue depuis une barricade de fortune qui bloque le couloir. Lucellin appelle le capitaine Vaustin, un nain bourru, et celui-ci ne fait pas confiance aux joueurs. Il les soupçonne d'être des changeformes déguisés et exige qu'ils ramène la tête de trois "d'entre eux" pour qu'il accepte de les laisser passer.
 
-![WhatsApp Image 2024-07-01 at 17.35.43](./WhatsApp Image 2024-07-01 at 17.35.43.jpeg)
+![WhatsApp Image 2024-07-01 at 17.35.43](./WhatsApp Image 2024-07-01 at 17.35.43.jpg)
 
-![WhatsApp Image 2024-07-01 at 17.34.33](./WhatsApp Image 2024-07-01 at 17.34.33.jpeg)
+![WhatsApp Image 2024-07-01 at 17.34.33](./WhatsApp Image 2024-07-01 at 17.34.33.jpg)
 
 Nos personnages s'engagent donc dans le couloir vers le Nord, trouvant quelques couvertures dans un placard et dérangeant des cafards géants dans un autre. Le second cafard parvient à mordre notre voleur, et lui injecter la totalié du poison qu'il avait dans l'abdomen. *Scalpel* manque d'y passer. Après une pause pour se soigner, ils continuent discrètement jusqu'à une salle dont le plafond s'est écroulé.
 
-![WhatsApp Image 2024-07-01 at 17.35.41](./WhatsApp Image 2024-07-01 at 17.35.41.jpeg)
+![WhatsApp Image 2024-07-01 at 17.35.41](./WhatsApp Image 2024-07-01 at 17.35.41.jpg)
 
-![WhatsApp Image 2024-07-01 at 16.30.13 (1)](./WhatsApp Image 2024-07-01 at 16.30.13 (1).jpeg)
+![WhatsApp Image 2024-07-01 at 16.30.13 (1)](./WhatsApp Image 2024-07-01 at 16.30.13 (1).jpg)
 
 
 
 Sur les tables de cette pièce, des cadavres sont minutieusement allongés, le corps couvert de cicatrices. Par terre, quelques autres cadavres sont en tas, aussi bien des docteurs, patients que des Changeformes. Nos héros coupent deux têtes de Changeforme pour prouver qu'ils ont tué ces créatures. Ils trouvent aussi une vieille dame blessée qu'ils aident à se relever. Notre voleur a un doute, et dès qu'elle a le dos tourné, il lui tranche la tête avec son arme. La vieille dame se révèle très résistante et reprends son apparence de Doppleganger avant de s'enfuir. Nos héros la pourchassent, et alors qu'elle s'engouffre dans un trou sous des éboulis, ils parviennent à la rattraper et à la tuer.
 
-![WhatsApp Image 2024-07-01 at 16.30.13](./WhatsApp Image 2024-07-01 at 16.30.13.jpeg)
+![WhatsApp Image 2024-07-01 at 16.30.13](./WhatsApp Image 2024-07-01 at 16.30.13.jpg)
 
-![WhatsApp Image 2024-07-01 at 17.35.38](./WhatsApp Image 2024-07-01 at 17.35.38.jpeg)
+![WhatsApp Image 2024-07-01 at 17.35.38](./WhatsApp Image 2024-07-01 at 17.35.38.jpg)
 
-![WhatsApp Image 2024-07-01 at 16.29.53](./WhatsApp Image 2024-07-01 at 16.29.53.jpeg)
+![WhatsApp Image 2024-07-01 at 16.29.53](./WhatsApp Image 2024-07-01 at 16.29.53.jpg)
 
 Ce faisant, ils dérangent un autre cadavre d'une infirmière qui était ensevellie sous des décombres, et les mains et la tête de ce cadavre se détachent et se mettent à ramper (et voler, pour le crane) dans leur direction. Le crâne parvient à déverser un torrent de flammes dans le couloir, avant que nos héros ne réduisent ces membres animés en bouillie.
 
-![WhatsApp Image 2024-07-01 at 17.38.25](./WhatsApp Image 2024-07-01 at 17.38.25.jpeg)
+![WhatsApp Image 2024-07-01 at 17.38.25](./WhatsApp Image 2024-07-01 at 17.38.25.jpg)
 
 Ils remontent le couloir avec désormais 3 têtes de Doppelgangers, pour prouver leur victoire au capitaine Vaustin. Celui-ci accepte alors de les laisser entrer. Il fait ouvrir une porte sur le côté, qui semble bien abîmée par différentes marques de crocs et de griffes, de créatures qui ont tenté de rentrer.
 
-![WhatsApp Image 2024-07-01 at 17.34.34 (1)](./WhatsApp Image 2024-07-01 at 17.34.34 (1).jpeg)
+![WhatsApp Image 2024-07-01 at 17.34.34 (1)](./WhatsApp Image 2024-07-01 at 17.34.34 (1).jpg)
 
-![WhatsApp Image 2024-07-01 at 17.34.34](./WhatsApp Image 2024-07-01 at 17.34.34.jpeg)
+![WhatsApp Image 2024-07-01 at 17.34.34](./WhatsApp Image 2024-07-01 at 17.34.34.jpg)
 
 À l'intérieur, ils rencontrent rapidement différents personnages dont Sœur Daphné qui soigne *Scalpel* mais leur demande d'attendre jusqu'au dîner pour discuter davantage.
 

@@ -22,7 +22,7 @@ function renameJpegToJpg() {
   fi
   
   # Rename references in notes
-  sed -r 's_!\[(.*)\]\((.*).jpeg\)_![\1](\2.jpg)_g' _notes.md
+  sed -r -i 's_!\[(.*)\]\((.*).jpeg\)_![\1](\2.jpg)_g' _notes.md
 }
 
 # Rename all pictures so their name does not contain any spaces
