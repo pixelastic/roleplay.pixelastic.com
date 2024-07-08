@@ -1,40 +1,40 @@
 Lors de la deuxième session, les joueurs ont commencé dans la chapelle de Sœur Daphné, là où ils avaient réussi à aller à la fin de la première session, où ils ont rencontré les différentes personnes qui vivent dans la chapelle.
 
-![WhatsApp Image 2024-07-02 at 22.20.32](./WhatsApp Image 2024-07-02 at 22.20.32.jpeg)
+<img src="./WhatsAppImage2024-07-02at22.20.32.jpg" />
 
 ### Discussion avec les survivants de la chapelle
 
-![WhatsApp Image 2024-07-02 at 21.28.05 (1)](./WhatsApp Image 2024-07-02 at 21.28.05 (1).jpeg)
+<img src="./WhatsAppImage2024-07-02at21.28.05_1.jpg" />
 
-![WhatsApp Image 2024-07-02 at 21.44.55](./WhatsApp Image 2024-07-02 at 21.44.55.jpeg)
+<img src="./WhatsAppImage2024-07-02at21.44.55.jpg" />
 
-![WhatsApp Image 2024-07-02 at 21.44.55 (1)](./WhatsApp Image 2024-07-02 at 21.44.55 (1).jpeg)
+<img src="./WhatsAppImage2024-07-02at21.44.55_1.jpg" />
 
-![WhatsApp Image 2024-07-02 at 21.44.55 (2)](./WhatsApp Image 2024-07-02 at 21.44.55 (2).jpeg)
+<img src="./WhatsAppImage2024-07-02at21.44.55_2.jpg" />
 
-![WhatsApp Image 2024-07-02 at 21.44.55 (3)](./WhatsApp Image 2024-07-02 at 21.44.55 (3).jpeg)
+<img src="./WhatsAppImage2024-07-02at21.44.55_3.jpg" />
 
-![WhatsApp Image 2024-07-02 at 21.44.56](./WhatsApp Image 2024-07-02 at 21.44.56.jpeg)
+<img src="./WhatsAppImage2024-07-02at21.44.56.jpg" />
 
-![WhatsApp Image 2024-07-02 at 21.44.56 (1)](./WhatsApp Image 2024-07-02 at 21.44.56 (1).jpeg)
+<img src="./WhatsAppImage2024-07-02at21.44.56_1.jpg" />
 
-![WhatsApp Image 2024-07-02 at 21.44.56 (2)](./WhatsApp Image 2024-07-02 at 21.44.56 (2).jpeg)
+<img src="./WhatsAppImage2024-07-02at21.44.56_2.jpg" />
 
-![WhatsApp Image 2024-07-02 at 21.44.56 (3)](./WhatsApp Image 2024-07-02 at 21.44.56 (3).jpeg)
+<img src="./WhatsAppImage2024-07-02at21.44.56_3.jpg" />
 
-![WhatsApp Image 2024-07-02 at 21.44.57](./WhatsApp Image 2024-07-02 at 21.44.57.jpeg)
+<img src="./WhatsAppImage2024-07-02at21.44.57.jpg" />
 
-![WhatsApp Image 2024-07-02 at 22.19.18](./WhatsApp Image 2024-07-02 at 22.19.18.jpeg)
+<img src="./WhatsAppImage2024-07-02at22.19.18.jpg" />
 
-![WhatsApp Image 2024-07-02 at 22.19.19](./WhatsApp Image 2024-07-02 at 22.19.19.jpeg)
+<img src="./WhatsAppImage2024-07-02at22.19.19.jpg" />
 
-![WhatsApp Image 2024-07-02 at 22.19.19 (2)](./WhatsApp Image 2024-07-02 at 22.19.19 (2).jpeg)
+<img src="./WhatsAppImage2024-07-02at22.19.19_2.jpg" />
 
-![WhatsApp Image 2024-07-02 at 22.19.19 (3)](./WhatsApp Image 2024-07-02 at 22.19.19 (3).jpeg)
+<img src="./WhatsAppImage2024-07-02at22.19.19_3.jpg" />
 
-![WhatsApp Image 2024-07-02 at 22.19.19 (4)](./WhatsApp Image 2024-07-02 at 22.19.19 (4).jpeg)
+<img src="./WhatsAppImage2024-07-02at22.19.19_4.jpg" />
 
-![WhatsApp Image 2024-07-02 at 22.19.19 (5)](./WhatsApp Image 2024-07-02 at 22.19.19 (5).jpeg)
+<img src="./WhatsAppImage2024-07-02at22.19.19_5.jpg" />
 
 Un dénommé Loïk, qui semble avoir des hallucinations auditives, et qui croit constamment qu'on l'appelle et qui se frappe le crâne pour en chasser les voix. Son accent, ses manières et les traits de son visage semblent rappeller quelque chose à <i>Cornes</i>, qui s'avère elle aussi venir de territoires enneigés. Tut m'avait demandé de tirer aléatoirement aux dés son Terrain Favori et Ennemi Juré de rôdeur, puisque son perso ne se souvient de rien. Et il s'avère que les terres enneigées sont son Terrain Favori.
 
@@ -42,9 +42,9 @@ Un dénommé Loïk, qui semble avoir des hallucinations auditives, et qui croit 
 
 Ils ont aussi besoin de bois, à la fois pour reconstruire la barricade au Nord (qui se fait abimer à chaque attaque de Changeforme), mais aussi pour faire un feu dans la chapelle. <i>La p'tite</i> utilise une énorme masse d'armes qu'elle a trouvé pour briser un meuble en deux et ainsi faire pas mal de bois. Cela impressionne beaucoup Lucellin, un brancardier reconverti en garde de la chapelle.
 
-![Untitled (7)](./Untitled (7).png)
+<img src="./Untitled_7.png" />
 
-![WhatsApp Image 2024-07-02 at 22.19.20](./WhatsApp Image 2024-07-02 at 22.19.20.jpeg)
+<img src="./WhatsAppImage2024-07-02at22.19.20.jpg" />
 
 Les PJs discutent aussi longuement avec "Nana". "Nana" s'occupe de Braem et Maeva, deux petits enfants qui jouent avec les anciens livres du prêtre, se faisant une cachette sous son bureau, et des origamis avec les feuilles des livres.
 
@@ -64,65 +64,65 @@ En discutant avec d'autres infirmières, les PJs apprennent qu'ils étaient des 
 
 ### Le mur jaune
 
-![Untitled (9)](./Untitled (9).png)
+<img src="./Untitled_9.png" />
 
-![WhatsApp Image 2024-07-02 at 22.19.49](./WhatsApp Image 2024-07-02 at 22.19.49.jpeg)
+<img src="./WhatsAppImage2024-07-02at22.19.49.jpg" />
 
-![WhatsApp Image 2024-07-02 at 22.19.49 (1)](./WhatsApp Image 2024-07-02 at 22.19.49 (1).jpeg)
+<img src="./WhatsAppImage2024-07-02at22.19.49_1.jpg" />
 
-![WhatsApp Image 2024-07-02 at 22.19.49 (2)](./WhatsApp Image 2024-07-02 at 22.19.49 (2).jpeg)
+<img src="./WhatsAppImage2024-07-02at22.19.49_2.jpg" />
 
 Sœur Daphné leur indique qu'ils sont enfermés ici, que le seul moyen de sortir est par ce qui était anciennement une porte qui donne dans le hall d'entrée principal. Mais sur la porte, des champignons jaunes ont poussé et semblent avoir donné vie à une étrange créature faire de moisissure. On peut entendre la créature pleurer parfois. Quand les PJs s'en approchent, ils entendent effectivement les champignons pleurer. Au centre de la moisissure se trouve un œil qui s'ouvre au milieu, un œil avec plein de pupilles impétrées les unes dans les autres et une mâchoire de dents en plein centre qui n'arrête pas de crier avec trois voix superposées « Qui suis-je devenu ? »
 
-![WhatsApp Image 2024-07-02 at 22.19.19 (1)](./WhatsApp Image 2024-07-02 at 22.19.19 (1).jpeg)
+<img src="./WhatsAppImage2024-07-02at22.19.19_1.jpg" />
 
 Ils essaient de lui donner un carnet d'un patient qu'ils ont trouvé dans la chambre du prêtre. Ils essaie de discuter avec le mur, mais tout cela sans succès, et ils finissent par engager un combat avec. Le mur rempli de moisissures semble avancer, la couche de moisissures englobe les personnages, <i>Scalpel</i> arrive à s'enfuir en arrière sans se faire attraper, mais les deux autres sont englobés à l'intérieur, subissent énormément de dégâts d'acide. On ne voit plus que leur forme à l'intérieur de la membrane, cherchant à sortir. À force de coups répétés, ils parviennent à sortir, brisant la membrane de la moisissure et répandant un torrent d'ammoniaque dans le couloir.
 
 ### Le Hall d'entrée
 
-![Untitled (14)](./Untitled (14).png)
+<img src="./Untitled_14.png" />
 
 Arrivés de l'autre côté, ils arrivent dans le hall d'entrée principale de l'asile. Une double porte donne vers l'extérieur, les PJs essaient de l'ouvrir, bien que le bois ai un peu gonflé et semble s'être incrusté dans le mur autour. Ils parviennent à l'ouvrir et dehors, distinguent au travers du brouillard une foret au loin, avec de grands arbres tels des sapins. Mais les arbres se mettent à bouger, et ce qu'ils avaient pris pour des arbres sont en fait les pattes d'une immense araignée. Ils rentrent vite à l'intérieur et barricadent la porte d'entrée avec le mobilier qu'ils trouvent.
 
-![WhatsApp Image 2024-07-02 at 22.20.35](./WhatsApp Image 2024-07-02 at 22.20.35.jpeg)
+<img src="./WhatsAppImage2024-07-02at22.20.35.jpg" />
 
-![WhatsApp Image 2024-07-02 at 21.44.54 (1)](./WhatsApp Image 2024-07-02 at 21.44.54 (1).jpeg)
+<img src="./WhatsAppImage2024-07-02at21.44.54_1.jpg" />
 
-![WhatsApp Image 2024-07-02 at 22.20.36](./WhatsApp Image 2024-07-02 at 22.20.36.jpeg)
+<img src="./WhatsAppImage2024-07-02at22.20.36.jpg" />
 
-![WhatsApp Image 2024-07-02 at 22.20.36 (2)](./WhatsApp Image 2024-07-02 at 22.20.36 (2).jpeg)
+<img src="./WhatsAppImage2024-07-02at22.20.36_2.jpg" />
 
 Explorant les différentes portes adjacentes à cette grande salle, ils découvrent une pièce immaculée et richement décorée. Des canapés, des fauteuils, des tableaux et un service à thé ornent la pièce. Une petite dorée cage en forme de manoir contient des animaux empaillés qui chantent dès qu'on touche au moindre objet de la pièce. Deux cadavres vêtus de robes jaunes gisent dans la pièce : l'un allongé au sol, l'autre empalé sur une tête de reine empaillée au dessus de la cheminée.
 
-![WhatsApp Image 2024-07-02 at 21.44.57 (3)](./WhatsApp Image 2024-07-02 at 21.44.57 (3).jpeg)
+<img src="./WhatsAppImage2024-07-02at21.44.57_3.jpg" />
 
 En fouillant, les objets commencent à léviter et projettent les joueurs au plafond et au sol. <i>Scalpel</i> parvient à amortir sa chute en utilisant un des cadavres comme matelas. <i>Cornes</i> détruit finalement la cage, dans un accès de rage, rétablissant l'ordre dans la pièce. Ils comprennent que cette salle est utilisée pour permettre aux familles de dire adieu aux patients avant qu'ils ne soient conduits dans une autre aile du bâtiment.
 
-![Untitled (17)](./Untitled (17).png)
+<img src="./Untitled_17.png" />
 
-![WhatsApp Image 2024-07-02 at 21.28.04 (1)](./WhatsApp Image 2024-07-02 at 21.28.04 (1).jpeg)
+<img src="./WhatsAppImage2024-07-02at21.28.04_1.jpg" />
 
-![WhatsApp Image 2024-07-02 at 21.44.57 (2)](./WhatsApp Image 2024-07-02 at 21.44.57 (2).jpeg)
+<img src="./WhatsAppImage2024-07-02at21.44.57_2.jpg" />
 
-![WhatsApp Image 2024-07-02 at 22.20.36 (3)](./WhatsApp Image 2024-07-02 at 22.20.36 (3).jpeg)
+<img src="./WhatsAppImage2024-07-02at22.20.36_3.jpg" />
 
-![WhatsApp Image 2024-07-02 at 22.20.36 (3)](./WhatsApp Image 2024-07-02 at 22.20.36 (3)-1720469182710-59.jpeg)
+<img src="./WhatsAppImage2024-07-02at22.20.36_3-1720469182710-59.jpg" />
 
-![WhatsApp Image 2024-07-02 at 22.20.37](./WhatsApp Image 2024-07-02 at 22.20.37.jpeg)
+<img src="./WhatsAppImage2024-07-02at22.20.37.jpg" />
 
-![WhatsApp Image 2024-07-02 at 22.20.37 (1)](./WhatsApp Image 2024-07-02 at 22.20.37 (1).jpeg)
+<img src="./WhatsAppImage2024-07-02at22.20.37_1.jpg" />
 
-![WhatsApp Image 2024-07-02 at 22.20.37 (2)](./WhatsApp Image 2024-07-02 at 22.20.37 (2).jpeg)
+<img src="./WhatsAppImage2024-07-02at22.20.37_2.jpg" />
 
-![WhatsApp Image 2024-07-02 at 22.20.37 (3)](./WhatsApp Image 2024-07-02 at 22.20.37 (3).jpeg)
+<img src="./WhatsAppImage2024-07-02at22.20.37_3.jpg" />
 
-![WhatsApp Image 2024-07-03 at 18.23.34](./WhatsApp Image 2024-07-03 at 18.23.34.jpeg)
+<img src="./WhatsAppImage2024-07-03at18.23.34.jpg" />
 
-![Untitled (18)](./Untitled (18).png)
+<img src="./Untitled_18.png" />
 
 Terrifiés par le monstre aperçu dans la brume, ils décident de ne pas retourner dehors et ouvrent une autre porte. Ils découvrent une salle partiellement effondrée avec six cadavres portant des sacs en jute sur la tête, étranglés et asphyxiés. Caché dans un tonneau, ils trouvent le personnage de Traz, un gnome amnésique qui rejoint leur groupe. Le gnome leur explique que c'est une vieille dame, complétement nue, et avec le visage caché par un masque fait de morceaux d'os qui a tué et étranglé les cadavres.
 
-![WhatsApp Image 2024-07-02 at 21.44.58](./WhatsApp Image 2024-07-02 at 21.44.58.jpeg)
+<img src="./WhatsAppImage2024-07-02at21.44.58.jpg" />
 
 ### La Bibliothèque
 
@@ -132,57 +132,57 @@ Terrifiés par le monstre aperçu dans la brume, ils décident de ne pas retourn
 
 Continuant leur exploration, ils ouvrent des doubles portes menant à une grande bibliothèque. S'étalant sur deux niveaux, la pièce est remplie de livres, dans une atmosphère feutrée. Les rayons du bas sont essentiellement remplis de  livres de conte pour enfants, et sont en pagaille. Les rayons du haut contiennent des ouvrages plus sérieux, sur différentes pathologies du cerveau et les différents moyens de les traiter. Pendant leur exploration, les joueurs entendent des petits bruits de pas et doivent régulièrement faire des Jets de Sauvegarde de Willpower, et parfois agissent de manière étrange en réaction.
 
-![WhatsApp Image 2024-07-02 at 21.44.51 (1)](./WhatsApp Image 2024-07-02 at 21.44.51 (1).jpeg)
+<img src="./WhatsAppImage2024-07-02at21.44.51_1.jpg" />
 
-![WhatsApp Image 2024-07-02 at 21.44.52 (1)](./WhatsApp Image 2024-07-02 at 21.44.52 (1).jpeg)
+<img src="./WhatsAppImage2024-07-02at21.44.52_1.jpg" />
 
-![WhatsApp Image 2024-07-02 at 21.44.54](./WhatsApp Image 2024-07-02 at 21.44.54.jpeg)
+<img src="./WhatsAppImage2024-07-02at21.44.54.jpg" />
 
-![Untitled (19)](./Untitled (19).png)
+<img src="./Untitled_19.png" />
 
-![WhatsApp Image 2024-07-02 at 21.44.58 (1)](./WhatsApp Image 2024-07-02 at 21.44.58 (1).jpeg)
+<img src="./WhatsAppImage2024-07-02at21.44.58_1.jpg" />
 
-![WhatsApp Image 2024-07-02 at 21.44.58 (2)](./WhatsApp Image 2024-07-02 at 21.44.58 (2).jpeg)
+<img src="./WhatsAppImage2024-07-02at21.44.58_2.jpg" />
 
-![WhatsApp Image 2024-07-02 at 22.20.33](./WhatsApp Image 2024-07-02 at 22.20.33.jpeg)
+<img src="./WhatsAppImage2024-07-02at22.20.33.jpg" />
 
-![WhatsApp Image 2024-07-02 at 22.20.33 (1)](./WhatsApp Image 2024-07-02 at 22.20.33 (1).jpeg)
+<img src="./WhatsAppImage2024-07-02at22.20.33_1.jpg" />
 
-![WhatsApp Image 2024-07-02 at 22.20.33 (2)](./WhatsApp Image 2024-07-02 at 22.20.33 (2).jpeg)
+<img src="./WhatsAppImage2024-07-02at22.20.33_2.jpg" />
 
-![WhatsApp Image 2024-07-02 at 22.20.35 (1)](./WhatsApp Image 2024-07-02 at 22.20.35 (1).jpeg)
+<img src="./WhatsAppImage2024-07-02at22.20.35_1.jpg" />
 
-![WhatsApp Image 2024-07-02 at 22.20.35 (2)](./WhatsApp Image 2024-07-02 at 22.20.35 (2).jpeg)
+<img src="./WhatsAppImage2024-07-02at22.20.35_2.jpg" />
 
-![WhatsApp Image 2024-07-02 at 22.20.35 (4)](./WhatsApp Image 2024-07-02 at 22.20.35 (4).jpeg)
+<img src="./WhatsAppImage2024-07-02at22.20.35_4.jpg" />
 
-![WhatsApp Image 2024-07-03 at 18.23.35](./WhatsApp Image 2024-07-03 at 18.23.35.jpeg)
+<img src="./WhatsAppImage2024-07-03at18.23.35.jpg" />
 
-![WhatsApp Image 2024-07-03 at 18.23.35 (1)](./WhatsApp Image 2024-07-03 at 18.23.35 (1).jpeg)
+<img src="./WhatsAppImage2024-07-03at18.23.35_1.jpg" />
 
 Ils finissent par découvrir six petites créatures. Ils comprennent que ces créatures sont les "méchants" des livres de conte, qui se sont échappés de leurs histoires et ont pris forme physique dans la bibliothèque. Une fois découverts, les créatures engagent le combat. Bien que peu résistants, ces monstres lancent des sorts perturbant l'état mental des personnages, les forçant à s'attaquer entre eux, ou à se rouler par terre de rire. Les joueurs s'en sortent sans trop de dégâts (si ce n'est à leur dignité) et continuent leur exploration de l'autre côté de la bibliothèque
 
-![WhatsApp Image 2024-07-02 at 22.20.34](./WhatsApp Image 2024-07-02 at 22.20.34.jpeg)
+<img src="./WhatsAppImage2024-07-02at22.20.34.jpg" />
 
 
 
 Ils arrivent dans un couloir en L avec plusieurs portes menant à différents bureaux. Au fond du couloir, une double porte mène au bureau de la directrice Élise Losandro. Des traces gluantes relient trois pièces voisines. Les traces semblent un mélange de bave et de formol. Dans une grande salle remplie d'alambics et de blouses blanches baignant dans du formol, ils trouvent le cadavre d'un docteur dont la tête bouge légèrement. Décidant de le laisser tranquille, ils referment la porte et continuent leur exploration. Dans une petite salle d'administration, deux cadavres gisent avec l'arrière du crâne éclaté et vidé. Tout ceci n'inspire guère confiance aux héros, et ils decident d'éviter les autres pièces, se concentrant sur la double porte donnant sur le bureau du Docteur Losandro.
 
-![WhatsApp Image 2024-07-02 at 22.20.36 (1)](./WhatsApp Image 2024-07-02 at 22.20.36 (1).jpeg)
+<img src="./WhatsAppImage2024-07-02at22.20.36_1.jpg" />
 
-![WhatsApp Image 2024-07-02 at 21.44.52](./WhatsApp Image 2024-07-02 at 21.44.52.jpeg)
+<img src="./WhatsAppImage2024-07-02at21.44.52.jpg" />
 
-![Untitled (21)](./Untitled (21).png)
+<img src="./Untitled_21.png" />
 
-![Untitled (23)](./Untitled (23).png)
+<img src="./Untitled_23.png" />
 
-![WhatsApp Image 2024-07-02 at 21.44.51](./WhatsApp Image 2024-07-02 at 21.44.51.jpeg)
+<img src="./WhatsAppImage2024-07-02at21.44.51.jpg" />
 
-![WhatsApp Image 2024-07-02 at 22.20.35 (3)](./WhatsApp Image 2024-07-02 at 22.20.35 (3).jpeg)
+<img src="./WhatsAppImage2024-07-02at22.20.35_3.jpg" />
 
 ### Le bureau de Élise Losandro
 
-![Untitled (24)](./Untitled (24).png)
+<img src="./Untitled_24.png" />
 
 La pièce est somptueusement décorée d'un mobilier très luxueux et de très bon gout. Malheureusement, tout ceci est gaché par l'immense flaque de sang au centre de la pièce. Au milieu se trouve ce qu'il reste de Élise Losandra, à genoux sur le sol, les bras le long du corps, la tête en arrière et avec une fumée multicolore qui s'échappe de sa bouche comme un arc-en-ciel agonisant se transformant en brume jaune. Nos héros décident de mettre fin à ses jours à distance, à base de Traits de Feu et autres Pierres-Tonnerres.
 
