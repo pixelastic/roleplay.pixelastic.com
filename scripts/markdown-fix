@@ -1,0 +1,15 @@
+#!/usr/bin/env zsh
+# I write posts using Typora (for the ease of use of copy-pasting images), but
+# there is some cleanup needed once done, especially in regard with the images
+
+local folder="$1"
+
+if [[ $folder == "" ]]; then
+	echo "You must pass the folder to clean as an argument"
+	exit 1
+fi
+
+cd $folder
+
+# Rename all pictures so their name does not contain any spaces
+rename 's/ //g *.{jpeg,jpg,png,gif}

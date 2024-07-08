@@ -27,6 +27,7 @@
     "lint:js:fix": "./scripts/lint-js-fix",
     "lint:json": "./scripts/lint-json",
     "postinstall": "./scripts/postinstall",
+    "markdown:fix": "./scripts/markdown-fix",
     "serve": "./scripts/serve",
     "test": "true"
   },
