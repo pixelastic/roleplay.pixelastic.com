@@ -46,6 +46,8 @@ En ouvrant la seconde porte qui s'ouvre de l'autre côté du bureau, ils entende
 
 Nos joueurs engagent le combat contre deux apotres dans une salle pleine des anciennes affaires des patients, pendant qu'un troisième de l'autre côté du couloir vient en renfort. Les PJs subissent de lourds dégats (surtout quand les Apôtres ont deux attaques chacun, et potentiellement avec avantage quand ils sont deux sur la même cible, et que les PJs n'ont qu'une seule esquive possible). Les PJs sortent victorieux, mais bien amochés.
 
+![image-20240709111132424](./image-20240709111132424.png)
+
 ![WhatsApp Image 2024-07-03 at 16.32.27 (1)](./WhatsApp Image 2024-07-03 at 16.32.27 (1).jpeg)
 
 ![WhatsApp Image 2024-07-03 at 16.32.27 (2)](./WhatsApp Image 2024-07-03 at 16.32.27 (2).jpeg)
@@ -125,6 +127,8 @@ Après avoir vaincu les apôtres drogués, le mélange de produits et de flammes
 Continuant leur exploration, ils trouvent une petite salle de pause figée dans le temps avec un set de thé froid sur une table. Jasp veut se reposer mais les autres l'entraînent vers une porte donnant sur une pièce plongée dans des ténèbres surnaturelles.
 
 Avec des lanternes à leur ceinture, ils entrent prudemment dans ce qui semble être une salle de garde dont le mobilier est propulsé contre les murs extérieurs. Au centre, un nid fait de bois et vêtements abrite une voix enfantine appelant "Braem ?". La voix change entre enfantine et adulte demandant "Veux-tu jouer avec moi ?". Robin accepte et la créature lui montre des petits soldats de bois, étrangement sculptés pour ressembler à Robin et Jasp, et fait se frapper les jouets ensemble. Robin se sent alors pris d'une compulsion le forçant à frapper réellement Jasp, ce qui initie un nouveau combat.
+
+![download](./download-1720516445408-1.png)
 
 ![WhatsApp Image 2024-07-03 at 16.35.12 (1)](./WhatsApp Image 2024-07-03 at 16.35.12 (1).jpeg)
 

@@ -73,11 +73,12 @@ Après avoir discuté avec les survivants de la chapelle, les joueurs sont rapid
     <p>Sœur Daphné leur explique que l'asile de Rochépine est situé sur une île au milieu d'un lac. L'asile n'est pas le plus réputé, mais ce n'est pas le pire non plus. Il semble que les médecins aient vraiment envie de comprendre les pathologies du cerveau. La directrice, Élise Losandro, cherche particulièrement à comprendre comment le cerveau fonctionne et elle semble avoir des méthodes de travail particulièrement réputées.</p>
     <p>Sœur Daphné semble avoir au mauvais endroit au mauvais moment. Son ami Aymeric, un Pistolier Royal, enquête sur la disparition de Wolfgang Von Friedrich, le comte de la région. Von Friedrich a disparu et ne donne plus de signes de vie. Il venait régulièrement à Rochépine avant sa disparition, et Aymeric a demandé à Sœur Daphné d'enquêter sur Rochéphine et voir si elle trouvait une piste. </p>
 </div>
-
 En discutant avec d'autres infirmières, les PJs apprennent qu'ils étaient des
 patients ici, qu'ils ont été admis tous ensemble pour un cas d'amnésie
 collective et qu'ils ne sont pas passés par les protocoles normaux, mais sont
 entrés directement auprès de la directrice Losandro. 
+
+![image-20240709111003087](./image-20240709111003087.png)
 
 <div class="img-right">
     <img src="./Untitled_9.png" /> Sœur Daphné leur indique qu'ils sont enfermés
