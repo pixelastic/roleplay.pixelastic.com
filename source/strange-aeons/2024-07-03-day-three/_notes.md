@@ -97,13 +97,12 @@ Se relevant péniblement, couverts de sang, ils avancent dans le couloir inondé
 </div>
 
 <div class="img-left">
-    <img src="./Untitled_36.png" />
+    <img src="./WhatsAppImage2024-07-03at16.35.13.jpg" />
     <p>À l'autre extrémité, un grand fauteuil leur tourne le dos, une silhouette avachie dessus. Ils s'approchent prudemment, enjambant le torrent de sang en construisant un pont avec le mobilier de la pièce. </p>
     <p>La silhouette blessée au cœur saigne continuellement; ils tentent de cautériser la blessure (avec un Trait de Feu) sans succès, provoquant une explosion d'hémoglobine. </p>
     <p>Ils décident d'ignorer la femme, nommé Mme Tomanelle à en croire le nom sur sa gourmette, et explorent le reste de la salle.</p>
 </div>
 
-<img src="./WhatsAppImage2024-07-03at16.35.13.jpg" />
 
 <div class="img-gallery">
     <div><img src="./WhatsAppImage2024-07-03at16.32.29.jpg" /></div>
