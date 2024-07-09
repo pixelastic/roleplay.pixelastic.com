@@ -78,19 +78,21 @@ patients ici, qu'ils ont été admis tous ensemble pour un cas d'amnésie
 collective et qu'ils ne sont pas passés par les protocoles normaux, mais sont
 entrés directement auprès de la directrice Losandro. 
 
-<img src="./image-20240709111003087.png" />
 
 <div class="img-right">
-    <img src="./Untitled_9.png" /> Sœur Daphné leur indique qu'ils sont enfermés
+    <img src="./image-20240709111003087.png" />
+    <p>Sœur Daphné leur indique qu'ils sont enfermés
     ici, que le seul moyen de sortir est par ce qui était anciennement une porte
     qui donne dans le hall d'entrée principal. Mais sur la porte, des
     champignons jaunes ont poussé et semblent avoir donné vie à une étrange
-    créature faire de moisissure. On peut entendre la créature pleurer parfois.
+    créature faite de moisissure.
+    </p>
+    <p>On peut entendre la créature pleurer parfois.
     Quand les PJs s'en approchent, ils entendent effectivement les champignons
     pleurer. Au centre de la moisissure se trouve un œil qui s'ouvre au milieu,
     un œil avec plein de pupilles impétrées les unes dans les autres et une
     mâchoire de dents en plein centre qui n'arrête pas de crier avec trois voix
-    superposées «Qui suis-je devenu ?»
+    superposées «Qui suis-je devenu ?»</p>
 </div>
 
 <div class="img-left">
@@ -109,7 +111,10 @@ entrés directement auprès de la directrice Losandro.
 
 <div class="img-gallery">
     <div><img src="./WhatsAppImage2024-07-02at22.19.49_1.jpg" /></div>
-    <div><img src="./WhatsAppImage2024-07-02at21.44.55.jpg" /></div>
+    <div class="flex flex-column">
+        <img src="./WhatsAppImage2024-07-02at21.44.55.jpg" class="mb2"/>
+        <img src="./Untitled_9.png" /> 
+        </div>
     <div><img src="./WhatsAppImage2024-07-02at22.19.49_2.jpg" /></div>
     <div><img src="./WhatsAppImage2024-07-02at22.20.32.jpg" /></div>
 </div>
