@@ -3,7 +3,16 @@
     opacity: .8;
   }
 }
+/** This class is mostly here so we can target the images inside of it */
+.c-session--content {
+  img {
+      cursor: pointer;
+  }
+}
 
+/**
+ * Quality-of-Life classes to display text and images
+ **/
 .img-right, .img-left {
   overflow: hidden;
   margin-top: 1rem;
@@ -25,6 +34,9 @@
   margin-right: 1rem;
 }
 
+/**
+ * Quality-of-Life classes to display gallery of images
+ **/
 .img-gallery {
   display: flex;
   flex-wrap: wrap;

@@ -20,7 +20,7 @@
       = session.name
       .di.f3.antique.gray=session.players
 
-    .f4-l.f5.lh-copy.taj.white-60.ph4-l.ph1
+    .f4-l.f5.lh-copy.taj.white-60.ph4-l.ph1.c-session--content
       .f3.antique=date
 
       - podcast = session_podcast(game, session)
@@ -38,11 +38,10 @@
       - pictures.each do |picture|
         - thumbnail = cloudinary(picture, %w(w_350 q_90 c_scale f_auto))
         - picture = cloudinary(picture, %w(q_90 f_auto))
-        %a.flex-auto.mw-25.w-33.w-20-l.ma2.br2.pointer.js-fancybox{href: picture, rel: 'pictures'}
+        %a.flex-auto.mw-25.w-33.w-20-l.ma2.br2.pointer.js-fancybox{href: picture, rel: 'gallery'}
           %div.br2.bg-cover.bg-center.h5-l.h4{'style': "background-image: url('#{thumbnail}')"}
 
 
   .fn.w2.flex.w3-l
     - unless next_session.nil?
       %a.fa.cursor.o-0{href: session_url(game, next_session)} &gt;&gt;
-
