@@ -78,7 +78,7 @@ patients ici, qu'ils ont été admis tous ensemble pour un cas d'amnésie
 collective et qu'ils ne sont pas passés par les protocoles normaux, mais sont
 entrés directement auprès de la directrice Losandro. 
 
-![image-20240709111003087](./image-20240709111003087.png)
+<img src="./image-20240709111003087.png" />
 
 <div class="img-right">
     <img src="./Untitled_9.png" /> Sœur Daphné leur indique qu'ils sont enfermés
