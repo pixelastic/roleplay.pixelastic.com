@@ -1,3 +1,11 @@
+Où nos joueurs vont passer leur première nuit à la chapelle, et rencontrer tous
+les survivants. Ils iront récupérer du bois, avant de combattre un mur animé
+recouvert de moisissure jaunie. Ils exploreront le hall d'entrée, qu'ils
+barricaderont, et continueront leur aventure en recrutant un 4e membre à leur
+groupe. Ils finiront par s'aventurer dans une bibliothèque infestée de
+personnages de contes, avant de trouver le bureau de la directrice Losandro.
+
+
 <div class="img-left">
     <img src="./WhatsAppImage2024-07-02at22.19.19.jpg" />
     <p>Lors de la deuxième session, les joueurs ont commencé dans la chapelle de Sœur Daphné, là où ils avaient réussi à aller à la fin de la première session, où ils ont rencontré les différentes personnes qui vivent dans la chapelle.</p>
@@ -217,29 +225,5 @@ entrés directement auprès de la directrice Losandro.
 
 Malheureusement, en mourant, la directrice Losandro émet une vague d'énergie nécrotique qui plonge le gnome dans un court moment d'inconscience, et tue <i>Scalpel</i> sur le coup. <i>En vérité, Samir a du rentrer précipitamment sur Paris à ce moment de l'aventure; on a donc narré dans le jeu que son perso s'était sacrifié pour permettre de détruire Losandro et éviter trop de dégats sur le gnome.</i>
 
-En fouillant la pièce, ils découvrent une dizaine de petits tableaux, peints au fusain sur du papier blanc, mais affichés dans des cadres richement décorés. Tout ces tableaux représentent une ville qui s'étend à l'infini, dans un paysage de désolation, nimbée de brouillard jaune. Les tableaux sont signés des lettres U.Z. et ont tous des été peint dans les 10 dernières années. 
-
-Ils trouvent également un trousseau de clés et divers objets étranges sur le bureau (tels un presse papier en bois sculpté en forme de cervelle, des serre-livres représentant des visages en train de crier ou bien une pyramide en cuivre brut). En déverrouillant le tiroir privé de la directrice, ils mettent la main sur son cahier de notes ainsi que sur un petit trésor en terme d'objets magiques mineurs.
-
-<div class="img-gallery">
-    <div><img src="./Untitled_4_1.png" /></div>
-    <div><img src="./Untitled_3.png" /></div>
-    <div><img src="./Untitled_6_1.png" /></div>
-    <div><img src="./Untitled_2_1.png" /></div>
-    <div><img src="./Untitled_10.png" /></div>
-    <div><img src="./Untitled_2.png" /></div>
-</div>
-
-
-<div class="img-left">
-    <img src="./ISoS-Handout1a.png" />
-    Dans le carnet, ils trouvent différentes notes qui expliquent que Zandalus était un patient muet, qui faisait des cauchemars. Le compte Wolfgang Von Friedrich semble intéressé par ce patient et a proposé un moyen de le soigner au Docteur Losandro, en utilisant un livre nommé <i>Les Chaines de la Nuit</i>. Le Docteur Losandro est initialement très sceptique, mais une fois qu'elle peut voir le livre, elle est convaincue. Von Friedrich accepte de lui prêter le livre, à condition qu'elle accepte 4 de ses hommes (nos PJs), amnésiques, dans son établissement, de manière officieuse.
-</div>
-
-<div class="img-gallery">
-    <div><img src="./ISoS-Handout1b.png" /></div>
-    <div><img src="./ISoS-Handout1c.png" /></div>
-    <div><img src="./ISoS-Handout1d.png" /></div>
-</div>
 
 ## Gallerie

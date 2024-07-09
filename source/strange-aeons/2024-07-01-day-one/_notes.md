@@ -1,3 +1,10 @@
+Où nos joueurs font un cauchemar avant de se réveiller dans les sous-sols d'un
+asile de fou. Ils s'échapperont en grimpant sur une pile de cadavres, avant
+d'émerger dans des couloirs en ruine peuplés de cafards géants et de
+changeformes. Ils finiront par récupérer les têtes de 3 d'entre eux, avant de
+pouvoir enfin entrer dans la chapelle tenue par les survivants.
+
+
 En 2024, notre ancien groupe de jeu de rôle s'est retrouvé pendant une semaine à Nantes, chez nous. Chacun a posé une semaine de vacances, et nous avons fait un marathon de 5 jours, pour jouer le module Pathfinder "In Search of Sanity". On a joué la journée, environ de 10h à 18H, avec une pause le midi. Ces quelques pages sont un résumé de l'aventure, jour après jour.
 
 Au début de la semaine, seul 3 des 4 joueurs étaient là (Traz n'arrivera que le lendemain). On a donc commencé à créer les personnages, et j'ai expliqué les quelques changement de règles rajoutés par Nimble sur la base de D&D 5e.
