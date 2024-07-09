@@ -14,85 +14,85 @@ Dans la chapelle, ils discutent avec Sœur Daphné de leurs découvertes. Elle l
 
 Ne préférant pas repasser par le même chemin, et grâce au plan de Miranda, ils décident cette fois de passer par le petit chemin pavé à l'extérieur qu'ils avaient initialement ignoré. Ils sortent en file indienne dans le jardin, suivant des petites dalles plates à travers le brouillard. Les sons sont étouffés, seuls quelques bruissements de feuilles se font entendre et des silhouettes semblent se dessiner sur les côtés. 
 
-![WhatsApp Image 2024-07-05 at 00.02.54](./WhatsApp Image 2024-07-05 at 00.02.54.jpeg)
+<img src="./WhatsAppImage2024-07-05at00.02.54.jpg" />
 
-![WhatsApp Image 2024-07-05 at 00.02.53 (1)](./WhatsApp Image 2024-07-05 at 00.02.53 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at00.02.53_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 00.02.53](./WhatsApp Image 2024-07-05 at 00.02.53.jpeg)
+<img src="./WhatsAppImage2024-07-05at00.02.53.jpg" />
 
-![Untitled_18](./Untitled_18.png)
+<img src="./Untitled_18.png" />
 
 Au bout du chemin, une deuxième porte apparaît. Soudain, le sol bruisse légèrement et des petites mottes de terre se soulèvent. D'étranges créatures émergent, ressemblant à des lombrics ou des limaces avec des centaines de petites griffes sous leur corps, logées dans des crânes humains et animaux.
 
-![WhatsApp Image 2024-07-04 at 17.49.01 (1)](./WhatsApp Image 2024-07-04 at 17.49.01 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.49.01_1.jpg" />
 
 Les créatures arrivent en nuées successives. Nos héros les repoussent sans trop de difficulté mais elles continuent d'affluer. Miranda trouve rapidement la clé pour ouvrir la porte et ils s'engouffrent à l'intérieur, refermant à clé derrière eux. De l'autre côté de la porte, les créatures s'amoncellent, certaines glissant leurs appendices sous les lattes.
 
 À l'intérieur, ils découvrent une petite salle de soin avec six lits à roulettes en métal alignés contre les murs latéraux. Entre chaque lit, un petit rideau blanc crée une illusion d'intimité. Une chandelle éclaire faiblement la pièce sans vaciller ni émettre de chaleur, comme figée dans le temps.
 
-![Untitled (30)](./Untitled (30).png)
+<img src="./Untitled_30.png" />
 
 Du plafond tombe un amalgame de chair, d'organes et d'os qui génère des tentacules attaquant les personnages. Pendant qu'ils combattent cette créature, une deuxième émerge sous un lit et frappe Jasp avant de se cacher à nouveau. Jasp riposte avec un rayon d'énergie électrique qui parcourt le lit en métal, forçant la créature à lâcher prise.
 
-![image-20240709111038558](./image-20240709111038558.png)
+<img src="./image-20240709111038558.png" />
 
 Nos héros continuent de frapper les deux amalgames de chair, chaque coup faisant jaillir du pus et d'autres liquides horribles. 
 
-![WhatsApp Image 2024-07-05 at 00.02.54 (3)](./WhatsApp Image 2024-07-05 at 00.02.54 (3).jpeg)
+<img src="./WhatsAppImage2024-07-05at00.02.54_3.jpg" />
 
 Une fois les créatures détruites, ils s'engagent dans le couloir bordé de chambres de patients. L'une est barricadée de l'intérieur à cause d'un ébouli; dans les autres, ils trouvent des livres confisqués dont certains érotiques.
 
 Dans une autre salle, ils découvrent les lits de Braem et Yarik. Yarik était la créature qu'ils ont combattue avec des couvertures animées pour étrangler nos joueurs; Braem est son grand frère encore dans la chapelle avec une lanterne magique pour éloigner les cauchemars. Brael avait accepté d'échanger sa lanterne contre ses jouets trouvés par nos héros, mais sachant qu'ils ne feront pas demi-tour et ayant déjà détruit Yarik, ils poursuivent leur chemin.
 
-![WhatsApp Image 2024-07-05 at 00.02.54 (2)](./WhatsApp Image 2024-07-05 at 00.02.54 (2).jpeg)
+<img src="./WhatsAppImage2024-07-05at00.02.54_2.jpg" />
 
 
 
-![WhatsApp Image 2024-07-04 at 17.45.42 (1)](./WhatsApp Image 2024-07-04 at 17.45.42 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.42_1.jpg" />
 
-![Untitled (32)](./Untitled (32).png)
+<img src="./Untitled_32.png" />
 
 Après avoir visité les chambres des patients, les joueurs arrivent dans une grande salle rectangulaire ouverte sur l'extérieur. Les grandes fenêtres donnant sur la cour intérieure ont été brisées du sol au plafond, laissant un amas de débris écraser quelques cadavres. À l'extérieur, plongé dans une noirceur absolue, des arbres se dessinent vaguement.
 
 Ils aperçoivent deux goules creusant dans les décombres pour extraire des cadavres à manger. Le groupe décide de s'avancer discrètement pour les surprendre. 
 
-![WhatsApp Image 2024-07-04 at 17.49.00 (1)](./WhatsApp Image 2024-07-04 at 17.49.00 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.49.00_1.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.43 (1)](./WhatsApp Image 2024-07-04 at 17.45.43 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.43_1.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.42 (2)](./WhatsApp Image 2024-07-04 at 17.45.42 (2).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.42_2.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.41 (2)](./WhatsApp Image 2024-07-04 at 17.45.41 (2).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.41_2.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.41 (1)](./WhatsApp Image 2024-07-04 at 17.45.41 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.41_1.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.41](./WhatsApp Image 2024-07-04 at 17.45.41.jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.41.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.40 (1)](./WhatsApp Image 2024-07-04 at 17.45.40 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.40_1.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.40](./WhatsApp Image 2024-07-04 at 17.45.40.jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.40.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.39 (1)](./WhatsApp Image 2024-07-04 at 17.45.39 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.39_1.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.52.02 (2)](./WhatsApp Image 2024-07-04 at 17.52.02 (2).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.52.02_2.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.52.02 (3)](./WhatsApp Image 2024-07-04 at 17.52.02 (3).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.52.02_3.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.53.04 (1)](./WhatsApp Image 2024-07-04 at 17.53.04 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.53.04_1.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.53.04 (2)](./WhatsApp Image 2024-07-04 at 17.53.04 (2).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.53.04_2.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.53.04 (3)](./WhatsApp Image 2024-07-04 at 17.53.04 (3).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.53.04_3.jpg" />
 
-![WhatsApp Image 2024-07-05 at 00.02.55](./WhatsApp Image 2024-07-05 at 00.02.55.jpeg)
+<img src="./WhatsAppImage2024-07-05at00.02.55.jpg" />
 
-![WhatsApp Image 2024-07-05 at 00.02.55 (1)](./WhatsApp Image 2024-07-05 at 00.02.55 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at00.02.55_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 00.02.56](./WhatsApp Image 2024-07-05 at 00.02.56.jpeg)
+<img src="./WhatsAppImage2024-07-05at00.02.56.jpg" />
 
-![WhatsApp Image 2024-07-05 at 00.02.57 (1)](./WhatsApp Image 2024-07-05 at 00.02.57 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at00.02.57_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 00.02.58](./WhatsApp Image 2024-07-05 at 00.02.58.jpeg)
+<img src="./WhatsAppImage2024-07-05at00.02.58.jpg" />
 
 Robin se glisse presque derrière les goules, mais Miranda, distraite par les moulures du plafond et craignant qu'un amalgame de chair ne lui tombe dessus, rentre dans Jasp. Sa grosse armure de métal fait cling, cling, cling, alertant les goules. 
 
@@ -102,11 +102,11 @@ Ils hésitent entre sortir dans la cour intérieure ou continuer dans le couloir
 
 Ils continuent donc dans le couloir vers le nord, longeant un grand dortoir avec des dizaines de lits munis de menottes. Tous les lits sont vides sauf un, où un patient nommé Brahim est attaché. Il dit n'avoir aucun souvenir de ce qu'il fait là et semble rêver. 
 
-![WhatsApp Image 2024-07-04 at 17.45.41 (3)](./WhatsApp Image 2024-07-04 at 17.45.41 (3).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.41_3.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.40 (3)](./WhatsApp Image 2024-07-04 at 17.45.40 (3).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.40_3.jpg" />
 
-![Untitled (35)](./Untitled (35).png)
+<img src="./Untitled_35.png" />
 
 Jasp le réveille avec des sels récupérées précédemment qui permettent de réveiller n'importe qui. Brahim est pris d'une immense faim et raconte qu'il est tombé dans un rêve où il a vu l'homme en lambeaux, et progressivement il devient encore plus affamé.
 
@@ -116,7 +116,7 @@ Ils retournent dans la grande salle commune où madame Tommanelle et ses rivièr
 
 Ils poursuivent leur périple jusqu'à la salle où ils avaient arrêté leur exploration la veille, celle où ils ont combattu Yarik et ses couvertures animées. Ils commencent à se déguiser pour enfin entrer dans la gueule du jour.
 
-![WhatsApp Image 2024-07-04 at 17.53.04](./WhatsApp Image 2024-07-04 at 17.53.04.jpeg)
+<img src="./WhatsAppImage2024-07-04at17.53.04.jpg" />
 
 Les personnages arborent chacun une amulette en bois marquée d'un œil, qu'ils ont prise sur des cultistes. Ils mettent aussi les habits des cultistes, vêtus de jaune, un œil peint sur le front. Ils frappent à la porte, brandissant la tête de Yarik, annonçant l'avoir tué. La barricade s'ouvre.
 
@@ -128,9 +128,9 @@ Parmi ceux qui s'approchent des joueurs, quelques-uns seulement sont armés, le 
 
 Une figure en robe blanche maculée de sang apparaît avec un sourire : « Mes amis, mes amis, de nouvelles âmes en peine viennent chercher la solution auprès de notre groupe », dit-elle avant d'ajouter discrètement : « Hochez la tête et suivez-moi si vous ne voulez pas y passer. » C'est le docteur Elborn qui les conduit à une infirmerie improvisée sous des arcades.
 
-![Untitled](./Untitled.png)
+<img src="./Untitled.png" />
 
-![Untitled (41)](./Untitled (41).png)
+<img src="./Untitled_41.png" />
 
 Elborn explique qu'il est arrivé il y a une semaine et ne comprend pas pourquoi ces gens sont devenus fous. La majorité croit que Zandalus les mènera à une terre promise dans leurs rêves ; d'autres obéissent par crainte de Madame Aggra, une dangereuse psychopathe qui tue avec un sac en toile de jute.
 
@@ -140,81 +140,81 @@ Elborn donne aux joueurs une bombe pour détruire ces portails. Ils découvrent 
 
 Les joueurs décident de traverser l'aile hantée au Nord pour éviter les goules dans la cour centrale. Ils passent par les anciennes cuisines où des apôtres préparent à manger malgré les goules qui tentent d'entrer par les fissures dans le mur et la porte en partie défoncée.
 
-![WhatsApp Image 2024-07-04 at 17.45.43](./WhatsApp Image 2024-07-04 at 17.45.43.jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.43.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.42 (3)](./WhatsApp Image 2024-07-04 at 17.45.42 (3).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.42_3.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.42](./WhatsApp Image 2024-07-04 at 17.45.42.jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.42.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.40 (4)](./WhatsApp Image 2024-07-04 at 17.45.40 (4).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.40_4.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.39 (2)](./WhatsApp Image 2024-07-04 at 17.45.39 (2).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.39_2.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.38 (2)](./WhatsApp Image 2024-07-04 at 17.45.38 (2).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.38_2.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.37 (1)](./WhatsApp Image 2024-07-04 at 17.45.37 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.37_1.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.37](./WhatsApp Image 2024-07-04 at 17.45.37.jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.37.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.32 (1)](./WhatsApp Image 2024-07-04 at 17.45.32 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.32_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 00.02.58 (1)](./WhatsApp Image 2024-07-05 at 00.02.58 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at00.02.58_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 00.02.59](./WhatsApp Image 2024-07-05 at 00.02.59.jpeg)
+<img src="./WhatsAppImage2024-07-05at00.02.59.jpg" />
 
-![Untitled (42)](./Untitled (42).png)
+<img src="./Untitled_42.png" />
 
 En traversant cette aile hantée, ils évitent un combat contre un chaudron magique (en vérité un Mimic) grâce à Jasp qui bloque son couvercle avec de la Colle Universelle. 
 
-![WhatsApp Image 2024-07-05 at 00.03.00 (1)](./WhatsApp Image 2024-07-05 at 00.03.00 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at00.03.00_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 00.03.00](./WhatsApp Image 2024-07-05 at 00.03.00.jpeg)
+<img src="./WhatsAppImage2024-07-05at00.03.00.jpg" />
 
-![WhatsApp Image 2024-07-05 at 00.02.59 (1)](./WhatsApp Image 2024-07-05 at 00.02.59 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at00.02.59_1.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.52.02 (1)](./WhatsApp Image 2024-07-04 at 17.52.02 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.52.02_1.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.39](./WhatsApp Image 2024-07-04 at 17.45.39.jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.39.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.38 (1)](./WhatsApp Image 2024-07-04 at 17.45.38 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.38_1.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.38](./WhatsApp Image 2024-07-04 at 17.45.38.jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.38.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.34 (1)](./WhatsApp Image 2024-07-04 at 17.45.34 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.34_1.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.33 (1)](./WhatsApp Image 2024-07-04 at 17.45.33 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.33_1.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.53.03](./WhatsApp Image 2024-07-04 at 17.53.03.jpeg)
+<img src="./WhatsAppImage2024-07-04at17.53.03.jpg" />
 
 Ils progressent dans le noir, évitant toiles d'araignées et pièges jusqu'à tomber sur un ver géant qu'ils fuient précipitamment. Nos personnages s’élancent en courant, fuyant ce ver gigantesque qui leur inflige une douleur intense. 
 
-![WhatsApp Image 2024-07-05 at 00.03.01 (1)](./WhatsApp Image 2024-07-05 at 00.03.01 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at00.03.01_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 00.03.01](./WhatsApp Image 2024-07-05 at 00.03.01.jpeg)
+<img src="./WhatsAppImage2024-07-05at00.03.01.jpg" />
 
-![WhatsApp Image 2024-07-05 at 00.03.00 (2)](./WhatsApp Image 2024-07-05 at 00.03.00 (2).jpeg)
+<img src="./WhatsAppImage2024-07-05at00.03.00_2.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.52.02](./WhatsApp Image 2024-07-04 at 17.52.02.jpeg)
+<img src="./WhatsAppImage2024-07-04at17.52.02.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.38 (3)](./WhatsApp Image 2024-07-04 at 17.45.38 (3).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.38_3.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.36 (1)](./WhatsApp Image 2024-07-04 at 17.45.36 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.36_1.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.36](./WhatsApp Image 2024-07-04 at 17.45.36.jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.36.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.34 (2)](./WhatsApp Image 2024-07-04 at 17.45.34 (2).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.34_2.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.33](./WhatsApp Image 2024-07-04 at 17.45.33.jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.33.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.32](./WhatsApp Image 2024-07-04 at 17.45.32.jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.32.jpg" />
 
-![Untitled (45)](./Untitled (45).png)
+<img src="./Untitled_45.png" />
 
 Ils tentent de défoncer la porte pour passer de l'autre côté, parviennent à créer une ouverture suffisante pour qu'un gnome puisse se glisser, puis continuent de frapper. Un gnome passe, Robin attrape le deuxième et le lance par-dessus, puis il saute à travers la porte dans le nouveau couloir et referme la porte derrière lui. 
 
-![WhatsApp Image 2024-07-04 at 17.45.34](./WhatsApp Image 2024-07-04 at 17.45.34.jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.34.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.45.33 (2)](./WhatsApp Image 2024-07-04 at 17.45.33 (2).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.45.33_2.jpg" />
 
 Le ver disparaît. Ils réalisent que ce ver n'est pas une créature en soi, mais un appendice d'une entité bien plus grande.
 
@@ -222,53 +222,53 @@ Ils prennent un moment pour se reposer et décident d'explorer les petits couloi
 
 Ils avancent prudemment, ignorant des bruits d'eau derrière une porte. En regardant leur plan, ils comprennent qu'un couloir au sud rejoint un couloir d'éboulis rencontré plus tôt, où une infirmière avait été écrasée. Ils continuent vers le nord, et défoncent une porte derrière laquelle ils ont entendus du bruit, pour prendre leurs ennemis par surprise.
 
-![WhatsApp Image 2024-07-04 at 23.46.17](./WhatsApp Image 2024-07-04 at 23.46.17.jpeg)
+<img src="./WhatsAppImage2024-07-04at23.46.17.jpg" />
 
 À l'intérieur, des meubles brisés et des caisses retournées servent de cages improvisées. Sur l'une des caisses se trouve une goule ; un lit est posé verticalement avec un patient encore attaché dessus tandis que deux autres goules dévorent des cadavres. Surprises, les goules sont attaquées par nos joueurs. Une goule tombe et frappe le "cadavre" sur le lit qui se met à crier très fort.
 
-![WhatsApp Image 2024-07-04 at 17.49.00](./WhatsApp Image 2024-07-04 at 17.49.00.jpeg)
+<img src="./WhatsAppImage2024-07-04at17.49.00.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.48.59 (1)](./WhatsApp Image 2024-07-04 at 17.48.59 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.48.59_1.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.48.59](./WhatsApp Image 2024-07-04 at 17.48.59.jpeg)
+<img src="./WhatsAppImage2024-07-04at17.48.59.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.46.08 (2)](./WhatsApp Image 2024-07-04 at 17.46.08 (2).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.46.08_2.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.46.08 (1)](./WhatsApp Image 2024-07-04 at 17.46.08 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.46.08_1.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.46.08](./WhatsApp Image 2024-07-04 at 17.46.08.jpeg)
+<img src="./WhatsAppImage2024-07-04at17.46.08.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.46.07 (2)](./WhatsApp Image 2024-07-04 at 17.46.07 (2).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.46.07_2.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.46.07 (1)](./WhatsApp Image 2024-07-04 at 17.46.07 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.46.07_1.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.46.05 (2)](./WhatsApp Image 2024-07-04 at 17.46.05 (2).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.46.05_2.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.46.05 (1)](./WhatsApp Image 2024-07-04 at 17.46.05 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at17.46.05_1.jpg" />
 
-![WhatsApp Image 2024-07-04 at 17.46.05](./WhatsApp Image 2024-07-04 at 17.46.05.jpeg)
+<img src="./WhatsAppImage2024-07-04at17.46.05.jpg" />
 
-![Untitled (47)](./Untitled (47).png)
+<img src="./Untitled_47.png" />
 
-![WhatsApp Image 2024-07-05 at 00.03.01 (2)](./WhatsApp Image 2024-07-05 at 00.03.01 (2).jpeg)
+<img src="./WhatsAppImage2024-07-05at00.03.01_2.jpg" />
 
-![WhatsApp Image 2024-07-05 at 00.03.01 (3)](./WhatsApp Image 2024-07-05 at 00.03.01 (3).jpeg)
+<img src="./WhatsAppImage2024-07-05at00.03.01_3.jpg" />
 
 Nos joueurs montent sur les caisses, se bousculent et parviennent à éliminer rapidement les goules. Une fois le calme revenu, ils barricadent la porte pour un court repos dans cette pièce puante de viande avariée et de peau morte. Ils trouvent un jeune chien, à l'intérieur d'une des caisses, qu'ils nomment <i>Clebs</i>. Ils libèrent l'homme accroché au lit : Iskil, qui parle avec sa langue coincée dans sa bouche et semble effrayé par tout ce qui l'entoure. Ils finissent par le bâillonner pour éviter qu'il ne crie. 
 
-![WhatsApp Image 2024-07-04 at 17.46.07](./WhatsApp Image 2024-07-04 at 17.46.07.jpeg)
+<img src="./WhatsAppImage2024-07-04at17.46.07.jpg" />
 
 Après s'être reposés, ils sortent et atteignent la tour. La pièce est calme avec une dizaine de rocking chairs tournés vers l'extérieur. Iskil installé dans un rocking chair face au mur, ils commencent à monter un escalier branlant jusqu'au premier étage.
 
-![WhatsApp Image 2024-07-04 at 17.46.06](./WhatsApp Image 2024-07-04 at 17.46.06.jpeg)
+<img src="./WhatsAppImage2024-07-04at17.46.06.jpg" />
 
-![Untitled (49)](./Untitled (49).png)
+<img src="./Untitled_49.png" />
 
 Là-haut, différentes parties des murs se sont effondrées. Cet étage comportait deux bureaux : celui d'un autre docteur et celui du docteur Cha'ad où ils trouvent des informations sur Zandalus. Un escalier en colimaçon monte vers un grenier beaucoup plus haut.
 
-![WhatsApp Image 2024-07-05 at 00.03.02](./WhatsApp Image 2024-07-05 at 00.03.02.jpeg)
+<img src="./WhatsAppImage2024-07-05at00.03.02.jpg" />
 
-![Untitled (50)](./Untitled (50).png)
+<img src="./Untitled_50.png" />
 
 En haut de cet escalier sans fin apparente, ils arrivent dans une pièce sans murs, ouverte sur l'extérieur avec des étagères flottantes remplies de livres du docteur Cha'ad représentant son esprit et ses connaissances. La vue à 360 degrés révèle une immense ville grise et vide dans un brouillard jaunâtre : la même ville vue dans leurs rêves depuis le début.
 
@@ -276,9 +276,9 @@ En haut de cet escalier sans fin apparente, ils arrivent dans une pièce sans mu
 
 Au centre de la pièce se trouve le docteur Cha'ad agenouillé avec du brouillard s’échappant incessamment de sa gorge. Nos personnages comprennent que la psyché de Zandalus a été brisée après avoir récupéré un artefact avec le docteur Mairtmane il y a longtemps dans une expédition à l'autre bout du monde. Il a été interné ici à Rochépine, et est sujets à des cauchemars terrifiants et récurrents.
 
-![WhatsApp Image 2024-07-05 at 00.03.03](./WhatsApp Image 2024-07-05 at 00.03.03.jpeg)
+<img src="./WhatsAppImage2024-07-05at00.03.03.jpg" />
 
-![WhatsApp Image 2024-07-04 at 23.46.25 (3)](./WhatsApp Image 2024-07-04 at 23.46.25 (3).jpeg)
+<img src="./WhatsAppImage2024-07-04at23.46.25_3.jpg" />
 
 Le docteur Cha'ad a essayé diverses thérapies sur Zandalus avant de découvrir que dessiner apaisait ses tourments. Zandalus a dessiné précisément la ville grise vue par nos joueurs : Carcosa. Convaincu par les visions de Zandalus, Cha'ad accepte que son corps devienne un vaisseau pour faire sortir les rêves de Zandalus dans le monde réel.
 
@@ -286,9 +286,9 @@ Nos personnages comprennent alors que deux entités existent : Zandalus dans le 
 
 Décidés à économiser la bombe donnée par Elborn, nos personnages jettent le corps du docteur Cha'ad depuis le sommet de la tour, provoquant une explosion d'énergie nécrotique qui détruit le roi des goules et plusieurs autres goules au rez-de-chaussée, qui s'étaient mises en embuscade.
 
-![WhatsApp Image 2024-07-04 at 23.46.26 (1)](./WhatsApp Image 2024-07-04 at 23.46.26 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at23.46.26_1.jpg" />
 
-![WhatsApp Image 2024-07-04 at 23.46.25 (2)](./WhatsApp Image 2024-07-04 at 23.46.25 (2).jpeg)
+<img src="./WhatsAppImage2024-07-04at23.46.25_2.jpg" />
 
 Deux goules restantes sont facilement éliminées par nos héros qui descendent ensuite au rez-de-chaussée où ils constatent que leur action a restauré la réalité autour d'eux : ils sont maintenant dans une salle d'archives banale remplie de livres sans intérêt. Le pauvre Iskil n'a malheureusement pas survécu à l'explosion nécrotique.
 
@@ -296,73 +296,73 @@ Sur le cadavre du docteur Cha'ad, ils ne trouvent plus que sa robe jaune brumeus
 
 Ils discutent du chemin à prendre pour retourner chez les apôtres en Orpiment. Craignant le couloir habité par le ver géants et les goules, ils décident de traverser la forêt noire. 
 
-![WhatsApp Image 2024-07-04 at 23.46.26 (3)](./WhatsApp Image 2024-07-04 at 23.46.26 (3).jpeg)
+<img src="./WhatsAppImage2024-07-04at23.46.26_3.jpg" />
 
-![Untitled (44)](./Untitled (44).png)
+<img src="./Untitled_44.png" />
 
 Robin, avec sa perception affûtée, aperçoit un artefact familial (les fameux "bijoux de famille") à l'écart du chemin, qui le fait s'aventurer un peu à l'écart du groupe. Ce qu'il a vu s'avère n'être qu'une illusion, et il a entre les mains une plante épineuse qui commence à s'enrouler autour de ses bras et de ses jambes.
 
-![WhatsApp Image 2024-07-05 at 00.03.04](./WhatsApp Image 2024-07-05 at 00.03.04.jpeg)
+<img src="./WhatsAppImage2024-07-05at00.03.04.jpg" />
 
-![WhatsApp Image 2024-07-05 at 00.03.03 (3)](./WhatsApp Image 2024-07-05 at 00.03.03 (3).jpeg)
+<img src="./WhatsAppImage2024-07-05at00.03.03_3.jpg" />
 
-![WhatsApp Image 2024-07-05 at 00.03.03 (2)](./WhatsApp Image 2024-07-05 at 00.03.03 (2).jpeg)
+<img src="./WhatsAppImage2024-07-05at00.03.03_2.jpg" />
 
-![WhatsApp Image 2024-07-04 at 23.46.22 (1)](./WhatsApp Image 2024-07-04 at 23.46.22 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at23.46.22_1.jpg" />
 
-![WhatsApp Image 2024-07-04 at 23.46.23 (3)](./WhatsApp Image 2024-07-04 at 23.46.23 (3).jpeg)
+<img src="./WhatsAppImage2024-07-04at23.46.23_3.jpg" />
 
-![WhatsApp Image 2024-07-04 at 23.46.24 (1)](./WhatsApp Image 2024-07-04 at 23.46.24 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at23.46.24_1.jpg" />
 
-![WhatsApp Image 2024-07-04 at 23.46.24 (2)](./WhatsApp Image 2024-07-04 at 23.46.24 (2).jpeg)
+<img src="./WhatsAppImage2024-07-04at23.46.24_2.jpg" />
 
-![WhatsApp Image 2024-07-04 at 23.46.25](./WhatsApp Image 2024-07-04 at 23.46.25.jpeg)
+<img src="./WhatsAppImage2024-07-04at23.46.25.jpg" />
 
-![WhatsApp Image 2024-07-04 at 23.46.26 (2)](./WhatsApp Image 2024-07-04 at 23.46.26 (2).jpeg)
+<img src="./WhatsAppImage2024-07-04at23.46.26_2.jpg" />
 
 L'arbre voisin prend également vie et tente de l'attraper. Ses compagnons arrivent à la rescousse et coupent les liens avant que les ronces qui ont déjà commencé à s'infiltrer dans le nez et la gorge de Robin ne l'étouffent. S'ensuit alors une course dans le noir au travers des arbres, qui se rapprochent des personnages pour les faire tomber, jusqu'à la lumière de la barricade. Robin chute à nouveau, mais Miranda et Jaspe le relèvent et l’emmènent jusqu'à destination.
 
-![WhatsApp Image 2024-07-04 at 23.46.22 (2)](./WhatsApp Image 2024-07-04 at 23.46.22 (2).jpeg)
+<img src="./WhatsAppImage2024-07-04at23.46.22_2.jpg" />
 
-![WhatsApp Image 2024-07-04 at 23.46.19 (1)](./WhatsApp Image 2024-07-04 at 23.46.19 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at23.46.19_1.jpg" />
 
-![WhatsApp Image 2024-07-04 at 23.46.22](./WhatsApp Image 2024-07-04 at 23.46.22.jpeg)
+<img src="./WhatsAppImage2024-07-04at23.46.22.jpg" />
 
 Les gardes sur la barricades prennent les PJs pour des goules et commencent à tirer sur eux. Jaspe tient en main des documents médicaux de Zandalus, et parvient à les distraire assez longtemps pour enjamber la barricade et se mettre à l'abri à l'intérieur pendant que les carreaux pleuvent derrière eux, forçant les arbres et les quelques goules à battre en retraite, dans l'obscurité de la cour intérieur.
 
-![WhatsApp Image 2024-07-05 at 00.03.04 (1)](./WhatsApp Image 2024-07-05 at 00.03.04 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at00.03.04_1.jpg" />
 
-![WhatsApp Image 2024-07-04 at 23.46.23 (2)](./WhatsApp Image 2024-07-04 at 23.46.23 (2).jpeg)
+<img src="./WhatsAppImage2024-07-04at23.46.23_2.jpg" />
 
-![WhatsApp Image 2024-07-04 at 23.46.23 (1)](./WhatsApp Image 2024-07-04 at 23.46.23 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at23.46.23_1.jpg" />
 
-![WhatsApp Image 2024-07-04 at 23.46.23](./WhatsApp Image 2024-07-04 at 23.46.23.jpeg)
+<img src="./WhatsAppImage2024-07-04at23.46.23.jpg" />
 
-![WhatsApp Image 2024-07-04 at 23.46.22 (3)](./WhatsApp Image 2024-07-04 at 23.46.22 (3).jpeg)
+<img src="./WhatsAppImage2024-07-04at23.46.22_3.jpg" />
 
 La partie s'achève alors que Madame Aggra arrive pour voir la source de tout ce tumulte.
 
-![WhatsApp Image 2024-07-05 at 00.03.05 (1)](./WhatsApp Image 2024-07-05 at 00.03.05 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at00.03.05_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 00.03.05](./WhatsApp Image 2024-07-05 at 00.03.05.jpeg)
+<img src="./WhatsAppImage2024-07-05at00.03.05.jpg" />
 
-![WhatsApp Image 2024-07-05 at 00.03.04 (4)](./WhatsApp Image 2024-07-05 at 00.03.04 (4).jpeg)
+<img src="./WhatsAppImage2024-07-05at00.03.04_4.jpg" />
 
-![WhatsApp Image 2024-07-05 at 00.03.04 (3)](./WhatsApp Image 2024-07-05 at 00.03.04 (3).jpeg)
+<img src="./WhatsAppImage2024-07-05at00.03.04_3.jpg" />
 
-![WhatsApp Image 2024-07-05 at 00.03.04 (2)](./WhatsApp Image 2024-07-05 at 00.03.04 (2).jpeg)
+<img src="./WhatsAppImage2024-07-05at00.03.04_2.jpg" />
 
-![WhatsApp Image 2024-07-04 at 23.46.19 (2)](./WhatsApp Image 2024-07-04 at 23.46.19 (2).jpeg)
+<img src="./WhatsAppImage2024-07-04at23.46.19_2.jpg" />
 
-![WhatsApp Image 2024-07-04 at 23.46.19](./WhatsApp Image 2024-07-04 at 23.46.19.jpeg)
+<img src="./WhatsAppImage2024-07-04at23.46.19.jpg" />
 
-![WhatsApp Image 2024-07-04 at 23.46.18 (2)](./WhatsApp Image 2024-07-04 at 23.46.18 (2).jpeg)
+<img src="./WhatsAppImage2024-07-04at23.46.18_2.jpg" />
 
-![WhatsApp Image 2024-07-04 at 23.46.18 (1)](./WhatsApp Image 2024-07-04 at 23.46.18 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at23.46.18_1.jpg" />
 
-![WhatsApp Image 2024-07-04 at 23.46.18](./WhatsApp Image 2024-07-04 at 23.46.18.jpeg)
+<img src="./WhatsAppImage2024-07-04at23.46.18.jpg" />
 
-![WhatsApp Image 2024-07-04 at 23.46.17 (1)](./WhatsApp Image 2024-07-04 at 23.46.17 (1).jpeg)
+<img src="./WhatsAppImage2024-07-04at23.46.17_1.jpg" />
 
 
 
