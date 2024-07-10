@@ -432,27 +432,27 @@
     "players": "Maud, Samir, Traz, Tut",
     "sessions": [
       {
-        "name": "Day One",
+        "name": "Jour Un",
         "date": "2024-07-01",
         "players": "Maud, Samir, Tut"
       },
       {
-        "name": "Day Two",
+        "name": "Jour Deux",
         "date": "2024-07-02",
         "players": "Maud, Samir, Traz, Tut"
       },
       {
-        "name": "Day Three",
+        "name": "Jour Trois",
         "date": "2024-07-03",
         "players": "Maud, Traz, Tut"
       },
       {
-        "name": "Day Four",
+        "name": "Jour Quatre",
         "date": "2024-07-04",
         "players": "Maud, Traz, Tut"
       },
       {
-        "name": "Day Five",
+        "name": "Jour Cinq",
         "date": "2024-07-05",
         "players": "Maud, Traz, Tut"
       }
