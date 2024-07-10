@@ -4,189 +4,189 @@ Les personnages cherchent le docteur Elborn des yeux mais se rendent compte que 
 
 Inquiets pour Sœur Daphné, ils montent au premier étage où ils découvrent une salle remplie de fauteils et de canapés éventrés. Sur les murs, d'autres cadavres sont crucifiés, la tête recouverte d'un sac en toile de jute. Parmis les tapis et coussins, ils voient aussi des cerceuils et autres vierges de fer. Même si la décoration de la pièce est étrange et le mobilier brisé, il n'en reste pas moins bien plus confortable que ce que les survivants au rez-de-chaussé ont.
 
-![WhatsApp Image 2024-07-05 at 12.55.15 (2)](./WhatsApp Image 2024-07-05 at 12.55.15 (2).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.15_2.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.15 (1)](./WhatsApp Image 2024-07-05 at 12.55.15 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.15_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.16 (1)](./WhatsApp Image 2024-07-05 at 12.55.16 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.16_1.jpg" />
 
 Dans une pièce adjacente, trois apôtres en orpiment, à genoux sur le sol, les bras le long du corps et la tête en arrière émettent un épais brouillard jaune qui sort de leur bouche. Ils sont placés en cercle, dos à dos. 
 
 Le mur Nord de la pièce est entièrement brisé et semble donner sur une ville grise, s'étendant à perte de vue. Des colonnes soutiennent le plafond, et la pièce donne la sensation d'être déjà à moitié dans une autre dimension.
 
-![Untitled (52)](./Untitled (52).png)
+<img src="./Untitled_52.png" />
 
 Pendant que Madame Aggra cherche dans une malle la "récompense" des PJs, Robin lance la bombe fournie par le docteur Elborn sur les trois apotres de la salle d'à côté, pile au moment où Madame Aggra sort 3 sacs en toile de jute pour les PJs. La bombe explose, tuant les trois apotres, mais transformant leur corps en un amalgame de chair et de tentacules étranges semblant venir d'un autre monde.
 
-![WhatsApp Image 2024-07-05 at 12.55.26 (1)](./WhatsApp Image 2024-07-05 at 12.55.26 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.26_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.17 (1)](./WhatsApp Image 2024-07-05 at 12.55.17 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.17_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.17 (2)](./WhatsApp Image 2024-07-05 at 12.55.17 (2).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.17_2.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.18 (1)](./WhatsApp Image 2024-07-05 at 12.55.18 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.18_1.jpg" />
 
 Madame Aggra attaque avec son hachoir, alors que les cadavres accrochés aux murs s'animent et s'en prennent aux PJs. Ils arrachent le sac qui est sur leur tête, révélant qu'ils ne sont fait que d'un mélange de brouillard et de rembourrage de canapé et la vision d'horreur qu'ils infligent aux personnages forcent ceux-ci à reculer ou rester sur place.
 
-![WhatsApp Image 2024-07-05 at 12.55.20](./WhatsApp Image 2024-07-05 at 12.55.20.jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.20.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.19 (2)](./WhatsApp Image 2024-07-05 at 12.55.19 (2).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.19_2.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.19](./WhatsApp Image 2024-07-05 at 12.55.19.jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.19.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.19 (1)](./WhatsApp Image 2024-07-05 at 12.55.19 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.19_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.17](./WhatsApp Image 2024-07-05 at 12.55.17.jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.17.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.16](./WhatsApp Image 2024-07-05 at 12.55.16.jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.16.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.18](./WhatsApp Image 2024-07-05 at 12.55.18.jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.18.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.20 (1)](./WhatsApp Image 2024-07-05 at 12.55.20 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.20_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.21](./WhatsApp Image 2024-07-05 at 12.55.21.jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.21.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.22 (2)](./WhatsApp Image 2024-07-05 at 12.55.22 (2).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.22_2.jpg" />
 
-![WhatsApp Image 2024-07-05 at 14.34.58](./WhatsApp Image 2024-07-05 at 14.34.58.jpeg)
+<img src="./WhatsAppImage2024-07-05at14.34.58.jpg" />
 
-![WhatsApp Image 2024-07-05 at 14.34.59 (1)](./WhatsApp Image 2024-07-05 at 14.34.59 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at14.34.59_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 14.35.00](./WhatsApp Image 2024-07-05 at 14.35.00.jpeg)
+<img src="./WhatsAppImage2024-07-05at14.35.00.jpg" />
 
 Le combat continue sur un autel en pierre, entre Miranda et Madame Aggra (dont le hachoir semble briller d'énergie nécrotique). Jaspe est coincé sur le dessus d'un canapé, le dos au mur, et envoie plusieurs décharges d'énergie électrique dans les montres. Le décor explose autour d'eux, et Madame Aggra finit par succomber, tombant dans un engin de torture qu'elle avait laissé derrière elle.
 
-![WhatsApp Image 2024-07-05 at 12.55.24](./WhatsApp Image 2024-07-05 at 12.55.24.jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.24.jpg" />
 
-![WhatsApp Image 2024-07-05 at 14.35.01 (1)](./WhatsApp Image 2024-07-05 at 14.35.01 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at14.35.01_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 14.35.01 (2)](./WhatsApp Image 2024-07-05 at 14.35.01 (2).jpeg)
+<img src="./WhatsAppImage2024-07-05at14.35.01_2.jpg" />
 
 Les joueurs concentrent alors leurs efforts sur la créature d'outre-monde qui s'approche d'eux. Elle avance en rampant sur les murs et le plafond, et tente d'attraper tous ce qui se trouve à portée avec ses tentacules; mobilier, épouvantails, PJs, tout y passe. 
 
-![WhatsApp Image 2024-07-05 at 14.34.59](./WhatsApp Image 2024-07-05 at 14.34.59.jpeg)
+<img src="./WhatsAppImage2024-07-05at14.34.59.jpg" />
 
-![WhatsApp Image 2024-07-05 at 14.34.58 (1)](./WhatsApp Image 2024-07-05 at 14.34.58 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at14.34.58_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.26](./WhatsApp Image 2024-07-05 at 12.55.26.jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.26.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.25](./WhatsApp Image 2024-07-05 at 12.55.25.jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.25.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.24 (2)](./WhatsApp Image 2024-07-05 at 12.55.24 (2).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.24_2.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.24 (1)](./WhatsApp Image 2024-07-05 at 12.55.24 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.24_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.23](./WhatsApp Image 2024-07-05 at 12.55.23.jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.23.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.22](./WhatsApp Image 2024-07-05 at 12.55.22.jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.22.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.22 (1)](./WhatsApp Image 2024-07-05 at 12.55.22 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.22_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 14.35.00 (1)](./WhatsApp Image 2024-07-05 at 14.35.00 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at14.35.00_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 14.35.01](./WhatsApp Image 2024-07-05 at 14.35.01.jpeg)
+<img src="./WhatsAppImage2024-07-05at14.35.01.jpg" />
 
 Les joueurs parviennent finalement à en venir à bout, mais ils n'ont pas le temps de se reposer, car l'un des épouvantails à pu aller chercher de l'aide au premier étage, et c'est Zandalus lui même qui descends. 
 
-![WhatsApp Image 2024-07-05 at 12.55.28](./WhatsApp Image 2024-07-05 at 12.55.28.jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.28.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.27](./WhatsApp Image 2024-07-05 at 12.55.27.jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.27.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.26 (2)](./WhatsApp Image 2024-07-05 at 12.55.26 (2).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.26_2.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.29](./WhatsApp Image 2024-07-05 at 12.55.29.jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.29.jpg" />
 
 Quand il s'approche des PJs, ceux-ci se sentent happés dans leurs propres cauchemars. Les murs de la pièce disparaissent, et les PJs se retrouvent dans un immense ciel étoilé, au milieu de l'espace insondable. Miranda et Robin s'évanouissent sur le sol.
 
-![WhatsApp Image 2024-07-05 at 14.35.02 (2)](./WhatsApp Image 2024-07-05 at 14.35.02 (2).jpeg)
+<img src="./WhatsAppImage2024-07-05at14.35.02_2.jpg" />
 
-![Untitled (53)](./Untitled (53).png)
+<img src="./Untitled_53.png" />
 
 Ils se réveillent dans une pièce aux exactes mêmes dimensions que celle où ils étaient, mais au mobilier complètement différents. Des lits sont en vrac dans la pièce à la place des canapés, des bureaux de médecin remplaces les chaises, et l'Homme-En-Lambeaux, la figure de leurs cauchemars, remplace Zandalus.
 
-![WhatsApp Image 2024-07-05 at 14.35.02 (3)](./WhatsApp Image 2024-07-05 at 14.35.02 (3).jpeg)
+<img src="./WhatsAppImage2024-07-05at14.35.02_3.jpg" />
 
-![WhatsApp Image 2024-07-05 at 14.35.02](./WhatsApp Image 2024-07-05 at 14.35.02.jpeg)
+<img src="./WhatsAppImage2024-07-05at14.35.02.jpg" />
 
-![WhatsApp Image 2024-07-05 at 14.35.02 (1)](./WhatsApp Image 2024-07-05 at 14.35.02 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at14.35.02_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.33 (1)](./WhatsApp Image 2024-07-05 at 12.55.33 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.33_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.30 (1)](./WhatsApp Image 2024-07-05 at 12.55.30 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.30_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.30](./WhatsApp Image 2024-07-05 at 12.55.30.jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.30.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.28 (2)](./WhatsApp Image 2024-07-05 at 12.55.28 (2).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.28_2.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.28 (1)](./WhatsApp Image 2024-07-05 at 12.55.28 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.28_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.15](./WhatsApp Image 2024-07-05 at 12.55.15.jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.15.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.12](./WhatsApp Image 2024-07-05 at 12.55.12.jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.12.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.31 (1)](./WhatsApp Image 2024-07-05 at 12.55.31 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.31_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 14.35.04 (1)](./WhatsApp Image 2024-07-05 at 14.35.04 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at14.35.04_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 14.35.05 (3)](./WhatsApp Image 2024-07-05 at 14.35.05 (3).jpeg)
+<img src="./WhatsAppImage2024-07-05at14.35.05_3.jpg" />
 
 Dans le monde réel, Jaspe lance une nuée de projectiles magiques contre Zandalus, crevant sa peau comme un ballon de baudruche et laissant s'échapper à la place des volutes de fumées qui prennent forme humaine. Dans le monde des rêves, Miranda voit les formes spectrales de personnes qu'ils ont rencontrés apparaître à l'emplacement occupé par les volutes de fumées dans le monde réel.
 
-![WhatsApp Image 2024-07-05 at 12.55.13](./WhatsApp Image 2024-07-05 at 12.55.13.jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.13.jpg" />
 
 
 
 Jaspe réveille Robin pour qu'il l'aide au combat contre Zandalus, et celui-ci allume une chandelle magique qu'ils avaient trouvés dans le bureau de Losandro. La chandelle permet de créer un champ de force qui empeche les créatures éthérées de le traverser. Cela a pour effet de bloquer l'arrivée des spectres de brume autour de Jaspe et Robin, mais n'empeche pas Zandalus d'approcher.
 
-![WhatsApp Image 2024-07-05 at 12.55.11 (1)](./WhatsApp Image 2024-07-05 at 12.55.11 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.11_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.11](./WhatsApp Image 2024-07-05 at 12.55.11.jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.11.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.11 (2)](./WhatsApp Image 2024-07-05 at 12.55.11 (2).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.11_2.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.32](./WhatsApp Image 2024-07-05 at 12.55.32.jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.32.jpg" />
 
-![WhatsApp Image 2024-07-05 at 14.35.05 (2)](./WhatsApp Image 2024-07-05 at 14.35.05 (2).jpeg)
+<img src="./WhatsAppImage2024-07-05at14.35.05_2.jpg" />
 
 Dans le monde des rêves, Miranda se fait attaquer par de plus en plus de créatures, car à chaque fois que Zandalus est blessé, cela fait apparaitre une créature dans le monde des rêves.
 
-![WhatsApp Image 2024-07-05 at 14.35.05](./WhatsApp Image 2024-07-05 at 14.35.05.jpeg)
+<img src="./WhatsAppImage2024-07-05at14.35.05.jpg" />
 
-![WhatsApp Image 2024-07-05 at 14.35.05 (1)](./WhatsApp Image 2024-07-05 at 14.35.05 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at14.35.05_1.jpg" />
 
  Le monde autour d'elle semble aussi se modifier, transformant le décor d'asile avec ses lits et ses chaises et une foret sombre où les arbres semblent se rapprocher d'elle. 
 
 Finalement, Jaspe parvient à infliger un dégat à Miranda, ce qui la force à se relever.
 
-![WhatsApp Image 2024-07-05 at 14.35.06 (4)](./WhatsApp Image 2024-07-05 at 14.35.06 (4).jpeg)
+<img src="./WhatsAppImage2024-07-05at14.35.06_4.jpg" />
 
-![WhatsApp Image 2024-07-05 at 14.35.06 (2)](./WhatsApp Image 2024-07-05 at 14.35.06 (2).jpeg)
+<img src="./WhatsAppImage2024-07-05at14.35.06_2.jpg" />
 
-![WhatsApp Image 2024-07-05 at 14.35.06 (1)](./WhatsApp Image 2024-07-05 at 14.35.06 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at14.35.06_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 14.35.06](./WhatsApp Image 2024-07-05 at 14.35.06.jpeg)
+<img src="./WhatsAppImage2024-07-05at14.35.06.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.35 (1)](./WhatsApp Image 2024-07-05 at 12.55.35 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.35_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.34 (1)](./WhatsApp Image 2024-07-05 at 12.55.34 (1).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.34_1.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.33 (3)](./WhatsApp Image 2024-07-05 at 12.55.33 (3).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.33_3.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.33 (2)](./WhatsApp Image 2024-07-05 at 12.55.33 (2).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.33_2.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.33](./WhatsApp Image 2024-07-05 at 12.55.33.jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.33.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.31 (2)](./WhatsApp Image 2024-07-05 at 12.55.31 (2).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.31_2.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.34 (3)](./WhatsApp Image 2024-07-05 at 12.55.34 (3).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.34_3.jpg" />
 
 Ensemble, ils infligent suffisamment de dégâts à Zandalus pour le vaincre définitivement. Une déflagration supprime tous les fantômes éthérés et aspire l'Homme-En-Lambeaux à la place qui était occupée par Zandalus. Celui-ci semble désorienté dans ce monde étranger et nos héros profitent de ce moment pour concentrer leurs attaques sur lui et le réduire en charpie.
 
-![WhatsApp Image 2024-07-05 at 14.35.05 (4)](./WhatsApp Image 2024-07-05 at 14.35.05 (4).jpeg)
+<img src="./WhatsAppImage2024-07-05at14.35.05_4.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.35 (2)](./WhatsApp Image 2024-07-05 at 12.55.35 (2).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.35_2.jpg" />
 
-![WhatsApp Image 2024-07-05 at 12.55.34 (2)](./WhatsApp Image 2024-07-05 at 12.55.34 (2).jpeg)
+<img src="./WhatsAppImage2024-07-05at12.55.34_2.jpg" />
 
 Et c'est ainsi que nos personnages victorieux terminent cette aventure épique \o/.
 
@@ -202,6 +202,6 @@ Tout le monde attends au bord de l'embarcadère. Les plus mal en point sont enve
 
 C'est ici que s'achève le premier volet de notre histoire. La totalité du groupe a aimé l'expérience et nous avons tous passé un très bon moment. Au final on a du jouer ~35h en une semaine, mais aucun de nous n'a vu le temps passer. On est tous chauds pour faire le deuxième volet dans un an ou deux, sur le même principe.
 
-![WhatsApp Image 2024-07-06 at 10.25.12](./WhatsApp Image 2024-07-06 at 10.25.12.jpeg)
+<img src="./WhatsAppImage2024-07-06at10.25.12.jpg" />
 
-![image-20240709111218768](./image-20240709111218768.png)
+<img src="./image-20240709111218768.png" />
