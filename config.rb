@@ -239,7 +239,7 @@ helpers do
 
   def cloudinary(url, options)
     return url unless build?
-    base_url = 'http://res.cloudinary.com/pixelastic-roleplay/image/fetch/'
-    "#{base_url}#{options.join(',')}/http://roleplay.pixelastic.com#{url}"
+    base_url = 'https://res.cloudinary.com/pixelastic-roleplay/image/fetch/'
+    "#{base_url}#{options.join(',')}/https://roleplay.pixelastic.com#{url}"
   end
 end
