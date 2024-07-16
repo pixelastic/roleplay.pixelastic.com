@@ -3,6 +3,8 @@ Zandalus et l'Homme-En-Lambeaux. Ils combattront Madame Aggra, ses gardes
 épouvantails, un monstre tentaculaire sorti de leurs pires cauchemars, et iront
 même se battre directement dans le royaume des rêves.
 
+---
+
 Madame Aggra arrive avec ses gardes, nue avec un masque en os et un hachoir
 ensanglanté. Elle examine les documents fourni par Jaspe, et (après avoir
 demandé confirmation à un de ses acolytes car elle ne sait pas lire), les fait

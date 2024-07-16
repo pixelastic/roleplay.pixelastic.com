@@ -4,6 +4,8 @@ d'émerger dans des couloirs en ruine peuplés de cafards géants et de
 changeformes. Ils finiront par récupérer les têtes de 3 d'entre eux, avant de
 pouvoir enfin entrer dans la chapelle tenue par les survivants.
 
+---
+
 
 En 2024, notre ancien groupe de jeu de rôle s'est retrouvé pendant une semaine à Nantes, chez nous. Chacun a posé une semaine de vacances, et nous avons fait un marathon de 5 jours, pour jouer le module Pathfinder "In Search of Sanity". On a joué la journée, environ de 10h à 18H, avec une pause le midi. Ces quelques pages sont un résumé de l'aventure, jour après jour.
 
@@ -63,7 +65,7 @@ Dehors, ils voient une cour boueuse entourée de murs gris avec des brumes jaune
 
 <div class="img-left">
     <img class="h5 br2 mr2" src="./Untitled_3.png" />
-    <p>À l'intérieur, ils s'avancent dans un long couloir. Au Nord, ils entendent des cris de douleur se répercuter contre les murs de l'asile. Au Sur, un garde nommé Lucellin les tient en joue depuis une barricade de fortune qui bloque le couloir. Lucellin appelle le capitaine Vaustin, un nain bourru, et celui-ci ne fait pas confiance aux joueurs. Il les soupçonne d'être des changeformes déguisés et exige qu'ils ramène la tête de trois "d'entre eux" pour qu'il accepte de les laisser passer.</p>
+    <p>À l'intérieur, ils s'avancent dans un long couloir. Au Nord, ils entendent des cris de douleur se répercuter contre les murs de l'asile. Au Sud, un garde nommé Lucellin les tient en joue depuis une barricade de fortune qui bloque le couloir. Lucellin appelle le capitaine Vaustin, un nain bourru, et celui-ci ne fait pas confiance aux joueurs. Il les soupçonne d'être des changeformes déguisés et exige qu'ils ramène la tête de trois "d'entre eux" pour qu'il accepte de les laisser passer.</p>
 </div>
 
 <div class="img-gallery">

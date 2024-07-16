@@ -4,6 +4,8 @@ qu'ils traversent avec un pont fait avec le mobilier. Ils combattent plusieurs
 cultistes, ainsi qu'un petit garçon et ses couvertures animées dans une pièce
 plongée dans le noir.
 
+---
+
 
 <i>Samir ayant du nous quitter en cours de route, le reste de l'aventure se fera avec uniquement 3 joueurs.</i>
 
